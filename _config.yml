@@ -11,7 +11,7 @@ gems:
 #url: "https://shmiko.github.io"
 url: "blog.tripstomp.com"
 
-baseurl: ""
+#baseurl: ""
 
 google-tracking-id: "UA-54288087-1"
 
