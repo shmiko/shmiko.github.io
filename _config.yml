@@ -1,0 +1,180 @@
+
+# Site settings
+# Gems
+gems:
+  - jekyll-paginate
+  - jemoji
+  - jekyll-redirect-from
+  - jekyll-sitemap
+  - jekyll-feed
+
+#url: "https://shmiko.github.io"
+url: "blog.tripstomp.com"
+
+baseurl: ""
+
+google-tracking-id: "UA-54288087-1"
+
+force-https: False
+
+#############
+# HTML Head #
+#############
+
+lang: "en"
+author: "Paul Jones"
+title: "TripStomp"
+description: "Tripstomp Blog, mainly about Travel, Development & Learning. Opinions are just mine."
+keywords: "paul, jones, tripstomp, Front-End, web, Developer, full-stack, software engineer"
+favicon: "/img/favicon.ico"
+404-img: "/img/tripstomp_trans_invert.png"
+
+################
+# Header layout #
+################
+
+black-favicon: "/img/favicon.ico"
+background-img: "../img/NewYorkCentralParkScene5.jpg"
+me-img: "/img/tripstomplogo.png"
+
+##############################
+# Dynamic Text on the Header #
+##############################
+
+dynamic-typing: True
+shuffle: True # Shuffle the lines.
+loop: True
+loop-count: False # Set False for infinite loop, or set any number for finite loop.
+type-speed: 10
+start-delay: 200
+delete-delay: 5000
+lines: # You can add HTML Tags in the Text
+  - text: "Unravel the 6 stages of Travel."
+  - text: "Why live life on the edge when you can jump off?"
+  - text: "You're never too old to start learning to code!"
+  - text: "Mistakes are only made when lesons aren't learnt."
+  - text: "Take you're laptop for a run and you could jog your memory."
+
+################
+# Web app mode #
+################
+
+web-app-mode: True
+
+# Icons for Web App mode
+
+icon-36p: "/img/web-app/icon-36p.png"
+icon-48p: "/img/web-app/icon-48p.png"
+icon-72p: "/img/web-app/icon-72p.png"
+icon-96p: "/img/web-app/icon-96p.png"
+icon-144p: "/img/web-app/icon-144p.png"
+icon-192p: "/img/web-app/icon-192p.png"
+
+########
+# Blog #
+########
+
+post-preview-words: 96
+
+paginate: 7
+
+email-share: True
+fb-share: True
+twitter-share: True
+linkedin-share: True
+reddit-share: True
+google-plus-share: True
+tumblr-share: True
+pinterest-share: True
+pocket-share: False
+vkontakte-share: False
+
+disqus-shortname: "calmapit"
+
+syntax-highlight: True
+
+###############
+# 2016 Travel #
+###############
+
+events:
+  - image: "/img/timeline/MonumentValleySnowTrees.jpg"
+    date: "January 18 2016"
+    description: "Monumnet Valley"
+  - image: "/img/timeline/AntelopeCanyon.jpg"
+    date: "January 13 2016"
+    description: "Antelope Canyon"
+  - image: "/img/timeline/LasVegas.png"
+    date: "January 11 2016"
+    description: "Las Vegas"
+
+# First image of the Timeline
+
+timeline-img: "/img/timeline/NewYork.jpg"
+
+###########
+# Contact #
+###########
+
+email: "pjones@calmapit.com"
+
+##################
+# Social Buttons #
+##################
+
+social:
+  - title: "facebook"
+    url: "https://facebook.com/calmapit"
+  - title: "twitter"
+    url: "https://twitter.com/shmiko"
+  - title: "github"
+    url: "https://github.com/shmiko"
+  - title: "linkedin"
+    url: "https://au.linkedin.com/in/jonespaulr"
+  - title: "instagram"
+    url: "https://instagram.com/shmikcom/"
+  - title: "flickr"
+    url: "https://www.flickr.com/photos/shmiko"
+  - title: "map"
+    url: "http://calmapit.com/"
+  - title: "plane"
+    url: "https://www.tripit.com/people/shmiko"
+  - title: "envelope"
+    url: "mailto:pjones@calmapit.com"
+  - title: "rss"
+    url: "/feed.xml"
+  - title: "google-plus"
+    url: "http://plus.google.com/u/0/105497065260169468916?prsrc=3"
+
+
+############
+# 404 page #
+############
+
+404-img: "/img/tripstomp_trans.png"
+
+################################################################################
+
+# NB! Tread carefully if you want to change the variables below this point!
+
+# Sections shown in the index page
+
+pages_list:
+  About: 'about'
+  Blog: 'latest-post'
+  Timeline: 'timeline'
+  Gallery: 'gallery'
+  Contact: 'contact'
+
+# Exclusion list from the generated _site
+
+exclude: ["LICENSE", "README.md", "scripts"]
+
+# Pagination path
+
+paginate_path: "blog/page:num/"
+
+# Enable minification SASS
+
+sass:
+  style: compressed
