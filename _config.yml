@@ -164,9 +164,9 @@ pages_list:
   Blog: 'latest-post'
   Timeline: 'timeline'
   # Gallery: 'gallery'
-  Contact: 'contact'
   Projects: 'projects'
-
+  Contact: 'contact'
+  
 # Exclusion list from the generated _site
 
 exclude: ["LICENSE", "README.md", "scripts"]
