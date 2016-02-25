@@ -163,8 +163,9 @@ pages_list:
   About: 'about'
   Blog: 'latest-post'
   Timeline: 'timeline'
-  Gallery: 'gallery'
+  # Gallery: 'gallery'
   Contact: 'contact'
+  Projects: 'projects'
 
 # Exclusion list from the generated _site
 
