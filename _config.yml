@@ -74,9 +74,9 @@ icon-192p: "/img/web-app/icon-192p.png"
 # Blog #
 ########
 
-post-preview-words: 96
+post-preview-words: 30
 
-paginate: 7
+paginate: 5
 
 email-share: True
 fb-share: True
@@ -163,10 +163,9 @@ pages_list:
   About: 'about'
   Blog: 'latest-post'
   Timeline: 'timeline'
-  # Gallery: 'gallery'
   Projects: 'projects'
   Contact: 'contact'
-  
+
 # Exclusion list from the generated _site
 
 exclude: ["LICENSE", "README.md", "scripts"]
