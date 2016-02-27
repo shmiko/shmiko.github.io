@@ -7,8 +7,6 @@ tags: [ 'javascript']
 ---
 
 
-<script src="https://gist.github.com/andyferra/2554919.js"></script>
-
 # Journey Into Javascript
 
 ## Basic Data types, Operators and Values
