@@ -35,7 +35,7 @@ Example (2,-1) represented visually on an x,y grid. x is first.
  |  
 3-  
  |  
-2-    .  
+2-      .  
  |  
 1-  .  
  |  
