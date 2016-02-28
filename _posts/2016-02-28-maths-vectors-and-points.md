@@ -40,7 +40,7 @@ Example (2,-1) represented visually on an x,y grid. x is first.
 1-  .
  |  
 0--|--|--|--|--|--|--|  
-   1  2  3  4  5  6  7  
+.. 1  2  3  4  5  6  7  
 
 this grid above should represent the points 1,1 and 2,2 as a vector this is [1,1] + [2,2]  
 
