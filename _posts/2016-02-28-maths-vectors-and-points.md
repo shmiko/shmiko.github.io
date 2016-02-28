@@ -10,7 +10,7 @@ tags: [ 'maths']
 ## Mathematics Vectors and Points
 
 
-1. A point is a location in space represented by co ordinates in space or the location.  
+1. A point is a location in space represented by coordinates in space or the location.  
 Written as (x,y) in a 2D environment or as (x,y,z) in a 3D environment.      
 Example (2,-1) represented visually on an x,y grid. x is first.  
 
@@ -21,4 +21,12 @@ Example (2,-1) represented visually on an x,y grid. x is first.
  [  
   2  
   4] indicating a movement of 2 points in the x direction and 4 points of movement in the y direction.  
+
+** Operations on Vectors  
+
+ - Addition using python - use __str function to print coordinates
+ my_vector = ([0,1] + [1,2])  
+ print my_vector gives (1,3)  
+
+ 
 
