@@ -44,5 +44,13 @@ Example (2,-1) represented visually on an x,y grid. x is first.
 
 this grid above should represent the points 1,1 and 2,2 as a vector this is [1,1] + [2,2]  
 
-     
+** Subtraction  
+
+([1,3] - [5,1]) = [-4,2]  
+
+** Scalar Multiplication  
+
+(2*[1,2]) = [2,4]  
+(-1/2[3,2,1]) = [-3/2,-1,-1/2]  
+
 
