@@ -28,5 +28,21 @@ Example (2,-1) represented visually on an x,y grid. x is first.
  my_vector = ([0,1] + [1,2])  
  print my_vector gives (1,3)  
 
- 
+ |  
+5-  
+ |  
+4-  
+ |  
+3-  
+ |  
+2-    .
+ |  
+1-  .
+ |  
+0--|--|--|--|--|--|--|  
+   1  2  3  4  5  6  7  
+
+this grid above should represent the points 1,1 and 2,2 as a vector this is [1,1] + [2,2]  
+
+     
 
