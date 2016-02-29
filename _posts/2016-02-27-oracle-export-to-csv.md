@@ -9,7 +9,7 @@ tags: [ 'oracle']
 
 ** Oracle PL/SQL Procedure to Export to CSV
 
-''''
+<pre><code>
     PROCEDURE Z2_TMP_FEES_TO_CSV( p_filename in varchar2, p_in_table in varchar2 )
     is
         l_output        utl_file.file_type;
@@ -62,4 +62,4 @@ tags: [ 'oracle']
            execute immediate 'alter session set nls_date_format=''dd-MON-yy'' ';
       raise;
    END Z2_TMP_FEES_TO_CSV;
-   ''''
+</pre></code>
