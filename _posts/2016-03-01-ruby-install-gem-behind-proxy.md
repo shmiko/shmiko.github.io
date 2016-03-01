@@ -7,7 +7,7 @@ tags: [ 'ruby on rails']
 ---
   
 
-** How to Install Ruby Gem behind a corperate proxy sepecially when your password contains special characters
+** How to Install Ruby Gem behind a corperate proxy sepecially when your password contains special characters  
 
 <pre><code>
   gem install --http-proxy http://johnsmith:F%40o%3Ao%21B%23ar%24@corperatefirewall.com.au:8080 rails --no-ri --no-rdoc
@@ -18,7 +18,7 @@ Convert @:!#$ into equivalent hexadecimal unicode using unum command.
 In this example @ becomes %40, : becomes %3A, and so on.  
 - F@o:o!B#ar$  
 Replace with:  
-- F%40o%3Ao%21B%23ar%24 
+- F%40o%3Ao%21B%23ar%24  
 
 OR  
 Rather than use the proxy within each gem install command you can set it this way:  
