@@ -10,7 +10,7 @@ tags: [ 'ruby on rails']
 ** How to Install Ruby Gem behind a corperate proxy sepecially when your password contains special characters
 
 <pre><code>
-  gem install --http-proxy http://johnsmith:Wg%40tf13@corperatefirewall.com.au:8080 rails --no-ri --no-rdoc
+  gem install --http-proxy http://johnsmith:F%40o%3Ao%21B%23ar%24@corperatefirewall.com.au:8080 rails --no-ri --no-rdoc
 </pre></code>
 
 The answer is to encode the special characters.  
@@ -23,5 +23,5 @@ Replace with:
 OR  
 Rather than use the proxy within each gem install command you can set it this way:  
 <pre><code>
-  export http_proxy="http://user:F%40o%3Ao%21B%23ar%24@server1.cyberciti.biz:3128/"
+  export http_proxy="http://user:F%40o%3Ao%21B%23ar%24@corperatefirewall.com.au:8080/"
 </pre></code>
