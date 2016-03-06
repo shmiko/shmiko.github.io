@@ -22,19 +22,25 @@
     </div>
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
-      <ul class="nav navbar-nav">
-        {% if page.section-type == "index" %}
+      <div class="nav navbar-nav">
+        <!-- {% if page.section-type == "index" %} -->
 
           <!-- Scroll to section for each page in index -->
-          {% for p in site.pages_list %}
-            <li>
-              <a class="page-scroll" href="#{{ p[1] }}"> {{p[0]}} </a>
-            </li>
-          {% endfor %}
+          <!-- {% for p in site.pages_list %} -->
 
-        {% else %}
+              <a class="page-scroll" href="#about"> about </a>
+              <a class="page-scroll" href="#latest-blog"> blog </a>
+              <a class="page-scroll" href="#timeline"> timeline </a>
+              <a class="page-scroll" href="#projects"> projects </a>
+              <a class="page-scroll" href="#contact"> contact </a>
+
+
+
+          <!-- {% endfor %} -->
+
+        <!-- {% else %} -->
           <!-- Blog, Post, Tag and Error pages -->
-          {% for p in site.pages_list %}
+          <!-- {% for p in site.pages_list %}
             <li>
             {% if p[1] == "latest-post" %}
               {% if page.url == "/blog/index.html" | prepend: {{site.baseurl}} %}
@@ -46,9 +52,9 @@
                 <a href="{{site.baseurl}}/#{{ p[1] }}"> {{p[0]}} </a>
             {% endif %}
             </li>
-          {% endfor %}
-        {% endif %}
-      </ul>
+          {% endfor %} -->
+        <!-- {% endif %} -->
+      </div>
     </div>
   </div>
 </nav>

@@ -30,13 +30,10 @@
           {% elsif page.section-type == "projects-p" %}
 
             {% include projects-p.html %}
+
           
-          {% elsif page.section-type == "contact" %}
+            {% endif %}
 
-              {% include contact.html %}
-
-
-          {% endif %}
 
         {% endfor %}
     {% include map.html %}
