@@ -9,7 +9,7 @@ tags: [ 'travel' ]
 # Travel Problems - Solutions?
 
 ## Problems that we can fix.
-### Plane boarding,Departing the plane & Collecting Baggage.  
+   Plane boarding,Departing the plane & Collecting Baggage.  
 
 
 - **Plane boarding.**   
