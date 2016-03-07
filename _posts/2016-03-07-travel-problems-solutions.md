@@ -6,9 +6,9 @@ categories: ['travel']
 tags: [ 'travel' ]
 ---
 
-# Travel Problems - Solutions
+# Travel Problems - Solutions?
 
-## Problems that we can fix
+## Problems that we can fix.
 
 - **Plane boarding.**   
 
