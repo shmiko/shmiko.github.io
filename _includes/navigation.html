@@ -22,19 +22,18 @@
     </div>
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
-      <div class="nav navbar-nav">
+      <ul class="nav navbar-nav">
         {% if page.section-type == "index" %}
 
           <!-- Scroll to section for each page in index -->
           {% for p in site.pages_list %}
-
-
-
-
+            <li>
+              <a class="page-scroll" href="#{{ p[1] }}"> {{p[0]}} </a>
+            </li>
           {% endfor %}
 
         {% else %}
-          Blog, Post, Tag and Error pages
+          <!-- Blog, Post, Tag and Error pages -->
           {% for p in site.pages_list %}
             <li>
             {% if p[1] == "latest-post" %}
@@ -49,7 +48,7 @@
             </li>
           {% endfor %}
         {% endif %}
-      </div>
+      </ul>
     </div>
   </div>
 </nav>
