@@ -2,10 +2,10 @@
 layout: post
 section-type: post
 title: Maths Magic Squares
-category: maths
+categories: ['maths']
 tags: [ 'maths']
 ---
-  
+
 
 ## Mathematics Tricks
 
@@ -107,9 +107,9 @@ Starting with a simple formula to fill in Magic Squares based on a 4 x 4 square 
 </table>
 
 **Instructions**    
- - Start at top left with 1, or Total - 34. 
+ - Start at top left with 1, or Total - 34.
  >Eg 130 total would require starting at 25 instead adding 24 to each cell which is the diffrence from 130 - 34 / 4 for each cell.  
-   
+
  - Filling in the diagonal cells only going right to left on the top and bottom rows and right to left for the middle rows.
  - When done go back to fill the blank cells with the missing numbers up to 16 going left to right on the bottom and top rows and right to left for the middle rows.  
  - All columns and rows with sum to total given.  
@@ -926,7 +926,7 @@ Lets try the formula to fill in Magic Squares based on a 4 x 4 square given 3 ra
      </th>
    </tr>
   </table>
-  
+
 **Instructions Formula 4**    
   -  
   -   
@@ -1135,4 +1135,3 @@ Lets try the formula to fill in Magic Squares based on a 4 x 4 square given 3 ra
       </th>
     </tr>
   </table>
-

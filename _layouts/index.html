@@ -22,6 +22,10 @@
 
             {% include latest-post.html %}
 
+          {% elsif page.section-type == "latrchive" %}
+
+              {% include latrchive.html %}
+
           {% elsif page.section-type == "timeline" %}
 
             {% include timeline.html %}
@@ -30,9 +34,9 @@
           {% elsif page.section-type == "projects-p" %}
 
             {% include projects-p.html %}
-          {% elsif page.section-type == "contact" %}
+          {% elsif page.section-type == "zontact" %}
 
-              {% include contact.html %}
+              {% include zontact.html %}
 
             {% endif %}
 

@@ -2,10 +2,10 @@
 layout: post
 section-type: post
 title: Maths Factorials
-category: maths
+categories: ['maths']
 tags: [ 'maths']
 ---
-  
+
 
 ## Mathematics Tricks
 
@@ -25,25 +25,25 @@ The factorial function (symbol: !) means to multiply a series of descending natu
   <tr>
     <td class="tg-hw0o">1</td>
     <td class="tg-hw0o">1 = 1!</td>
-    
+
   </tr>
   <tr>
     <td class="tg-0we2">2</td>
     <td class="tg-0we2">2 = 2!</td>
-  
+
   </tr>
   <tr>
     <td class="tg-hw0o">3</td>
     <td class="tg-hw0o">6 = 3!</td>
-  
+
   </tr>
   <tr>
     <td class="tg-0we2">4</td>
     <td class="tg-0we2">24 = 24!</td>
-  
+
   </tr>
 </table>
-    
+
 <table class="tg">
   <tr>
     <th class="tg-yw4l" colspan="5">Representing Factorials another way</th>

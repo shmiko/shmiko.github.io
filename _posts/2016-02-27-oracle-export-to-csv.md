@@ -2,10 +2,10 @@
 layout: post
 section-type: post
 title: Oracle PL/SQL Export to CSV
-category: database
+categories: ['database']
 tags: [ 'oracle']
 ---
-  
+
 
 ** Oracle PL/SQL Procedure to Export to CSV
 
@@ -55,7 +55,7 @@ tags: [ 'oracle']
        execute immediate 'alter session set nls_date_format=''dd-MON-yy'' ';
        --v_time_taken := TO_CHAR(TO_NUMBER((round((dbms_utility.get_time-l_start)/100, 6))));
        --IQ_EOM_REPORTING.EOM_INSERT_LOG(SYSTIMESTAMP ,sysdate,sysdate,'Z2_TMP_FEES_TO_CSV','CSV',p_in_table,v_time_taken,SYSTIMESTAMP,sCustomerCode);
-     
+
        --DBMS_OUTPUT.PUT_LINE('Z2_TMP_FEES_TO_CSV for ' || p_filename || ' saved in ' || sPath || ', data was from ' || p_in_table );
     exception
        when others then

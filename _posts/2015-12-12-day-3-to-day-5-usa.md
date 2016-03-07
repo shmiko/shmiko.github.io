@@ -2,7 +2,7 @@
 layout: post
 section-type: post
 title: USA Day 3 to Day 5
-category: travel
+categories: ['travel']
 tags: [ 'USA 2016 diary' ]
 ---
 

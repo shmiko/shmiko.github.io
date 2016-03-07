@@ -2,10 +2,10 @@
 layout: post
 section-type: post
 title: Maths Vectors and Points
-category: maths
+categories: ['maths']
 tags: [ 'maths']
 ---
-  
+
 
 ## Mathematics Vectors and Points
 

@@ -2,10 +2,10 @@
 layout: post
 section-type: post
 title: Maths Magic Guess Day Of Week
-category: maths
+categories: ['maths']
 tags: [ 'maths']
 ---
-  
+
 
 ## Mathematics Tricks
 
@@ -28,4 +28,3 @@ Jan   Feb   Mar Apr May Jun Jul Aug Sep Oct Nov Dec
 6(-1) 2(-1) 2   5   0   3   5   1   4   6   2   4  
 
 EXAMPLE To Follow Soon  
-

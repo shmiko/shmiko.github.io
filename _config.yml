@@ -76,7 +76,7 @@ icon-192p: "/img/web-app/icon-192p.png"
 
 post-preview-words: 30
 
-paginate: 5
+paginate: 10
 
 email-share: True
 fb-share: True
@@ -162,9 +162,10 @@ social:
 pages_list:
   About: 'about'
   Blog: 'latest-post'
-  Timeline: 'timeline'
+  Archive: 'latrchive'
   Projects: 'projects'
-  Contact: 'contact'
+  Timeline: 'timeline'
+  Contact: 'zontact'
 
 # Exclusion list from the generated _site
 

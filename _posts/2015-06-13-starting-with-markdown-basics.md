@@ -2,7 +2,7 @@
 layout: post
 section-type: post
 title: Starting with Markdown Basics
-category: tech
+categories: ['tech']
 tags: [ 'tutorial' ]
 ---
 
@@ -14,7 +14,7 @@ tags: [ 'tutorial' ]
 - Markdown is commonly used for README files on GitHub as well as for many blogging frameworks such as Jekyll.  
 - It is automatically converted to HTML whilst using simple punctuation syntax and characters and can be written in any text editor. You can also use an online editor such as [markable](http://markable.in/editor/), or even edit directly via [github](http://github.com).  
 - Files should be saved as .txt or the native format of .md</span>  
-     
+
 <hr />
 
 <pre><code></code></pre>

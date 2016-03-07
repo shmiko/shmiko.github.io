@@ -2,10 +2,10 @@
 layout: post
 section-type: post
 title: Maths Magic Fibonacci facts
-category: maths
+categories: ['maths']
 tags: [ 'maths']
 ---
-  
+
 
 ## Mathematics Tricks
 

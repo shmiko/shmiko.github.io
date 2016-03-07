@@ -1,0 +1,24 @@
+#!/usr/bin/env ruby
+
+require 'yaml'
+
+POSTS_DIR = '_posts/'
+CATEGORY_DIR = 'categories/'
+
+Dir.foreach(POSTS_DIR) do |post|
+
+  next if post == '.' or post == '..' or post == '.DS_Store'
+  postYaml = YAML.load_file(POSTS_DIR + post)
+  postYaml['categories'].each{|category|
+
+    unless File.exist?(CATEGORY_DIR + category + '.html')
+
+      puts('[+] Generating #' + category + ' page')
+
+      File.open(CATEGORY_DIR + category + '.html', 'w') {|f| f.write(
+      "---\nlayout: category\nsection-type: category\ntitle: " + category + "\n---\n## Category")}
+
+    end
+  }
+
+end

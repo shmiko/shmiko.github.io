@@ -1,5 +1,5 @@
 
-<!-- Tag Layout Start -->
+<!-- Category Layout Start -->
 
 <!DOCTYPE html>
 <html lang="{{ site.lang }}">
@@ -14,13 +14,13 @@
       <div class="row">
         <div class="col-md-10 col-md-offset-1 col-xs-10 col-xs-offset-1">
 
-          {% assign tag = page.title %}
+          {% assign category = page.title %}
 
-          <h3 id="#{{ tag }}">Posts with Tag #{{ tag }}</h3>
+          <h3 id="#{{ category }}">Posts in Category #{{ category }}</h3>
 
           <div>
             {% for post in site.posts %}
-              {% if post.tags contains tag %}
+              {% if post.categories contains category %}
                 {% include post-list.html%}
               {% endif %}
             {% endfor %}
@@ -39,4 +39,4 @@
   </body>
 </html>
 
-<!-- Tag Layout End -->
+<!-- Category Layout End -->

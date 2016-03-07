@@ -2,7 +2,7 @@
 layout: post
 section-type: post
 title: USA Day 6 to Day 7
-category: travel
+categories: ['travel']
 tags: [ 'USA 2016 diary']
 ---
 ## Wednesday 16th 2015  

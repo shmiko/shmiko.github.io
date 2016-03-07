@@ -2,7 +2,7 @@
 layout: post
 section-type: post
 title: Starting with GitHub Basics
-category: tech
+categories: ['tech']
 tags: [ 'tutorial' ]
 ---
 

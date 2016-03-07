@@ -2,10 +2,10 @@
 layout: post
 section-type: post
 title: Maths Magic Money guess
-category: maths
+categories: ['maths']
 tags: [ 'maths']
 ---
-  
+
 
 ## Mathematics Tricks
 
@@ -44,4 +44,3 @@ The our answer is **$23**.
 Another quick EXAMPLE
 Assume money is $48
 48 + 5 = 53 X 5 = 265 X 2 = 530 + 3 = 533 + 10 = 543, remove 3 = 54 - 6 = **48**!  
-

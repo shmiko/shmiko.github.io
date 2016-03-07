@@ -2,10 +2,10 @@
 layout: post
 section-type: post
 title: Maths Magic Easy Sqaures Numbers
-category: maths
+categories: ['maths']
 tags: [ 'maths']
 ---
-  
+
 
 ## Mathematics Tricks
 

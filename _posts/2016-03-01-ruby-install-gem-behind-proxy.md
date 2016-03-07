@@ -2,10 +2,10 @@
 layout: post
 section-type: post
 title: Ruby Install Gem Behind Proxy
-category: ruby on rails
+categories: ['ruby on rails']
 tags: [ 'ruby on rails']
 ---
-  
+
 
 ** How to Install Ruby Gem behind a corperate proxy sepecially when your password contains special characters  
 

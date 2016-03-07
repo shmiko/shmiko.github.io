@@ -2,7 +2,7 @@
 layout: post
 section-type: post
 title: Travel Woes
-category: travel
+categories: ['travel']
 tags: [ 'travel' ]
 ---
 
