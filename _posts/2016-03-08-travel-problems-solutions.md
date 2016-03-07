@@ -1,12 +1,12 @@
 ---
 layout: post
 section-type: post
-title: Travel Woes Solutions
+title: Travel Problems Solutions
 categories: ['travel']
 tags: [ 'travel' ]
 ---
 
-# Travel Woes - Solutions**
+# Travel Problems - Solutions
 
 ## Problems that we can fix
 
