@@ -6,14 +6,14 @@ categories: ['travel']
 tags: [ 'travel' ]
 ---
 
-# Travel Problems - Solutions to the previous post?
+## Travel Problems - Solutions to the previous post?
 
-## Problems that we can fix.  
+### Problems that we can fix.  
 
-### Plane boarding, Departing the plane & Collecting Baggage.    
+#### Plane boarding, Departing the plane & Collecting Baggage.    
 
 
-- ### 1st up...Plane boarding    
+- #### 1st up...Plane boarding    
 
 Picture this...  
 
