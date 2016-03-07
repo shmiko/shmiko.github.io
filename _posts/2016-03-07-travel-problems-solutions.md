@@ -9,10 +9,12 @@ tags: [ 'travel' ]
 # Travel Problems - Solutions?
 
 ## Problems that we can fix.
+### Plane boarding,Departing the plane & Collecting Baggage.  
+
 
 - **Plane boarding.**   
 
-Let paint the picture.
+Picture this...  
 
 You are traveling as a family of four, you have rows 51 and 52 which are the 2 back rows. When the time comes to board you go last? This causes so many issues it is not funny. The first 50 rows of people are all busily placing their carry on's in the overhead compartment and or perhaps sorting their onboard flight entertainment whilst standing in the walkway. So you need to struggle for 50 rows worth of people who will not make any room for people to pass. Wouldn't it be smart to let those people at the back of the plane board first so as to leave the walkway clear for those following.  
 
