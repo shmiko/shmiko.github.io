@@ -20,10 +20,10 @@
           <h4><strong>{{ page.date | date_to_string }}</strong>
             <small> . <a href="{{site.baseurl}}{{page.url }}#disqus_thread">Comments</a>
             {% for tag in page.tags %}
-              <a href="{{site.baseurl}}/tags/{{tag}}.html">#TAGS-{{ tag }}</a>
+              #Tags-<a href="{{site.baseurl}}/tags/{{tag}}.html">{{ tag }}</a>
             {% endfor %}
             {% for category in page.categories %}
-              <a href="{{site.baseurl}}/categories/{{category}}.html">#CATS-{{ category }}</a>
+              #Cats-<a href="{{site.baseurl}}/categories/{{category}}.html">{{ category }}</a>
             {% endfor %}
             </small>
           </h4>
