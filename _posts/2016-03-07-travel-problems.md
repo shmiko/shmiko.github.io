@@ -1,14 +1,14 @@
 ---
 layout: post
 section-type: post
-title: Travel Woes
+title: Travel Problems
 categories: ['travel']
 tags: [ 'travel' ]
 ---
 
-# Travel Woes
+# Travel Problems
 
-## Travel Problems that don't go away
+## ...that don't go away
 
 - Problem Number 1.  
 **Plane seat arm rests.**    
