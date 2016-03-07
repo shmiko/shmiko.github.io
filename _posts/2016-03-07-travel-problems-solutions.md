@@ -6,13 +6,14 @@ categories: ['travel']
 tags: [ 'travel' ]
 ---
 
-# Travel Problems - Solutions?
+# Travel Problems - Solutions to the previous post?
 
-## Problems that we can fix.
-   **Plane boarding,Departing the plane & Collecting Baggage.**    
+## Problems that we can fix.  
+
+### Plane boarding, Departing the plane & Collecting Baggage.    
 
 
-- ### Plane boarding    
+- ### 1st up...Plane boarding    
 
 Picture this...  
 
@@ -27,7 +28,7 @@ C: the flow on effect grows in magnitude according to the size of the plane, a l
 D: To fix this we could have a chip or magnetic strip within the boarding pass which is electronically activated based on previously boarded guests in accordance with their row number. If for example there are special circumstances such as parents with young ones they would already have a specific magnetic strip encoded as such when allocated their boarding passes. Anyone who tries to claim early entry without having properly sort the earlier recognition of such needs would trigger an alert which would prohibit them from boarding until there time is up.
 
 <hr>
-- ### Departing the plane.    
+- ### Next...Departing the plane.    
 
 This is in fact opposite of the boarding issue, rows 51 & 52 should wait until all other rows have at least started to depart, this is just common sense. Whilst is is very common to see people in the later rows jump up and stand in the walkway waiting for 10 minutes before they can start to exit, meanwhile all those people who are at the closer to the exit need to wait for space to even collect their belonging, common sense should dictate that those at the rear should wait, it should be the opposite rule for boarding as stated above.  
 
@@ -37,7 +38,7 @@ B: This can also be avoided by having sensors in the overhead areas which scan l
 <hr>
 
 
-- ### Collecting Baggage.  
+- ### Finally...Collecting Baggage.  
 
 When it comes time to collect your baggage more often or not you will see similar coordination issues around the carousel. Lets use the rows 51 and 52 scenario as an example. Lets say you have waited a good 20 minutes for rows 1 thru 50 to exit the plane, you can bet your bottom dollar that you bags will somehow be going around that carousel numerous times before you even arrive. But you will find it hard to find a place to stand as it is so crowded and directly in front of the carousel are so many children playing touchy feelies with the merry go round that it is near impossible to get to your bags, so you just watch them go around again. It is yet again a lacking of common sense that governs how the bags are loaded and unloaded. One would think that if the airline coordinated the luggage in accordance to row numbers and applied some logic to boarding and exiting the plane that the carousel area would be far less impacted and could in fact operate quite smoothly. People could actually plan and allocate the time requited to best determine when to arrive at the carousel thus allowing room for those watching their bags travel around from afar.  
 
