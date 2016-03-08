@@ -32,24 +32,13 @@ In JS memory the object is represented like this:
   "twitter": "@shmiko"
 }  
 ```  
-
-```javascript
-// Object literal  
-var student = { name: 'Paul Jones'};  
-// Dot notation
-student.location = 'Sydney, AU';
-// Bracket notation
-student['twitter'] = '@shmiko';
-``` 
-
-Transform from dot notation to bracket notation.  
+Transform from dot notation to bracket notation.
 ```javascript
 // with dot notation
 student.name = "Paul"; //"Paul"  
 // with bracket notation  
-student['name'] = "Paul"; //"Paul"  
-```
-
+student['name'] = "Paul"; //"Paul"
+```  
 Value in memory is the same.  
 
 DOT === SHORTHAND  
