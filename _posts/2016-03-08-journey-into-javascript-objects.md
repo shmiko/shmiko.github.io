@@ -23,14 +23,24 @@ student.location = 'Sydney, AU';
 // Bracket notation
 student['twitter'] = '@shmiko';
 ```    
-In JS memory the object is represented like this:  
+In JS memory the object is represented like this:
+
 ```javascript
 {  
   "name": "Paul Jones",
   "location": "Sydney, AU",
   "twitter": "@shmiko"
 }  
-```
+```  
+
+```javascript
+// Object literal  
+var student = { name: 'Paul Jones'};  
+// Dot notation
+student.location = 'Sydney, AU';
+// Bracket notation
+student['twitter'] = '@shmiko';
+``` 
 
 Transform from dot notation to bracket notation.  
 ```javascript
@@ -39,6 +49,7 @@ student.name = "Paul"; //"Paul"
 // with bracket notation  
 student['name'] = "Paul"; //"Paul"  
 ```
+
 Value in memory is the same.  
 
 DOT === SHORTHAND  
