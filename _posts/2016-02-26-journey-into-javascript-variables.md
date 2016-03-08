@@ -2,7 +2,7 @@
 layout: post
 section-type: post
 title: Javascript variables
-categories: ['javascript']
+categories: ['programming']
 tags: [ 'javascript']
 ---
 
