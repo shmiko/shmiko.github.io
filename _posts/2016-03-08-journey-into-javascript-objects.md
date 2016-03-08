@@ -25,13 +25,25 @@ student['twitter'] = '@shmiko';
 ```    
 In JS memory the object is represented like this:
 ```javascript
+// with dot notation
+student.name = "Paul"; //"Paul"  
+// with bracket notation  
+student['name'] = "Paul"; //"Paul"
+```  
+```javascript
 {  
   "name": "Paul Jones",
   "location": "Sydney, AU",
   "twitter": "@shmiko"
 }  
 ```  
-Transform from dot notation to bracket notation.  
+Transform from dot notation to bracket notation.
+```javascript
+// with dot notation
+student.name = "Paul"; //"Paul"  
+// with bracket notation  
+student['name'] = "Paul"; //"Paul"
+```   
 ```javascript
 {  
   "name": "Paul Jones",
