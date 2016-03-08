@@ -1,19 +1,19 @@
 ---
 layout: post
 section-type: post
-title: Javascript Objects
+title: Journey Into Javascript Objects
 categories: ['programming']
 tags: [ 'javascript']
 ---
 
 
-# Journey Into Javascript
-
 ## Objects
 Objects store information (properties) about a given entity.  
  * use DOT NOTATION only for STRINGS  
  * use BRACKET NOTATION with VARIABLES and NUMBERS  
- * You can only use dot notation if your property is an alphanumeric string that starts with a letter
+ * You can only use dot notation if your property is an alphanumeric string that starts with a letter  
+
+### Declare an object is like this:  
 
 ```javascript
 // Object literal  
@@ -23,27 +23,9 @@ student.location = 'Sydney, AU';
 // Bracket notation
 student['twitter'] = '@shmiko';
 ```    
-In JS memory the object is represented like this:
-```javascript
-// with dot notation
-student.name = "Paul"; //"Paul"  
-// with bracket notation  
-student['name'] = "Paul"; //"Paul"
-```  
-```javascript
-{  
-  "name": "Paul Jones",
-  "location": "Sydney, AU",
-  "twitter": "@shmiko"
-}  
-```  
-Transform from dot notation to bracket notation.
-```javascript
-// with dot notation
-student.name = "Paul"; //"Paul"  
-// with bracket notation  
-student['name'] = "Paul"; //"Paul"
-```   
+
+##### In JS memory the object is represented like this:  
+
 ```javascript
 {  
   "name": "Paul Jones",
@@ -52,12 +34,17 @@ student['name'] = "Paul"; //"Paul"
 }  
 ```  
 
+
+
+### Transform from dot notation to bracket notation.  
+
 ```javascript
 // with dot notation
 student.name = "Paul"; //"Paul"  
 // with bracket notation  
 student['name'] = "Paul"; //"Paul"
-```  
+```   
+
 Value in memory is the same.  
 
 DOT === SHORTHAND  
@@ -65,6 +52,7 @@ Think of dot notation as  being shorthand for bracket notation that can only be 
 You can imagine that under the hood, the JavaScript engine will take the string that's after the dot and insert it between some brackets.
 
 Using numbers  
+
 ```javascript
 var Hunter = {};          
 Hunter.007 = "James Bond"; // Uncaught SyntaxError: Unexpected number  
@@ -72,6 +60,7 @@ Hunter['007'] = "James Bond"; //{"007" : "James Bond"}
 ```
 
 More string examples  
+
 ```javascript
 var kid = {};            
 kid["name"] = "Robinson";  
@@ -82,14 +71,17 @@ kid[key]; //"Robinson"
 ```
 
 Using special characters  
+
 ```javascript
 var child = {};              
 child["name"] = "Bob";  
 child["^&*"] = "testing 123";  
 var test = child["^&*"];  
 child.@#! //SYNTAX ERROR  
-```
-result is
+```  
+
+##### In JS memory the object is represented like this:  
+
 ```javascript
 student =
 {  
@@ -97,6 +89,7 @@ student =
   "^&*" : "testing 123"  
 }   
 ```   
+---
 
 Summary of DOTS VS Brackets  
 
@@ -115,8 +108,10 @@ variables :+1:
 expressions :+1:  
 
 ---
+
 ## Arrays  
 Arrays store collections of values.  
+
 ```javascript
  // Array literal  
  var students = [ 'Paul' ];    
@@ -126,7 +121,9 @@ Arrays store collections of values.
  // Dot notation for native properties  
  students.length; //2  
 ```  
- In JS memory the array is represented like this:
+
+##### In JS memory the object is represented like this:  
+
 ```javascript
  {  
    "0": "Paul",  
@@ -143,7 +140,8 @@ Arrays store collections of values.
 ---
 
 ## Functions  
- Functions are also objects, known as first class objects  
+ Functions are also objects, known as first class objects.  
+
 ```javascript
  var treasureChest = function(){  
    return "you get nuthin' doing that!";  
@@ -158,25 +156,31 @@ Arrays store collections of values.
  Well since they are all objects we can do the same thing to each of them.  
  Examples are:  
   * Add a property to them like this:  
+
 ```javascript
   var mysticalAnimal1 = {};  
   mysticalAnimal1.type = 'dragon';  
   console.log(mysticalAnimal1);  
   //'Result is { type: 'dragon' }'  
 ```  
+
   * Assign a variable to point to them like this:  
+
 ```javascript
   var animalMystical = mysticalAnimal1;  
   console.log(animalMystical);  
   //'Result is { type: 'dragon' }'  
 ```
   * Overwrite a variable like this:  
+
 ```javascript
   animalMystical.type = 'spider';  
   console.log(animalMystical);  
   //'Result is { type: 'spider' }'  
 ```
+
   * Pass it in as an argument to a function like this:  
+
 ```javascript
   var testType2 =  function(str){  
   	var correctAnswer = str;  
@@ -184,8 +188,10 @@ Arrays store collections of values.
   };  
   testType2(animalMystical);  
   //'Result is testType2 correctAnswer is  { type: 'spider' }'  
-```
+```  
+
   * Return it as a value from a function like this:  
+
 ```javascript
   var testType3 =  function(str){  
     console.log("testType3 ",str);  
