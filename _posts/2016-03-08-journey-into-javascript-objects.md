@@ -120,7 +120,48 @@ Arrays store collections of values.
  students[1] = 'Richard';  
  // Dot notation for native properties  
  students.length; //2  
+ // Last occupied index  
+ var lastIndex = students.length-1;
+ //pop   
+ students.length; //2  
+ students.pop(); //'Richard'  
+ students.length; //1
+ //push
+ students.length; //1
+ students.push('Wendy');
+ students.length; //2   
 ```  
+
+Array types of values.  
+
+```javascript
+ var stuff = ['fossil', 12, true];  
+ var moreStuff = [undefined, null];  
+ var coordinates = [ [1,10], [10,1], [11,100], [1,1] ];  
+ var students = [{name:"Paul"},{name:"Richard"}]  
+```  
+
+Array Native Methods.  
+.sort()  
+.length()  
+
+```javascript
+ var set = [ 21, 9, 4, 2, 10];  
+ // what native method can we use to help us out?  
+ var sortedSet = set.sort();  
+ // what native property can we use to find the maximum?  
+ var max = sortedSet[sortedSet.length-1];
+ // sortedSet: [2,4,9,10,21]
+ // max: 21
+```  
+
+Array Summary    
+* Arrays are used for storing collections of values.  
+ * keys are numeric indices, making them useful for storing ordered lists of values.  
+ * Arrays have built in native properties (length) and methods (push and pop).  
+ * Array property access and assignment works the same as for objects
+since keys are numbers use bracket notation.  
+
 
 ##### In JS memory the object is represented like this:  
 
