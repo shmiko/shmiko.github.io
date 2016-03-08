@@ -165,8 +165,11 @@ Array Native Methods.
 
 Array Summary    
 * Arrays are used for storing collections of values.  
- * keys are numeric indices, making them useful for storing ordered lists of values.  
- * Arrays have built in native properties (length) and methods (push and pop).  
+ * keys are numeric indices, making them useful for storing ordered lists of values.
+ * push: arr.push(value); All .push() does is add a value to the end of an array. treasureChest.push('friends'); will add the string 'friends' to the end of our treasureChest array.  
+ * pop: arry.pop(value); The .pop() method will take the last value out of an array and give it to you.  
+ * unshift: The .unshift() method works just like push, but for the start of our array.    
+ * shift: The .shift() method works just like pop, but for the start of our array.  
  * Array property access and assignment works the same as for objects
 since keys are numbers use bracket notation.  
 
