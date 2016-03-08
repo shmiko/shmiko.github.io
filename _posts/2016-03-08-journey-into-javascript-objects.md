@@ -24,7 +24,7 @@ student.location = 'Sydney, AU';
 student['twitter'] = '@shmiko';
 ```    
 In JS memory the object is represented like this:  
-```json
+```javascript
 {  
   "name": "Paul Jones",
   "location": "Sydney, AU",
@@ -46,14 +46,14 @@ Think of dot notation as  being shorthand for bracket notation that can only be 
 You can imagine that under the hood, the JavaScript engine will take the string that's after the dot and insert it between some brackets.
 
 Using numbers  
-```JavaScript
+```javascript
 var Hunter = {};          
 Hunter.007 = "James Bond"; // Uncaught SyntaxError: Unexpected number  
 Hunter['007'] = "James Bond"; //{"007" : "James Bond"}  
 ```
 
 More string examples  
-```JavaScript
+```javascript
 var kid = {};            
 kid["name"] = "Robinson";  
 var key = "name";  
@@ -71,7 +71,7 @@ var test = child["^&*"];
 child.@#! //SYNTAX ERROR  
 ```
 result is
-```json
+```javascript
 student =
 {  
   "name" : "Bob",  
@@ -98,7 +98,7 @@ expressions :+1:
 ---
 ## Arrays  
 Arrays store collections of values.  
- ```javascript
+```javascript
  // Array literal  
  var students = [ 'Paul' ];    
  // Bracket notation for access/assignment  
@@ -106,15 +106,15 @@ Arrays store collections of values.
  students[1] = 'Richard';  
  // Dot notation for native properties  
  students.length; //2  
- ```  
+```  
  In JS memory the array is represented like this:
- ```json
+```javascript
  {  
    "0": "Paul",  
    "1": "Richard",  
    "length": "2"  
  }  
- ```
+```
 
  Arrays are special objects.  
   * numeric indexes  
@@ -125,7 +125,7 @@ Arrays store collections of values.
 
 ## Functions  
  Functions are also objects, known as first class objects  
- ```javascript
+```javascript
  var treasureChest = function(){  
    return "you get nuthin' doing that!";  
  };  
@@ -133,45 +133,45 @@ Arrays store collections of values.
  treasureChest.treasureMap = 'three steps forward';  
  console.log(treasureChest.treasureMap);  
  //'three steps forward'  
- ```
+```
 
  So what can we do with objects, arrays and function?  
  Well since they are all objects we can do the same thing to each of them.  
  Examples are:  
   * Add a property to them like this:  
-  ```javascript
+```javascript
   var mysticalAnimal1 = {};  
   mysticalAnimal1.type = 'dragon';  
   console.log(mysticalAnimal1);  
   //'Result is { type: 'dragon' }'  
-  ```  
+```  
   * Assign a variable to point to them like this:  
-  ```javascript
+```javascript
   var animalMystical = mysticalAnimal1;  
   console.log(animalMystical);  
   //'Result is { type: 'dragon' }'  
-  ```
+```
   * Overwrite a variable like this:  
-  ```javascript
+```javascript
   animalMystical.type = 'spider';  
   console.log(animalMystical);  
   //'Result is { type: 'spider' }'  
-  ```
+```
   * Pass it in as an argument to a function like this:  
-  ```javascript
+```javascript
   var testType2 =  function(str){  
   	var correctAnswer = str;  
   	console.log('testType2 correctAnswer is ',correctAnswer);  
   };  
   testType2(animalMystical);  
   //'Result is testType2 correctAnswer is  { type: 'spider' }'  
-  ```
+```
   * Return it as a value from a function like this:  
-  ```javascript
+```javascript
   var testType3 =  function(str){  
     console.log("testType3 ",str);  
     return str;  
   };  
   testType3(animalMystical);  
   //'Result is testType3  { type: 'spider' }'  
-  ```         
+```         
