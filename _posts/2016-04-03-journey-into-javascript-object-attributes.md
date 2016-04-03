@@ -55,7 +55,7 @@ log(myHouse['floors']); //returns just the floors value of myHouse
 ```
 
 
-### Testing Writable - can write  
+##### Testing Writable - can write  
 
 ```javascript
 log(Object.getOwnPropertyDescriptor(myHouse, 'type'));//this show the inner properties of the objext prototype
@@ -74,7 +74,7 @@ myHouse.material/*.first*/ = 'LimeStone'; //fails as object is now read only
 log(myHouse.material);
 ```  
 
-### Testing Enumerable - can loop and show/hide properties  
+##### Testing Enumerable - can loop and show/hide properties  
 
 ```javascript
 Object.defineProperty(myHouse,'material',{enumerable:false});
@@ -93,7 +93,7 @@ log(Object.keys(myHouse));//show properties including material
 log(JSON.stringify(myHouse));//show json object as sting
 ```  
 
-### Testing configurable - this allows or disallows setting enumerable and writable properties  
+##### Testing configurable - this allows or disallows setting enumerable and writable properties  
 
 ```javascript
 // Object.defineProperty(myHouse,'type',{configurable:false});
@@ -114,7 +114,7 @@ log(myHouse);
 
 ## Here are a couple of tests to help understand setters and getters:   
 
-### Testing getters and setters  
+##### Testing getters and setters  
 ```javascript
 //define a new property using get to display house type and material
 Object.defineProperty(myHouse, 'fullName',
@@ -152,7 +152,7 @@ log(myHouse.name.last);
 
 ## Here are some tests to help understand prototypal inheritance:  
 
-### Testing Inheritance using prototype and __proto__  
+##### Testing Inheritance using prototype and __proto__  
 ```javascript
 function Animal(voice){
 	this.voice = voice || 'grunt';//passes through to any animal created from this prototype
@@ -190,7 +190,7 @@ log(kittyChops.__proto__.__proto__);//Animal {speak:[Function]}
 
 ## Test for understanding JS Classes - even though they are not really classes  
 
-### Testing classes  
+##### Testing classes  
 ```javascript
 class Vehicle {
 	constructor(drive){
