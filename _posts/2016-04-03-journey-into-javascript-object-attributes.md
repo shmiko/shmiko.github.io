@@ -7,24 +7,22 @@ tags: [ 'javascript']
 ---
 
 
-## Object Attributes, Setters & getters and Prototypal Inheritance  
-Objects have 3 property attributes.  
- * enumerable  
- * configurable  
- * writable
+#### Object Attributes, Getters & Setters,Prototypal Inheritance & Classes  
 
-## Using Object getetrs and setters to set and get properties  
+-- Object Property Attributes  
 
-## A Look at some prototypal inheritance code samples  
+-- Using Object getters and setters to set and get properties   
 
-## And a quick look at Classes???
+-- A Look at some prototypal inheritance code samples  
+
+-- And a quick look at Classes???  
 
 
 ### Object Property Attributes:  
 
-Object attributes include: enumerable, configurable, and writable.
+Object attributes include: enumerable, configurable, and writable.  
 
-These attributes tell how the properties can be accessed.
+These attributes tell how the properties can be accessed.  
 
 ```javascript
 
@@ -54,8 +52,12 @@ log(myHouse); //returns all properties and values assigned to myHouse
 log(yourHouse); //returns all properties and values assigned to yourHouse
 log(myHouse.landSize); //returns just landsize value of myHouse
 log(myHouse['floors']); //returns just the floors value of myHouse
+```
 
-## Testing Writable - can write
+
+## Testing Writable - can write  
+
+```javascript
 log(Object.getOwnPropertyDescriptor(myHouse, 'type'));//this show the inner properties of the objext prototype
 myHouse.type = 'Flat';//sets type property
 log(myHouse.type);//displays type as Flat
@@ -70,8 +72,11 @@ log(myHouse.material);
 //Object.freeze(myHouse.material);//this freezes the whole object, even for predefined properties
 myHouse.material/*.first*/ = 'LimeStone'; //fails as object is now read only
 log(myHouse.material);
+```  
 
-## Testing Enumerable - can loop and show/hide properties
+## Testing Enumerable - can loop and show/hide properties  
+
+```javascript
 Object.defineProperty(myHouse,'material',{enumerable:false});
 
 for (var propertyName in myHouse){
@@ -86,8 +91,10 @@ for (var propertyName in myHouse){
 
 log(Object.keys(myHouse));//show properties including material
 log(JSON.stringify(myHouse));//show json object as sting
+```  
 
-## Testing configurable - this allows or disallows setting enumerable and writable properties
+## Testing configurable - this allows or disallows setting enumerable and writable properties  
+```javascript
 // Object.defineProperty(myHouse,'type',{configurable:false});
 //try changing enumerable
 Object.defineProperty(myHouse,'floors',{enumerable:true});
@@ -102,10 +109,12 @@ Object.defineProperty(myHouse,'floors',{enumerable:true});
 log(myHouse);
 myHouse.name = {first:'Lilly', last:'field'};
 log(myHouse);
+```
 
-### Here are a couple of tests to help understand setters and getters:  
+### Here are a couple of tests to help understand setters and getters:   
 
-## Testing getters and setters
+## Testing getters and setters  
+```javascript
 //define a new property using get to display house type and material
 Object.defineProperty(myHouse, 'fullName',
 {
@@ -138,10 +147,12 @@ log(yourHouse);
 //setter also sets the individual name properties
 log(yourHouse.name.first);
 log(myHouse.name.last);
+```
 
 ### Here are some tests to help understand prototypal inheritance:  
 
-## Testing Inheritance using prototype and __proto__
+## Testing Inheritance using prototype and __proto__  
+```javascript
 function Animal(voice){
 	this.voice = voice || 'grunt';//passes through to any animal created from this prototype
 	//if voice is a param otherwise it will grunt
@@ -174,10 +185,12 @@ log(Cat instanceof Animal);//false
 log(kittyChops instanceof Animal);//true
 log(kittyChops.__proto__);//Animal{}
 log(kittyChops.__proto__.__proto__);//Animal {speak:[Function]}
+```
 
-### Test for understanding JS Classes - even though they are not really classes
+### Test for understanding JS Classes - even though they are not really classes  
 
-## Testing classes
+## Testing classes  
+```javascript
 class Vehicle {
 	constructor(drive){
 		this.drive = drive || 'backwards';
