@@ -24,31 +24,7 @@ This App structure is based on the Angular [Style Guide](http://github.com/johnp
 
 It looks like this:
 ![Image of Wikipedia Directory Structure](../../../../img/wiki_app_layout.jpg)
-APP  
- |  
-  /bower_components  
-  /client    
-     |  
-     index.html  
-     /app  
-      |  
-      app.module.js  
-      app.routes.js  
-      /modules  
-         |  
-         wikipedia  
-         wikipedia.css  
-         wikipedia.html  
-         wikipedia.js  
-  /content  
-     |  
-     /css  
-     /sass  
-     /less  
-     /images  
-     /javascript  
-  /node_modules  
-  /server  
+
 
 First you will need to setup the angular app.modules.js file with the injected wikipedia module.  
 
