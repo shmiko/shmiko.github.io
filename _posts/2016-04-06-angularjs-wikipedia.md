@@ -14,7 +14,7 @@ I'm going to list the steps involved in adding a Wikipedia Search to your Angula
 We're using Angular 1.6 but I will soon upoad the same functionality using AngularJS 2.
 It is assumed that you are pretty comfortable with Angular and understand the various components and how they interact with each other.
 
-Ready..Let's Go.
+Ready..Let's Go
 
 We will be dealing with Front End only and as such our directory structure will be structured like this:  
 The top level is you App Name, then you will have the following directories client, server, bower_components, node_modules and hopefully a test directory.  
