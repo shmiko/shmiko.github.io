@@ -9,7 +9,7 @@ tags: [ 'angularjs','wikipedia']
 
 ## Adding a Wikipedia Voice Enabled Search to your AngularJS App!  
 
-What I like most about AngularJS is how modular it is. Yu can very easily add new functionality to your site withut too much heavy lifting.
+What I like most about AngularJS is how modular it is. You can very easily add new functionality to your site without too much heavy lifting.
 I'm going to list the steps involved in adding a Wikipedia Search to your AngularJS App.
 We're using Angular 1.6 but I will soon upoad the same functionality using AngularJS 2.
 It is assumed that you are pretty comfortable with Angular and understand the various components and how they interact with each other.
@@ -17,9 +17,9 @@ It is assumed that you are pretty comfortable with Angular and understand the va
 Ready..Let's Go
 
 We will be dealing with Front End only and as such our directory structure will be structured like this:  
-The top level is you App Name, then you will have the following directories client, server, bower_components, node_modules and hopefully a test directory.  
-Within client I have an app and assets.
-The app directory holds all the various parts of the client side functionality including the main pages which tie the AngularJS app together and all the asociated modules.  
+The top level is you App Name, then you will have the following directories client, server, bower_components, node_modules and a test directory.  
+Within client I have an app and assets folder.
+The app directory holds all the various parts of the client side functionality including the main pages which tie the AngularJS app together and all the associated modules.  
 This App structure is based on the Angular [Style Guide](http://github.com/johnpapa/angular-styleguide) by John Papa http://github.com/johnpapa/angular-styleguide.  
 
 It looks like this:
@@ -35,7 +35,7 @@ First you will need to setup the angular app.modules.js file with the injected w
 }());
 ```
 
-Now we will also provision the route whihc will direct the user to the wikipedia page.  
+Now we will also provision the route which will direct the user to the wikipedia page.  
 
 ```javascript
 (function () {
@@ -300,7 +300,7 @@ And lastly the html page.
     </div>
   </div>
 ```
-The last final step is to include the wikipedia css and js file in your index.hlml.
+The final step is to include the wikipedia css and js file in your index.hlml.
 
 The result will look something like this if you choose to search for **javascript**.  
 ![Image of Wikipedia Result](../../../../img/wiki_results.jpg)  
