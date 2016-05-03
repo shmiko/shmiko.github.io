@@ -62,7 +62,7 @@ The Agile Manifesto is based on 12 principles:
 12. Regularly, the team reflects on how to become more effective, and adjusts accordingly  
 Sourced from [Principles behind the Agile Manifesto](http://www.agilemanifesto.org/principles.html) Principles behind the Agile Manifesto  
 
-**And now....** 
+**And now....**  
 * Scrum  
 * Extreme  
 * Lean  
