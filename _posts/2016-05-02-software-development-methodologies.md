@@ -13,9 +13,9 @@ So what's all the HooHa about Software Development Methodologies, lets see what 
 
 
 **We have....**     
+* Waterfall   
 * Agile   
 * Scrum  
-* Waterfall  
 * Extreme  
 * Lean  
 * Kanban  
@@ -27,15 +27,29 @@ These methodologies are taught through numerous courses, but most notable are 1.
 [Lean Software Development Fundamantals](https://app.pluralsight.com/library/courses/lean-software-development-fundamentals/table-of-contents) Lean Software Development Fundamantals  
 and [Software Project Management Specialisation](https://www.coursera.org/specializations/product-management) Software Project Management Specialisation
 
-1. Agile.  
-2. Scrum.  
-3. Waterfall.  
-4. Extreme.  
-5. Lean.  
-6. Kanban.
-7. Personal Kanban
-8. Kaizen. 
-9. Tools.  
+* Waterfall  
+	Is a sequential design process first presented by Herbert Benington in 1956, originally used in manufacturing and construction. At this time no other methodologies existed and as such this method was adapted for software development.  
+It is based on the following phases:
+1. Conception  
+	2. Initiation  
+		3. Analysis  
+			4. Design  
+				5. Construction  
+					6. Testing  
+						7. Implementation  
+							8. Maintenance  
+The waterfall analogy is due to the fact that each phase flows steadily downwards.  
+In 1985 is was further refined by Royce to have just 6 phases whilst still incorperating the original list.
+The waterfall model maintains that the next phase should only be started once the preceding phase has been completed, reviewed and verified.  
+
+* Agile   
+* Scrum  
+* Extreme  
+* Lean  
+* Kanban  
+* Personal Kanban   
+* Kaizen  
+* Tools   
 
 
 
