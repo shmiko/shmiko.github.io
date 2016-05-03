@@ -515,4 +515,13 @@ To git@github.com:shmiko/shmiko.github.io
    2b0fa87..212f05e  master -> master
 [1m[7m%[27m[1m[0m                                                                                     [0m[27m[24m[J 
 [31mpauljones[00m@[36mPauls-MBP[33m /Volumes/disk0s2/WebApps/shmiko.github.io
-[32m>[00m [K[68C1:01[72D
+[32m>[00m [K[68C1:01[72Dgitpo commit -m "software deleopment methodologies"[46Da                                             [45D
+[1m[7m%[27m[1m[0m                                                                                     [0m[27m[24m[J 
+[31mpauljones[00m@[36mPauls-MBP[33m /Volumes/disk0s2/WebApps/shmiko.github.io
+[32m>[00m [K[68C1:02[72Dgitapo commit -m "software deleopment methodologies"
+[master 28f0d7c] software deleopment methodologies
+ 3 files changed, 39 insertions(+), 2 deletions(-)
+[1m[7m%[27m[1m[0m                                                                                     [0m[27m[24m[J 
+[31mpauljones[00m@[36mPauls-MBP[33m /Volumes/disk0s2/WebApps/shmiko.github.io
+[32m>[00m [K[68C1:02[72Dgit commit -m "software deleopment methodologies"[46Da                                             [45Dpo
+Counting objects: 6, done.

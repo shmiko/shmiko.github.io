@@ -87,7 +87,7 @@ It is based on 7 principles as proposed by Mary Poppendieck; Tom Poppendieck (20
 6. Build integrity in  
 7. See the whole  
 
-**And....** 
+**And....**   
 * Kanban  
 * Personal Kanban   
 * Kaizen  
