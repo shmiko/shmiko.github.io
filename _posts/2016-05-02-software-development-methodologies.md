@@ -78,7 +78,7 @@ Created in 1996 by Kent Beck.
 * Lean Software Development (LSD) is based on Lean Manufacturing and Lean IT principles and practices in the software development domain.  
 It was adapted from the famous production system as introduced by Toyota manufacturing in 1998.  
 
-It is based on 7 principles as proposed by Mary Poppendieck; Tom Poppendieck (2003) in their book titled [Lean Software Development: An Agile Toolkit] (https://books.google.com.au/books?id=hQk4S7asBi4C&pg=PA182&redir_esc=y) Lean Software Development: An Agile Toolkit.
+It is based on 7 principles as proposed by Mary Poppendieck; Tom Poppendieck (2003) in their book titled [Lean Software Development: An Agile Toolkit](https://books.google.com.au/books?id=hQk4S7asBi4C&pg=PA182&redir_esc=y) Lean Software Development: An Agile Toolkit.
 1. Eliminate waste  
 2. Amplify learning  
 3. Decide as late as possible  

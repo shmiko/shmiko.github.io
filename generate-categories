@@ -521,3 +521,30 @@ To git@github.com:shmiko/shmiko.github.io
 [31mpauljones[00m@[36mPauls-MBP[33m /Volumes/disk0s2/WebApps/shmiko.github.io
 [32m>[00m [K[68C1:02[72Dgit commit -m "software deleopment methodologies"[46Da                                             [45Dpo
 Counting objects: 6, done.
+Delta compression using up to 4 threads.
+Compressing objects:  16% (1/6)   Compressing objects:  33% (2/6)   Compressing objects:  50% (3/6)   Compressing objects:  66% (4/6)   Compressing objects:  83% (5/6)   Compressing objects: 100% (6/6)   Compressing objects: 100% (6/6), done.
+Writing objects:  16% (1/6)   Writing objects:  33% (2/6)   Writing objects:  50% (3/6)   Writing objects:  66% (4/6)   Writing objects:  83% (5/6)   Writing objects: 100% (6/6)   Writing objects: 100% (6/6), 675 bytes | 0 bytes/s, done.
+Total 6 (delta 5), reused 0 (delta 0)
+To git@github.com:shmiko/shmiko.github.io
+   212f05e..28f0d7c  master -> master
+[1m[7m%[27m[1m[0m                                                                                     [0m[27m[24m[J 
+[31mpauljones[00m@[36mPauls-MBP[33m /Volumes/disk0s2/WebApps/shmiko.github.io
+[32m>[00m [K[68C1:02[72Dgitpo commit -m "software deleopment methodologies"[46Da                                             [45D
+[1m[7m%[27m[1m[0m                                                                                     [0m[27m[24m[J 
+[31mpauljones[00m@[36mPauls-MBP[33m /Volumes/disk0s2/WebApps/shmiko.github.io
+[32m>[00m [K[68C1:02[72Dgitapo commit -m "software deleopment methodologies"
+[master 8fd4fa2] software deleopment methodologies
+ 3 files changed, 21 insertions(+), 3 deletions(-)
+[1m[7m%[27m[1m[0m                                                                                     [0m[27m[24m[J 
+[31mpauljones[00m@[36mPauls-MBP[33m /Volumes/disk0s2/WebApps/shmiko.github.io
+[32m>[00m [K[68C1:02[72Dgit commit -m "software deleopment methodologies"[46Da                                             [45Dpo
+Counting objects: 6, done.
+Delta compression using up to 4 threads.
+Compressing objects:  16% (1/6)   Compressing objects:  33% (2/6)   Compressing objects:  50% (3/6)   Compressing objects:  66% (4/6)   Compressing objects:  83% (5/6)   Compressing objects: 100% (6/6)   Compressing objects: 100% (6/6), done.
+Writing objects:  16% (1/6)   Writing objects:  33% (2/6)   Writing objects:  50% (3/6)   Writing objects:  66% (4/6)   Writing objects:  83% (5/6)   Writing objects: 100% (6/6)   Writing objects: 100% (6/6), 591 bytes | 0 bytes/s, done.
+Total 6 (delta 5), reused 0 (delta 0)
+To git@github.com:shmiko/shmiko.github.io
+   28f0d7c..8fd4fa2  master -> master
+[1m[7m%[27m[1m[0m                                                                                     [0m[27m[24m[J 
+[31mpauljones[00m@[36mPauls-MBP[33m /Volumes/disk0s2/WebApps/shmiko.github.io
+[32m>[00m [K[68C1:02[72D
