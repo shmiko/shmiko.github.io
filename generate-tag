@@ -190,4 +190,34 @@ To git@github.com:shmiko/shmiko.github.io
    38ec42f..73fd7e2  master -> master
 [1m[7m%[27m[1m[0m                                                                                     [0m[27m[24m[J 
 [31mpauljones[00m@[36mPauls-MBP[33m /Volumes/disk0s2/WebApps/shmiko.github.io
-[32m>[00m [K[67C23:35[72D
+[32m>[00m [K[67C23:35[72Dgitpo commit -m "hotel metrics"[26Da                         [25D
+[1m[7m%[27m[1m[0m                                                                                     [0m[27m[24m[J 
+[31mpauljones[00m@[36mPauls-MBP[33m /Volumes/disk0s2/WebApps/shmiko.github.io
+[32m>[00m [K[67C23:36[72Dgitapo commit -m "hotel metrics"
+[master fad52ae] hotel metrics
+ 3 files changed, 44 insertions(+), 8 deletions(-)
+[1m[7m%[27m[1m[0m                                                                                     [0m[27m[24m[J 
+[31mpauljones[00m@[36mPauls-MBP[33m /Volumes/disk0s2/WebApps/shmiko.github.io
+[32m>[00m [K[67C23:36[72Dgit commit -m "hotel metrics"[26Da                         [25Dpo
+Counting objects: 6, done.
+Delta compression using up to 4 threads.
+Compressing objects:  16% (1/6)   Compressing objects:  33% (2/6)   Compressing objects:  50% (3/6)   Compressing objects:  66% (4/6)   Compressing objects:  83% (5/6)   Compressing objects: 100% (6/6)   Compressing objects: 100% (6/6), done.
+Writing objects:  16% (1/6)   Writing objects:  33% (2/6)   Writing objects:  50% (3/6)   Writing objects:  66% (4/6)   Writing objects:  83% (5/6)   Writing objects: 100% (6/6)   Writing objects: 100% (6/6), 670 bytes | 0 bytes/s, done.
+Total 6 (delta 5), reused 0 (delta 0)
+To git@github.com:shmiko/shmiko.github.io
+   73fd7e2..fad52ae  master -> master
+[1m[7m%[27m[1m[0m                                                                                     [0m[27m[24m[J 
+[31mpauljones[00m@[36mPauls-MBP[33m /Volumes/disk0s2/WebApps/shmiko.github.io
+[32m>[00m [K[67C23:36[72Dgitpo commit -m "hotel metrics"[26Da                         [25Dpo commit -m "hotel metrics"[26Da                         [25Dpo commit -m "hotel metrics"[26Da                         [25Dpo commit -m "hotel metrics"[26Da                         [25Dpo commit -m "hotel metrics"[26Da                         [25D./scripts/generate-tagscategories[10Dtags      categories
+[+] Generating #development page
+[1m[7m%[27m[1m[0m                                                                                     [0m[27m[24m[J 
+[31mpauljones[00m@[36mPauls-MBP[33m /Volumes/disk0s2/WebApps/shmiko.github.io
+[32m>[00m [K[68C0:02[72D./scripts/generate-categories          tags
+[+] Generating #software page
+[+] Generating #development methodoogies page
+[+] Generating #lean page
+[+] Generating #agile page
+[+] Generating #scrum page
+[1m[7m%[27m[1m[0m                                                                                     [0m[27m[24m[J 
+[31mpauljones[00m@[36mPauls-MBP[33m /Volumes/disk0s2/WebApps/shmiko.github.io
+[32m>[00m [K[68C0:02[72D
