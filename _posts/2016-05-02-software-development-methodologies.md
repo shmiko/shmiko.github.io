@@ -29,7 +29,7 @@ and [Software Project Management Specialisation](https://www.coursera.org/specia
 
 **Starting with....**   
 * Waterfall  
-	Is a sequential design process first presented by Herbert Benington in 1956, originally used in manufacturing and construction. At this time no other methodologies existed and as such this method was adapted for software development.  
+Which is a sequential design process first presented by Herbert Benington in 1956, originally used in manufacturing and construction. At this time no other methodologies existed and as such this method was adapted for software development.  
 It is based on the following phases:  
 1. Conception  
 	2. Initiation  
@@ -44,7 +44,7 @@ In 1985 is was further refined by Royce to have just 6 phases whilst still incor
 The waterfall model maintains that the next phase should only be started once the preceding phase has been completed, reviewed and verified.  
 
 **Next Up....**   
-* Agile  aka The Agile Manifesto.  
+* Agile aka The Agile Manifesto.  
 This is very common in the age of continual improvement, especially with start-ups and their MVP's having a high iteration rate.  
 This method of development is based on principles which require collaboration between self-organising, cross-functional teams where by requirements and solutions evolve gradually through adaptive planning, evolutionary development and continual improvement, encouraging rapid and flexible responseive changes to feedback.  
 Originally conceived in the 1980s, the manifesto was initiated in 1994 and finally proposed in 2001. 
