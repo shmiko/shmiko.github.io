@@ -9,11 +9,12 @@ tags: [ 'tourism','hotel distribution']
 
 ## Hotel Distribution Metrics!  
 
-Hotel Distribution is a demanding and highly competitive field and with the introduction of metasearch sites all the more competitive it has become.
-There is a critical need to understand the following performance metrics in order to understand and track hotel performance.  
+Hotel Distribution is a demanding and highly competitive field and with the introduction of metasearch sites all the more competitive it has become.  
+There is a critical need to understand the following performance metrics in order to understand and track hotel performance.   
 
-In no particular order we'll highlight the following metrics to be used to understand operating profits and capital gains for independant and chain hotels. 
-Undertanding these metrics is key to maximise occupancy rates and the contribution margin generated to offset their fixed cost base to generate profit. 
+In no particular order we'll highlight the following metrics to be used to understand operating profits and capital gains for independant and chain hotels.   
+Undertanding these metrics is key to maximise occupancy rates and the contribution margin generated to offset their fixed cost base to generate profit.  
+
 - **Occupancy Rate (OCC).  
 - **Revenue per room (RevPar).  
 - **Average Daily Rate (ADR).  
@@ -21,7 +22,7 @@ Undertanding these metrics is key to maximise occupancy rates and the contributi
 - **Average rate index (ARI).  
 - **Revenue generation index (RGI).  
 
-These metrics are taught through a coursera course called The Fundamentals of Hotel Distribution which I absolutley recommend.
+These metrics are taught through a coursera course called The Fundamentals of Hotel Distribution which I absolutley recommend.  
 [Hotel Distribution Course](https://www.coursera.org/learn/hotel-distribution/home/info) The Fundamentals of Hotel Distribution.  
 
 *Occupancy Rate* (OCC) is a percentage of available rooms being occupied for a period of time and can be calculated 2 different ways:  
