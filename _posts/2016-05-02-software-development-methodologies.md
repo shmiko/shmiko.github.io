@@ -89,9 +89,22 @@ It is based on 7 principles as proposed by Mary Poppendieck; Tom Poppendieck (20
 
 **And....**   
 * Kanban  
-* Personal Kanban   
+
+
+
+**Closely related to....**  
+* Personal Kanban  
+
+
+
+**And finally....**    
 * Kaizen  
-* Tools   
+
+
+
+**Some useful tools include....**  
+* Tools to help:  
+	Trello  
 
 
 
