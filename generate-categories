@@ -547,4 +547,40 @@ To git@github.com:shmiko/shmiko.github.io
    28f0d7c..8fd4fa2  master -> master
 [1m[7m%[27m[1m[0m                                                                                     [0m[27m[24m[J 
 [31mpauljones[00m@[36mPauls-MBP[33m /Volumes/disk0s2/WebApps/shmiko.github.io
-[32m>[00m [K[68C1:02[72D
+[32m>[00m [K[68C1:02[72Dgitpo commit -m "software deleopment methodologies"[46Da                                             [45D
+[1m[7m%[27m[1m[0m                                                                                     [0m[27m[24m[J 
+[31mpauljones[00m@[36mPauls-MBP[33m /Volumes/disk0s2/WebApps/shmiko.github.io
+[32m>[00m [K[68C1:03[72Dgitapo commit -m "software deleopment methodologies"
+[master bc959a4] software deleopment methodologies
+ 3 files changed, 55 insertions(+), 1 deletion(-)
+[1m[7m%[27m[1m[0m                                                                                     [0m[27m[24m[J 
+[31mpauljones[00m@[36mPauls-MBP[33m /Volumes/disk0s2/WebApps/shmiko.github.io
+[32m>[00m [K[68C1:03[72Dgit commit -m "software deleopment methodologies"[46Da                                             [45Dpo
+Counting objects: 6, done.
+Delta compression using up to 4 threads.
+Compressing objects:  16% (1/6)   Compressing objects:  33% (2/6)   Compressing objects:  50% (3/6)   Compressing objects:  66% (4/6)   Compressing objects:  83% (5/6)   Compressing objects: 100% (6/6)   Compressing objects: 100% (6/6), done.
+Writing objects:  16% (1/6)   Writing objects:  33% (2/6)   Writing objects:  50% (3/6)   Writing objects:  66% (4/6)   Writing objects:  83% (5/6)   Writing objects: 100% (6/6)   Writing objects: 100% (6/6), 692 bytes | 0 bytes/s, done.
+Total 6 (delta 5), reused 0 (delta 0)
+To git@github.com:shmiko/shmiko.github.io
+   8fd4fa2..bc959a4  master -> master
+[1m[7m%[27m[1m[0m                                                                                     [0m[27m[24m[J 
+[31mpauljones[00m@[36mPauls-MBP[33m /Volumes/disk0s2/WebApps/shmiko.github.io
+[32m>[00m [K[68C1:03[72Dgitpo commit -m "software deleopment methodologies"[46Da                                             [45D
+[1m[7m%[27m[1m[0m                                                                                     [0m[27m[24m[J 
+[31mpauljones[00m@[36mPauls-MBP[33m /Volumes/disk0s2/WebApps/shmiko.github.io
+[32m>[00m [K[68C1:03[72Dgitapo commit -m "software deleopment methodologies"
+[master baac95a] software deleopment methodologies
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[1m[7m%[27m[1m[0m                                                                                     [0m[27m[24m[J 
+[31mpauljones[00m@[36mPauls-MBP[33m /Volumes/disk0s2/WebApps/shmiko.github.io
+[32m>[00m [K[68C1:03[72Dgit commit -m "software deleopment methodologies"[46Da                                             [45Dpo
+Counting objects: 4, done.
+Delta compression using up to 4 threads.
+Compressing objects:  25% (1/4)   Compressing objects:  50% (2/4)   Compressing objects:  75% (3/4)   Compressing objects: 100% (4/4)   Compressing objects: 100% (4/4), done.
+Writing objects:  25% (1/4)   Writing objects:  50% (2/4)   Writing objects:  75% (3/4)   Writing objects: 100% (4/4)   Writing objects: 100% (4/4), 359 bytes | 0 bytes/s, done.
+Total 4 (delta 3), reused 0 (delta 0)
+To git@github.com:shmiko/shmiko.github.io
+   bc959a4..baac95a  master -> master
+[1m[7m%[27m[1m[0m                                                                                     [0m[27m[24m[J 
+[31mpauljones[00m@[36mPauls-MBP[33m /Volumes/disk0s2/WebApps/shmiko.github.io
+[32m>[00m [K[68C1:03[72D
