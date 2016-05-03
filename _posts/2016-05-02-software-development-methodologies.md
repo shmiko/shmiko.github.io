@@ -74,7 +74,7 @@ TBC...
 Programming pairing, code review and unit testing are other elements of extreme programming. 
 Created in 1996 by Kent Beck.  
 
-**As well as....** 
+**As well as....**  
 * Lean Software Development (LSD) is based on Lean Manufacturing and Lean IT principles and practices in the software development domain.  
 It was adapted from the famous production system as introduced by Toyota manufacturing in 1998.  
 
