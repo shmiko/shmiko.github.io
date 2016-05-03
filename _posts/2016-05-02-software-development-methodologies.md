@@ -21,8 +21,8 @@ So what's all the HooHa about Software Development Methodologies, lets see what 
 - Kaizen.  
 - Tools.
 
-These methodologies are taught through numerous courses, but most notable are 1.Lean Software Development FUndamantals taught by Stephen Haunts from Puralsight and also Software Project Management Specialisation taught by University of Alberta through Coursera both of which I absolutley recommend.  
-[Lean Software Development FUndamantals](https://app.pluralsight.com/library/courses/lean-software-development-fundamentals/table-of-contents) Lean Software Development FUndamantals  
+These methodologies are taught through numerous courses, but most notable are 1.Lean Software Development Fundamantals taught by Stephen Haunts from Puralsight and also Software Project Management Specialisation taught by University of Alberta through Coursera both of which I absolutley recommend.  
+[Lean Software Development Fundamantals](https://app.pluralsight.com/library/courses/lean-software-development-fundamentals/table-of-contents) Lean Software Development Fundamantals  
 and [Software Project Management Specialisation](https://www.coursera.org/specializations/product-management) Software Project Management Specialisation
 
 1. Agile.  
