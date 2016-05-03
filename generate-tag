@@ -136,4 +136,22 @@ To git@github.com:shmiko/shmiko.github.io
    c0d115c..48eef85  master -> master
 [1m[7m%[27m[1m[0m                                                                                     [0m[27m[24m[J 
 [31mpauljones[00m@[36mPauls-MBP[33m /Volumes/disk0s2/WebApps/shmiko.github.io
-[32m>[00m [K[67C23:26[72D
+[32m>[00m [K[67C23:26[72Dgitpo commit -m "hotel metrics"[26Da                         [25D
+[1m[7m%[27m[1m[0m                                                                                     [0m[27m[24m[J 
+[31mpauljones[00m@[36mPauls-MBP[33m /Volumes/disk0s2/WebApps/shmiko.github.io
+[32m>[00m [K[67C23:33[72Dgitapo commit -m "hotel metrics"
+[master 53ee120] hotel metrics
+ 3 files changed, 58 insertions(+), 5 deletions(-)
+[1m[7m%[27m[1m[0m                                                                                     [0m[27m[24m[J 
+[31mpauljones[00m@[36mPauls-MBP[33m /Volumes/disk0s2/WebApps/shmiko.github.io
+[32m>[00m [K[67C23:33[72Dgit commit -m "hotel metrics"[26Da                         [25Dpo
+Counting objects: 6, done.
+Delta compression using up to 4 threads.
+Compressing objects:  16% (1/6)   Compressing objects:  33% (2/6)   Compressing objects:  50% (3/6)   Compressing objects:  66% (4/6)   Compressing objects:  83% (5/6)   Compressing objects: 100% (6/6)   Compressing objects: 100% (6/6), done.
+Writing objects:  16% (1/6)   Writing objects:  33% (2/6)   Writing objects:  50% (3/6)   Writing objects:  66% (4/6)   Writing objects:  83% (5/6)   Writing objects: 100% (6/6)   Writing objects: 100% (6/6), 1.15 KiB | 0 bytes/s, done.
+Total 6 (delta 5), reused 0 (delta 0)
+To git@github.com:shmiko/shmiko.github.io
+   48eef85..53ee120  master -> master
+[1m[7m%[27m[1m[0m                                                                                     [0m[27m[24m[J 
+[31mpauljones[00m@[36mPauls-MBP[33m /Volumes/disk0s2/WebApps/shmiko.github.io
+[32m>[00m [K[67C23:33[72D

@@ -51,7 +51,7 @@ These metrics are taught through a coursera course called The Fundamentals of Ho
 	A Competitive Set of data is required to calculate this, generally ADR / comp set X 100.  
 	Having greater than 1 indicates good market share.  
 
-* Revenue Generation Index* (RGI) is a calculation of Hotel RevPar compared to other hotels, calculated as:  
+*Revenue Generation Index* (RGI) is a calculation of Hotel RevPar compared to other hotels, calculated as:  
 	1. RevPar / Market RevPar = RGI  
 	A Competitive Set of data is required to calculate this, generally RevPar / comp set X 100.  
 	A result of 1 or more suggests higher market share.  
