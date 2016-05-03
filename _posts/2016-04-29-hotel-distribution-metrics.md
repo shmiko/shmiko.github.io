@@ -15,12 +15,12 @@ There is a critical need to understand the following performance metrics in orde
 In no particular order we'll highlight the following metrics to be used to understand operating profits and capital gains for independant and chain hotels.   
 Understanding these metrics is key to maximise occupancy rates and the contribution margin generated to offset fixed cost base to generate profit.  
 
-- **Occupancy Rate (OCC).  
-- **Revenue per room (RevPar).  
-- **Average Daily Rate (ADR).  
-- **Market penetration index (MPI).  
-- **Average rate index (ARI).  
-- **Revenue generation index (RGI).  
+- Occupancy Rate (OCC).  
+- Revenue per room (RevPar).  
+- Average Daily Rate (ADR).  
+- Market penetration index (MPI).  
+- Average rate index (ARI).  
+- Revenue generation index (RGI).  
 
 These metrics are taught through a coursera course called The Fundamentals of Hotel Distribution which I absolutley recommend.  
 [Hotel Distribution Course](https://www.coursera.org/learn/hotel-distribution/home/info) The Fundamentals of Hotel Distribution.  
