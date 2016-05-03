@@ -11,15 +11,17 @@ tags: [ 'software','development methodoogies','lean','agile','scrum']
 
 So what's all the HooHa about Software Development Methodologies, lets see what the differences are bwtween the majors.    
 
-- Agile.  
-- Scrum.  
-- Waterfall.  
-- Extreme.  
-- Lean.  
-- Kanban.  
-- Personal Kanban.  
-- Kaizen.  
-- Tools.
+
+**We have....**     
+* Agile   
+* Scrum  
+* Waterfall  
+* Extreme  
+* Lean  
+* Kanban 
+* Personal Kanban  
+* Kaizen  
+* Tools 
 
 These methodologies are taught through numerous courses, but most notable are 1.Lean Software Development Fundamantals taught by Stephen Haunts from Puralsight and also Software Project Management Specialisation taught by University of Alberta through Coursera both of which I absolutley recommend.  
 [Lean Software Development Fundamantals](https://app.pluralsight.com/library/courses/lean-software-development-fundamentals/table-of-contents) Lean Software Development Fundamantals  
