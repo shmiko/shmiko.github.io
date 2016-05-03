@@ -43,6 +43,7 @@ The waterfall analogy is due to the fact that each phase flows steadily downward
 In 1985 is was further refined by Royce to have just 6 phases whilst still incorperating the original list.
 The waterfall model maintains that the next phase should only be started once the preceding phase has been completed, reviewed and verified.  
 
+**Next Up....**   
 * Agile   
 * Scrum  
 * Extreme  
