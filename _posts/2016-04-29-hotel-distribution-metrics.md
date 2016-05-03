@@ -13,7 +13,7 @@ Hotel Distribution is a demanding and highly competitive field and with the intr
 There is a critical need to understand the following performance metrics in order to understand and track hotel performance.   
 
 In no particular order we'll highlight the following metrics to be used to understand operating profits and capital gains for independant and chain hotels.   
-Undertanding these metrics is key to maximise occupancy rates and the contribution margin generated to offset their fixed cost base to generate profit.  
+Understanding these metrics is key to maximise occupancy rates and the contribution margin generated to offset fixed cost base to generate profit.  
 
 - **Occupancy Rate (OCC).  
 - **Revenue per room (RevPar).  
