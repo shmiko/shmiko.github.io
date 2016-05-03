@@ -1,0 +1,113 @@
+Script started on Tue May  3 23:16:58 2016
+[1m[7m%[27m[1m[0m                                                                                     [0m[27m[24m[J 
+[31mpauljones[00m@[36mPauls-MBP[33m /Volumes/disk0s2/WebApps/shmiko.github.io
+[32m>[00m [K[67C23:16[72Dsscript generate-tag   categories
+Script started, output file is generate-categories
+[1m[7m%[27m[1m[0m                                                                                     [0m[27m[24m[J 
+[31mpauljones[00m@[36mPauls-MBP[33m /Volumes/disk0s2/WebApps/shmiko.github.io
+[32m>[00m [K[67C23:17[72D..script generate-tag
+zsh: command not found: .script
+[1m[7m%[27m[1m[0m                                                                                     [0m[27m[24m[J 
+[31mpauljones[00m@[36mPauls-MBP[33m /Volumes/disk0s2/WebApps/shmiko.github.io
+[32m>[00m [K[67C23:18[72D//script generate-tag
+zsh: no such file or directory: /script
+[1m[7m%[27m[1m[0m                                                                                     [0m[27m[24m[J 
+[31mpauljones[00m@[36mPauls-MBP[33m /Volumes/disk0s2/WebApps/shmiko.github.io
+[32m>[00m [K[67C23:18[72Dggenerate-tag
+zsh: command not found: generate-tag
+[1m[7m%[27m[1m[0m                                                                                     [0m[27m[24m[J 
+[31mpauljones[00m@[36mPauls-MBP[33m /Volumes/disk0s2/WebApps/shmiko.github.io
+[32m>[00m [K[67C23:19[72D../script generate-tag
+zsh: no such file or directory: ./script
+[1m[7m%[27m[1m[0m                                                                                     [0m[27m[24m[J 
+[31mpauljones[00m@[36mPauls-MBP[33m /Volumes/disk0s2/WebApps/shmiko.github.io
+[32m>[00m [K[67C23:19[72Dsscripts generate-tag
+zsh: command not found: scripts
+[1m[7m%[27m[1m[0m                                                                                     [0m[27m[24m[J 
+[31mpauljones[00m@[36mPauls-MBP[33m /Volumes/disk0s2/WebApps/shmiko.github.io
+[32m>[00m [K[67C23:19[72D../scripts generate-tag
+zsh: permission denied: ./scripts
+[1m[7m%[27m[1m[0m                                                                                     [0m[27m[24m[J 
+[31mpauljones[00m@[36mPauls-MBP[33m /Volumes/disk0s2/WebApps/shmiko.github.io
+[32m>[00m [K[67C23:19[72D//scripts generate-tag
+zsh: no such file or directory: /scripts
+[1m[7m%[27m[1m[0m                                                                                     [0m[27m[24m[J 
+[31mpauljones[00m@[36mPauls-MBP[33m /Volumes/disk0s2/WebApps/shmiko.github.io
+[32m>[00m [K[67C23:19[72D..scripts generate-tag
+zsh: command not found: .scripts
+[1m[7m%[27m[1m[0m                                                                                     [0m[27m[24m[J 
+[31mpauljones[00m@[36mPauls-MBP[33m /Volumes/disk0s2/WebApps/shmiko.github.io
+[32m>[00m [K[67C23:19[72Dssudo scripts generate-tag
+Password:
+sudo: scripts: command not found
+[1m[7m%[27m[1m[0m                                                                                     [0m[27m[24m[J 
+[31mpauljones[00m@[36mPauls-MBP[33m /Volumes/disk0s2/WebApps/shmiko.github.io
+[32m>[00m [K[67C23:20[72D//scripts generate-tag
+zsh: no such file or directory: /scripts
+[1m[7m%[27m[1m[0m                                                                                     [0m[27m[24m[J 
+[31mpauljones[00m@[36mPauls-MBP[33m /Volumes/disk0s2/WebApps/shmiko.github.io
+[32m>[00m [K[67C23:20[72Dlls
+total 208
+drwxr-xr-x  40 pauljones  staff   1360  3 May 23:17 .
+drwxr-xr-x  67 pauljones  staff   2278  3 May 22:03 ..
+-rw-r--r--@  1 pauljones  staff   6148 25 Apr 05:19 .DS_Store
+drwxr-xr-x  15 pauljones  staff    510 24 Apr 00:04 .git
+-rwxr-xr-x   1 pauljones  staff    199  6 Mar 21:00 .gitignore
+drwxr-xr-x   3 pauljones  staff    102  6 Mar 21:01 .sass-cache
+-rw-r--r--   1 pauljones  staff    270  6 Mar 21:00 .travis.yml
+-rw-r--r--   1 pauljones  staff    184  6 Mar 21:00 404.html
+-rw-r--r--   1 pauljones  staff     19  6 Mar 21:00 CNAME
+-rwxr-xr-x   1 pauljones  staff   1077  6 Mar 21:00 LICENSE
+-rwxr-xr-x   1 pauljones  staff     24  6 Mar 21:00 README.md
+-rwxr-xr-x   1 pauljones  staff   3970 23 Apr 23:05 _config.yml
+drwxr-xr-x  25 pauljones  staff    850  7 Mar 22:16 _includes
+drwxr-xr-x   9 pauljones  staff    306  7 Mar 22:47 _layouts
+drwxr-xr-x  62 pauljones  staff   2108  3 May 22:42 _posts
+drwxr-xr-x   4 pauljones  staff    136  6 Mar 21:00 _sass
+drwxr-xr-x  37 pauljones  staff   1258 16 Apr 14:00 _site
+-rwxr-xr-x   1 pauljones  staff   2804  4 Apr 00:01 about.html
+drwxr-xr-x   3 pauljones  staff    102  6 Mar 21:00 blog
+drwxr-xr-x  12 pauljones  staff    408 16 Apr 12:42 categories
+drwxr-xr-x   6 pauljones  staff    204  6 Mar 21:00 css
+-rw-r--r--   1 pauljones  staff   1096  6 Mar 21:00 feed.xml
+-rw-r--r--   1 pauljones  staff     68  6 Mar 21:00 gallery.html
+-rw-r--r--   1 pauljones  staff   3354  3 May 23:20 generate-categories
+-rw-r--r--   1 pauljones  staff   3692  3 May 23:20 generate-tag
+-rw-r--r--   1 pauljones  staff     75  6 Mar 21:00 google-site-verification=s9iwCPlWGCpaDqf0cj9n88GiuK49b9bSreDDVpwqAYs.html
+drwxr-xr-x  36 pauljones  staff   1224 25 Apr 09:43 img
+-rwxr-xr-x   1 pauljones  staff    215  6 Mar 21:00 index.html
+drwxr-xr-x   6 pauljones  staff    204  6 Mar 21:00 js
+-rw-r--r--   1 pauljones  staff     54  6 Mar 21:00 latest-post.html
+-rw-r--r--   1 pauljones  staff     77  7 Mar 22:31 latrchive.html
+-rw-r--r--   1 pauljones  staff    948  6 Mar 21:00 manifest.json
+drwxr-xr-x   3 pauljones  staff    102  6 Mar 21:00 project
+-rw-r--r--   1 pauljones  staff  11082 16 Apr 12:48 project.html
+drwxr-xr-x  10 pauljones  staff    340  7 Mar 22:39 scripts
+-rw-r--r--   1 pauljones  staff   1342  6 Mar 21:00 sitemap.xml
+drwxr-xr-x  15 pauljones  staff    510 16 Apr 14:00 tags
+-rw-r--r--   1 pauljones  staff   2567  6 Mar 21:00 test.md
+-rwxr-xr-x   1 pauljones  staff     74  6 Mar 21:00 timeline.html
+-rw-r--r--   1 pauljones  staff     91  7 Mar 21:43 zontact.html
+[1m[7m%[27m[1m[0m                                                                                     [0m[27m[24m[J 
+[31mpauljones[00m@[36mPauls-MBP[33m /Volumes/disk0s2/WebApps/shmiko.github.io
+[32m>[00m [K[67C23:20[72Dccd scripts[1m/[0m[0m 
+[1m[7m%[27m[1m[0m                                                                                     [0m[27m[24m[J 
+[31mpauljones[00m@[36mPauls-MBP[33m /Volumes/disk0s2/WebApps/shmiko.github.io/scripts
+[32m>[00m [K[67C23:20[72Dggenerate-tag
+zsh: command not found: generate-tag
+[1m[7m%[27m[1m[0m                                                                                     [0m[27m[24m[J 
+[31mpauljones[00m@[36mPauls-MBP[33m /Volumes/disk0s2/WebApps/shmiko.github.io/scripts
+[32m>[00m [K[67C23:20[72Dccd ..
+[1m[7m%[27m[1m[0m                                                                                     [0m[27m[24m[J 
+[31mpauljones[00m@[36mPauls-MBP[33m /Volumes/disk0s2/WebApps/shmiko.github.io
+[32m>[00m [K[67C23:25[72D../scripts/personal-jekyll-theme                     generate-
+[Jgenerate-categories*  generate-tags*[A[0m[27m[24m[12C./scripts/generate-[K[48C23:25[53Dcategories
+[J[+] Generating #tourism page
+[1m[7m%[27m[1m[0m                                                                                     [0m[27m[24m[J 
+[31mpauljones[00m@[36mPauls-MBP[33m /Volumes/disk0s2/WebApps/shmiko.github.io
+[32m>[00m [K[67C23:25[72D./scripts/generate-categories          tags[1m [0m[0m 
+[+] Generating #tourism page
+[+] Generating #hotel distribution page
+[1m[7m%[27m[1m[0m                                                                                     [0m[27m[24m[J 
+[31mpauljones[00m@[36mPauls-MBP[33m /Volumes/disk0s2/WebApps/shmiko.github.io
+[32m>[00m [K[67C23:26[72D
