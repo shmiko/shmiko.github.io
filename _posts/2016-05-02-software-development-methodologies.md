@@ -27,6 +27,7 @@ These methodologies are taught through numerous courses, but most notable are 1.
 [Lean Software Development Fundamantals](https://app.pluralsight.com/library/courses/lean-software-development-fundamentals/table-of-contents) Lean Software Development Fundamantals  
 and [Software Project Management Specialisation](https://www.coursera.org/specializations/product-management) Software Project Management Specialisation
 
+**Starting with....**   
 * Waterfall  
 	Is a sequential design process first presented by Herbert Benington in 1956, originally used in manufacturing and construction. At this time no other methodologies existed and as such this method was adapted for software development.  
 It is based on the following phases:
