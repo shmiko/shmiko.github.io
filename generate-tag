@@ -220,4 +220,29 @@ To git@github.com:shmiko/shmiko.github.io
 [+] Generating #scrum page
 [1m[7m%[27m[1m[0m                                                                                     [0m[27m[24m[J 
 [31mpauljones[00m@[36mPauls-MBP[33m /Volumes/disk0s2/WebApps/shmiko.github.io
-[32m>[00m [K[68C0:02[72D
+[32m>[00m [K[68C0:02[72D./scripts/generate-tagscategories[29Dgitpo                        [24D commit -m "hotel metrics"[26Da                         [25D
+[1m[7m%[27m[1m[0m                                                                                     [0m[27m[24m[J 
+[31mpauljones[00m@[36mPauls-MBP[33m /Volumes/disk0s2/WebApps/shmiko.github.io
+[32m>[00m [K[68C0:02[72Dgita./scripts/generate-tagscategories[29Dgitpo                        [24D commit -m "hotel metrics"" " " " " " " " " " " " " s"o"f"t"w"a"r"e" "d"e"l"e"o"p"m"e"n"t" "m"e"t"h"o"d"o"l"o"g"i"e"s"[1C
+[master 204dcad] software deleopment methodologies
+ 9 files changed, 139 insertions(+), 2 deletions(-)
+ create mode 100644 _posts/2016-05-02-software-development-methodologies.md
+ create mode 100644 categories/development.html
+ create mode 100644 tags/agile.html
+ create mode 100644 tags/development methodoogies.html
+ create mode 100644 tags/lean.html
+ create mode 100644 tags/scrum.html
+ create mode 100644 tags/software.html
+[1m[7m%[27m[1m[0m                                                                                     [0m[27m[24m[J 
+[31mpauljones[00m@[36mPauls-MBP[33m /Volumes/disk0s2/WebApps/shmiko.github.io
+[32m>[00m [K[68C0:03[72Dggitpo
+Counting objects: 14, done.
+Delta compression using up to 4 threads.
+Compressing objects:   7% (1/14)   Compressing objects:  14% (2/14)   Compressing objects:  21% (3/14)   Compressing objects:  28% (4/14)   Compressing objects:  35% (5/14)   Compressing objects:  42% (6/14)   Compressing objects:  50% (7/14)   Compressing objects:  57% (8/14)   Compressing objects:  64% (9/14)   Compressing objects:  71% (10/14)   Compressing objects:  78% (11/14)   Compressing objects:  85% (12/14)   Compressing objects:  92% (13/14)   Compressing objects: 100% (14/14)   Compressing objects: 100% (14/14), done.
+Writing objects:   7% (1/14)   Writing objects:  14% (2/14)   Writing objects:  21% (3/14)   Writing objects:  28% (4/14)   Writing objects:  35% (5/14)   Writing objects:  42% (6/14)   Writing objects:  50% (7/14)   Writing objects:  57% (8/14)   Writing objects:  64% (9/14)   Writing objects:  71% (10/14)   Writing objects:  78% (11/14)   Writing objects:  85% (12/14)   Writing objects:  92% (13/14)   Writing objects: 100% (14/14)   Writing objects: 100% (14/14), 2.10 KiB | 0 bytes/s, done.
+Total 14 (delta 6), reused 0 (delta 0)
+To git@github.com:shmiko/shmiko.github.io
+   fad52ae..204dcad  master -> master
+[1m[7m%[27m[1m[0m                                                                                     [0m[27m[24m[J 
+[31mpauljones[00m@[36mPauls-MBP[33m /Volumes/disk0s2/WebApps/shmiko.github.io
+[32m>[00m [K[68C0:03[72D

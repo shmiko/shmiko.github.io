@@ -31,7 +31,7 @@
           {{ page.content | markdownify }}
 
           {% for tag in page.tags %}
-          <h5><a href="{{site.baseurl}}/tags/{{tag}}.html">More Related posts</a></h5>
+          <h5><a href="{{site.baseurl}}/tags/{{tag}}.html">{{tag}} Related posts</a></h5>
           {% endfor %}
           
           {% include share.html %}
