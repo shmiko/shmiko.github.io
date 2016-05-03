@@ -65,9 +65,28 @@ The Agile Manifesto is based on 12 principles:
 Sourced from [Principles behind the Agile Manifesto](http://www.agilemanifesto.org/principles.html) Principles behind the Agile Manifesto  
 
 **And now....**  
-* Scrum  
-* Extreme  
-* Lean  
+* Scrum is a iterative and incremental framework used for managing software development projects.  It is a flexible and holistic strategy where a team works towards a common goal.  
+First described in 1986 in Japan by Hirotaka Takeuchi and Ikujiro Nonaka suggesting that this method would increase speed and flexibility for commercial product development.  
+TBC...
+
+**Then there was....**  
+* Extreme programming (XP) was intended to improve the quality of software and the responsiveness to changes for customer requirements. It is a type of agile process advocating frequent sprint cycles intended to improve productivity and introduce checkpoints whereby new requirements can be adopted.  
+Programming pairing, code review and unit testing are other elements of extreme programming. 
+Created in 1996 by Kent Beck.  
+
+* Lean Software Development (LSD) is based on Lean Manufacturing and Lean IT principles and practices in the software development domain.  
+It was adapted from the famous production system as introduced by Toyota manufacturing in 1998.  
+
+It is based on 7 principles as proposed by Mary Poppendieck; Tom Poppendieck (2003) in their book titled [Lean Software Development: An Agile Toolkit] (https://books.google.com.au/books?id=hQk4S7asBi4C&pg=PA182&redir_esc=y) Lean Software Development: An Agile Toolkit.
+1. Eliminate waste  
+2. Amplify learning  
+3. Decide as late as possible  
+4. Deliver as fast as possible  
+5. Empower the team  
+6. Build integrity in  
+7. See the whole  
+
+**And....** 
 * Kanban  
 * Personal Kanban   
 * Kaizen  
