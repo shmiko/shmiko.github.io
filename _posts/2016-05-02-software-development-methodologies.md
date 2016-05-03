@@ -44,9 +44,11 @@ In 1985 is was further refined by Royce to have just 6 phases whilst still incor
 The waterfall model maintains that the next phase should only be started once the preceding phase has been completed, reviewed and verified.  
 
 **Next Up....**   
-* Agile  aka The Agile Manifesto - this is very common in the age of continual improvement, especially with start-ups and MVP's having a high iteration rate.  
+* Agile  aka The Agile Manifesto.  
+This is very common in the age of continual improvement, especially with start-ups and their MVP's having a high iteration rate.  
 This method of development is based on principles which require collaboration between self-organising, cross-functional teams where by requirements and solutions evolve gradually through adaptive planning, evolutionary development and continual improvement, encouraging rapid and flexible responseive changes to feedback.  
-Originally proclaimed in the 1980s, the manifesto was initiated in 1994.  
+Originally conceived in the 1980s, the manifesto was initiated in 1994 and finally proposed in 2001. 
+
 The Agile Manifesto is based on 12 principles:  
 1. Customer satisfaction by early and continuous delivery of valuable software  
 2. Welcome changing requirements, even in late development  
