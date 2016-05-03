@@ -18,7 +18,7 @@ So what's all the HooHa about Software Development Methodologies, lets see what 
 * Waterfall  
 * Extreme  
 * Lean  
-* Kanban 
+* Kanban  
 * Personal Kanban   
 * Kaizen  
 * Tools  
