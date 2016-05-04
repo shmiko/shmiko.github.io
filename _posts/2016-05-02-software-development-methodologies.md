@@ -27,8 +27,8 @@ So what's all the HooHa about Software Development Methodologies, lets see what 
 * Tools - Trello, KanbanFlow & KanbanNote
 
 These methodologies are taught through numerous courses, but most notable are 1.Lean Software Development Fundamantals taught by Stephen Haunts from Puralsight and also Software Project Management Specialisation taught by University of Alberta through Coursera both of which I absolutley recommend.  
-[Lean Software Development Fundamantals](https://app.pluralsight.com/library/courses/lean-software-development-fundamentals/table-of-contents) Lean Software Development Fundamantals  
-and [Software Project Management Specialisation](https://www.coursera.org/specializations/product-management) Software Project Management Specialisation
+[Lean Software Development Fundamantals](https://app.pluralsight.com/library/courses/lean-software-development-fundamentals/table-of-contents)  
+and [Software Project Management Specialisation](https://www.coursera.org/specializations/product-management)  
 
 **Starting with....**   
 * Waterfall  
@@ -47,7 +47,7 @@ In 1985 is was further refined by Royce to have just 6 phases whilst still incor
 
 The waterfall model maintains that the next phase should only be started once the preceding phase has been completed, reviewed and verified.  
 
-See more: [Waterfall](https://en.wikipedia.org/wiki/Waterfall_model) Waterfall Model
+See more: [Waterfall](https://en.wikipedia.org/wiki/Waterfall_model)  
 
 **Next Up....**   
 * Agile aka The Agile Manifesto.  
@@ -69,7 +69,7 @@ The Agile Manifesto is based on 12 principles:
 11. Best architectures, requirements, and designs emerge from self-organizing teams  
 12. Regularly, the team reflects on how to become more effective, and adjusts accordingly  
 
-Sourced from [Principles behind the Agile Manifesto](http://www.agilemanifesto.org/principles.html) Principles behind the Agile Manifesto  
+Sourced from [Principles behind the Agile Manifesto](http://www.agilemanifesto.org/principles.html)  
 
 **And now....**  
 * Scrum is a iterative and incremental framework used for managing software development projects.  It is a flexible and holistic strategy where a team works towards a common goal.  
@@ -82,7 +82,7 @@ cannot be fully understood or defined, focusing instead on maximizing the team's
 The workflow of Scrum includes Planning, Daily Scrum, Review and Retrospective and Extensions.  
 From a more software focus the term Scrumban is used as it is more suited to software development and projects with frequent and unexpected work items or progrmming errors.  
 
-Sourced from wikipedia:[Scrum software development](https://en.wikipedia.org/wiki/Scrum_(software_development)) Scrum (software development)  
+Sourced from wikipedia:[Scrum software development](https://en.wikipedia.org/wiki/Scrum_(software_development))   
 
 
 **Then there was....**  
@@ -99,13 +99,13 @@ Rules
 Principles - Feedback, Assumed Simplicity, Embracing Change.  
 
 XP attempts to reduce the cost of changes in requirements by having multiple short development cycles, rather than a long one. In this doctrine, changes are a natural, inescapable and desirable aspect of software-development projects, and should be planned for, instead of attempting to define a stable set of requirements.
-Check out more here [XP](https://en.wikipedia.org/wiki/Extreme_programming) Extreme Programming
+Check out more here [XP](https://en.wikipedia.org/wiki/Extreme_programming)  
 
 **As well as....**  
 * Lean Software Development (LSD) is based on Lean Manufacturing and Lean IT principles and practices in the software development domain.  
 It was adapted from the famous production system as introduced by Toyota manufacturing in 1998 kown as Kanban. (see below)  
 
-It is based on 7 principles as proposed by Mary Poppendieck; Tom Poppendieck (2003) in their book titled [Lean Software Development: An Agile Toolkit](https://books.google.com.au/books?id=hQk4S7asBi4C&pg=PA182&redir_esc=y) Lean Software Development: An Agile Toolkit.  
+It is based on 7 principles as proposed by Mary Poppendieck and Tom Poppendieck (2003) in their book titled [Lean Software Development: An Agile Toolkit](https://books.google.com.au/books?id=hQk4S7asBi4C&pg=PA182&redir_esc=y)   
 1. Eliminate waste  
 2. Amplify learning  
 3. Decide as late as possible  
@@ -114,7 +114,7 @@ It is based on 7 principles as proposed by Mary Poppendieck; Tom Poppendieck (20
 6. Build integrity in  
 7. See the whole  
 
-Explore the idea here: [Lean Software Development](https://en.wikipedia.org/wiki/Lean_software_development) Lean Software Development
+Explore the idea here: [Lean Software Development](https://en.wikipedia.org/wiki/Lean_software_development)  
 
 **And....**   
 * Kanban is aligned with Agile software development, it is a method for managing work with an emphasis on just-in-time delivery.  
@@ -126,7 +126,9 @@ It is based on 6 core priciples.
 4. Stabilization and rationalization process
 5. Anything that does not contribute to value creation for the customer, should be removed
 6. Exact adjustment of production levels
-source: [Kanban for software development](http://wiretech.org/about-cloud/11-kanban-for-software-development) Kanban for software development  
+
+source: [Kanban for software development](http://wiretech.org/about-cloud/11-kanban-for-software-development)  
+
 
 **Closely related to....**  
 * Personal Kanban was originally conceived by Jim Benson. Personal kanban tracks and visualises items of personal value - tasks, work and goals.  
@@ -135,6 +137,9 @@ Personal Kanban is a great tool to visualize your work, to limit your WIP and to
 Making use of a Kanban Board is a common way to visualise kanban and being split into 4 columns each having a distinct function it allows for some consise measurement of work in progress, backlog work and work that has been done.
 These 3 columns are referred to as a 'Value Stream', which is the flow of work from the moment you start it to the moment you finish it. This is often written onto a white board where tasks can be migrated from 1 column rto another as tasks are tracked.  
 It is based on iteration of tasks or Prioritising, Refining and Reducing.
+
+Discover more about [Personal Kanban](https://www.personalkanban.com)  
+
 
 **Also related to Kanban is....**  
 * 5s being a Japanese philosophy yet again based on similar core principles as Lean and Kanban and is essentially the same as JIT or Just-In-Time production.  
@@ -180,7 +185,7 @@ Also translates as "do without being told".
 Perform regular audits.  
 Training and Discipline.  
 
-See more at: [Personal Kanban 5s](http://www.personalkanban.com/pk/designpatterns/5s-in-personal-kanban/#sthash.bc1rYx5G.dpuf) 5s for Personal Kanaban
+See more at: [5s](http://www.personalkanban.com/pk/designpatterns/5s-in-personal-kanban/#sthash.bc1rYx5G.dpuf) 5s for Personal Kanaban
 
 
 **And finally....**    
@@ -191,6 +196,8 @@ and eliminates overly hark work, it also teaches people how to perform experimen
 Kaizen is closely associatted with Toyota. In short it is a continual improvement process and involves all employees, it can be applied to all processes such as purchasing, logistics that cross organisational boundaries into the supply chain.  
 The cycle of Kaizen can be defined as 'Plan, Do, Check, Act' or 'PDCA'. This acronym can also be labeled as 'Problem Finding, Disply, Clear, Acknowledge'.  
 Often used in conjunction with Kaizen is the technique known as the '5 Whys' which questions the user about a failure that may have occurred where each subsequent question is based on the previous one.
+
+more about [Kaizen](https://wwwleanproduction.com) can be found here.
 
 
 **Actually there is 1 more....**   
