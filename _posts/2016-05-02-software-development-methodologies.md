@@ -31,6 +31,7 @@ These methodologies are taught through numerous courses, but most notable are 1.
 and [Software Project Management Specialisation](https://www.coursera.org/specializations/product-management)  
 
 **Starting with....**   
+
 **Waterfall**  
 
 #### A sequential design process first presented by Herbert Benington in 1956, originally used in manufacturing and construction. At this time no other methodologies existed and as such this method was adapted for software development.  
@@ -53,6 +54,7 @@ The waterfall model maintains that the next phase should only be started once th
 See more: [Waterfall](https://en.wikipedia.org/wiki/Waterfall_model)  
 
 **Next Up....**   
+
 **Agile** aka The Agile Manifesto.  
 
 #### Agile is a method of development is based on principles which require collaboration between self-organising, cross-functional teams where by requirements and solutions evolve gradually through adaptive planning, evolutionary development and continual improvement, encouraging rapid and flexible responseive changes to feedback.  
@@ -76,6 +78,7 @@ The Agile Manifesto is based on 12 principles:
 Sourced from [Principles behind the Agile Manifesto](http://www.agilemanifesto.org/principles.html)  
 
 **And now....**  
+
 **Scrum** is a iterative and incremental framework used for managing software development projects.  It is a flexible and holistic strategy where a team works towards a common goal.  
 
 #### First described in 1986 in Japan by Hirotaka Takeuchi and Ikujiro Nonaka who suggested that this method would increase speed and flexibility for commercial product development.  
@@ -90,7 +93,8 @@ From a more software focus the term Scrumban is used as it is more suited to sof
 Sourced from wikipedia:[Scrum software development](https://en.wikipedia.org/wiki/Scrum_(software_development))   
 
 
-**Then there was....**  
+**And now....**  
+
 **Extreme programming** (XP) 
 
 #### intended to improve the quality of software and the responsiveness to changes for customer requirements. 
@@ -112,7 +116,8 @@ XP attempts to reduce the cost of changes in requirements by having multiple sho
 
 Check out more here [XP](https://en.wikipedia.org/wiki/Extreme_programming)  
 
-**As well as....**  
+**Also....**  
+
 **Lean Software Development** (LSD) 
 
 #### Based on Lean Manufacturing and Lean IT principles and practices in the software development domain.  
@@ -130,7 +135,8 @@ It is based on 7 principles as proposed by Mary Poppendieck and Tom Poppendieck 
 
 Explore the idea here: [Lean Software Development](https://en.wikipedia.org/wiki/Lean_software_development)  
 
-**And....**   
+**And....**  
+
 **Kanban** 
 
 #### It is aligned with Agile software development, it is a method for managing work with an emphasis on just-in-time delivery.  
@@ -148,6 +154,7 @@ source: [Kanban for software development](http://wiretech.org/about-cloud/11-kan
 
 
 **Closely related to....**  
+
 **Personal Kanban** 
 
 #### Originally conceived by Jim Benson. Personal kanban tracks and visualises items of personal value - tasks, work and goals.  
@@ -162,6 +169,7 @@ Discover more about [Personal Kanban](https://www.personalkanban.com)
 
 
 **Also related to Kanban is....**  
+
 **5s** 
 
 #### A Japanese philosophy yet again based on similar core principles as Lean and Kanban and is essentially the same as JIT or Just-In-Time production.  
@@ -212,6 +220,7 @@ See more at: [5s](http://www.personalkanban.com/pk/designpatterns/5s-in-personal
 
 
 **And finally....**    
+
 **Kaizen** (Continuous Improvement) 
 
 #### A strategy where employees at all levels of a company work together proactively to achieve regular, incremental improvements to the manufacturing process. In a sense, it combines the collective talents within a company to create a powerful engine for improvement.  
@@ -226,7 +235,8 @@ Often used in conjunction with Kaizen is the technique known as the '5 Whys' whi
 more about [Kaizen](https://wwwleanproduction.com) can be found here.
 
 
-**Actually there is 1 more....**   
+**Actually there is 1 more....**  
+
 **Six Sigma** 
 
 #### A set of techniques and tools for process improvement. It was introduced by engineer Bill Smith while working at Motorola in 1986.  
@@ -239,6 +249,7 @@ See more at: [Six Sigma](https://en.wikipedia.org/wiki/Six_Sigma)
 
 
 **Ok last one I promise....** 
+
 **Kaikaku** (Japanese for "radical change")  
 
 #### Abusiness concept concerned with making fundamental and radical changes to a production system, unlike Kaizen which is focused on incremental minor changes.  
@@ -265,10 +276,14 @@ See more at wikipedia: [Kaikaku](https://en.wikipedia.org/wiki/Kaikaku)
 
 
 **Some useful tools include....**  
-* Tools to help:  
-**Trello** is a web-based project management application originally made by Fog Creek Software in 2011, that spun out to be its own company in 2014.  
 
-#### Trello uses the kanban paradigm for managing projects, originally popularized by Toyota in the 1980s for supply chain management.  
+* Tools to help:  
+
+**Trello** 
+
+#### A web-based project management application originally made by Fog Creek Software in 2011, that spun out to be its own company in 2014.  
+
+Trello uses the kanban paradigm for managing projects, originally popularized by Toyota in the 1980s for supply chain management.  
 
 Projects are represented by boards, which contain lists (corresponding to task lists). Lists contain cards (corresponding to tasks).  
 Cards are supposed to progress from one list to the next (via drag-and-drop), for instance mirroring the flow of a feature from idea to implementation.  
@@ -277,9 +292,11 @@ Users and boards can be grouped into organisations.
 
 See more about Trello here [Trello](https://trello.com/)  
 
-**KanbanFlow** can be used as a Lean project management tool for you and your team.  
+**KanbanFlow** 
 
-#### Visualize your work
+#### A Lean project management tool for you and your team.  
+
+Visualize your work
 
 The Kanban board gives you an excellent overview of your current work situation.
 When working in a team of people you can instantly see what other people are working on right now, what has been done and what is coming up. 
