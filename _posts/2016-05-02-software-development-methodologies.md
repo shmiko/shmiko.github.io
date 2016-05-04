@@ -31,7 +31,8 @@ These methodologies are taught through numerous courses, but most notable are 1.
 and [Software Project Management Specialisation](https://www.coursera.org/specializations/product-management)  
 
 **Starting with....**   
-**Waterfall** 
+**Waterfall**  
+
 ### Which is a sequential design process first presented by Herbert Benington in 1956, originally used in manufacturing and construction. At this time no other methodologies existed and as such this method was adapted for software development.  
 ### It is based on the following phases:  
 1. Conception  
@@ -51,6 +52,7 @@ See more: [Waterfall](https://en.wikipedia.org/wiki/Waterfall_model)
 
 **Next Up....**   
 **Agile** aka The Agile Manifesto.  
+
 ### This is very common in the age of continual improvement, especially with start-ups and their MVP's having a high iteration rate.  
 This method of development is based on principles which require collaboration between self-organising, cross-functional teams where by requirements and solutions evolve gradually through adaptive planning, evolutionary development and continual improvement, encouraging rapid and flexible responseive changes to feedback.  
 Originally conceived in the 1980s, the manifesto was initiated in 1994 and finally proposed in 2001. 
@@ -73,6 +75,7 @@ Sourced from [Principles behind the Agile Manifesto](http://www.agilemanifesto.o
 
 **And now....**  
 **Scrum** is a iterative and incremental framework used for managing software development projects.  It is a flexible and holistic strategy where a team works towards a common goal.  
+
 ### First described in 1986 in Japan by Hirotaka Takeuchi and Ikujiro Nonaka suggesting that this method would increase speed and flexibility for commercial product development.  
 
 A key principle of scrum is its recognition that during production processes, 
@@ -87,6 +90,7 @@ Sourced from wikipedia:[Scrum software development](https://en.wikipedia.org/wik
 
 **Then there was....**  
 **Extreme programming** (XP) was intended to improve the quality of software and the responsiveness to changes for customer requirements. It is a type of agile process advocating frequent sprint cycles intended to improve productivity and introduce checkpoints whereby new requirements can be adopted.  
+
 ### Programming pairing, code review and unit testing are other elements of extreme programming. 
 Created in 1996 by Kent Beck.  
 
@@ -104,6 +108,7 @@ Check out more here [XP](https://en.wikipedia.org/wiki/Extreme_programming)
 
 **As well as....**  
 **Lean Software Development** (LSD) is based on Lean Manufacturing and Lean IT principles and practices in the software development domain.  
+
 ### It was adapted from the famous production system as introduced by Toyota manufacturing in 1998 kown as Kanban. (see below)  
 
 It is based on 7 principles as proposed by Mary Poppendieck and Tom Poppendieck (2003) in their book titled [Lean Software Development: An Agile Toolkit](https://books.google.com.au/books?id=hQk4S7asBi4C&pg=PA182&redir_esc=y)   
@@ -119,6 +124,7 @@ Explore the idea here: [Lean Software Development](https://en.wikipedia.org/wiki
 
 **And....**   
 **Kanban** is aligned with Agile software development, it is a method for managing work with an emphasis on just-in-time delivery.  
+
 ### Developed by Toyota in the 1960s it is a visual process managaement system. Kanban helps company's to control the logistics chain being a pull flow system based on sales requirements.
 It is based on 6 core priciples.  
 1. Visualise - most common is to use a board with cards and columns. Each column represents the different state or step in the workflow.
@@ -133,6 +139,7 @@ source: [Kanban for software development](http://wiretech.org/about-cloud/11-kan
 
 **Closely related to....**  
 **Personal Kanban** was originally conceived by Jim Benson. Personal kanban tracks and visualises items of personal value - tasks, work and goals.  
+
 ### In contrast to industry style kanban as described above which tracks industrial objects of value as they travel through a production stream, personal kanban tracks items of person value they travel thru a less predictable path. 
 Personal Kanban is a great tool to visualize your work, to limit your WIP and to take better control of your life, either alone or together with your significant other, your kids or even your team at the office.
 Making use of a Kanban Board is a common way to visualise kanban and being split into 4 columns each having a distinct function it allows for some consise measurement of work in progress, backlog work and work that has been done.
@@ -144,6 +151,7 @@ Discover more about [Personal Kanban](https://www.personalkanban.com)
 
 **Also related to Kanban is....**  
 **5s** being a Japanese philosophy yet again based on similar core principles as Lean and Kanban and is essentially the same as JIT or Just-In-Time production.  
+
 ### It is a set of steps that streamline work processes, eliminating waste and inefficiencies and helping to reduce variation in processes.  
 By combining these 5 principles with your personal kanban will allow you to reap more benefits. 
 The Japanese terms are seiri, seiton, seiso, seiketsu, and shitsuke and when romanised all start with the letter 'S'.  
@@ -191,6 +199,7 @@ See more at: [5s](http://www.personalkanban.com/pk/designpatterns/5s-in-personal
 
 **And finally....**    
 **Kaizen** (Continuous Improvement) is a strategy where employees at all levels of a company work together proactively to achieve regular, incremental improvements to the manufacturing process. In a sense, it combines the collective talents within a company to create a powerful engine for improvement.  
+
 ### Kaizen actually means 'Improvement' or 'Change for Better' in Sino-Japanese.  
 It is a daily process which goes beyond simple productivity improvemnet. It is a process that when done properly humanises the workplace  
 and eliminates overly hark work, it also teaches people how to perform experiments of their work using scientific methods and how to learn to spot and eliminate waste in a business process.
@@ -203,6 +212,7 @@ more about [Kaizen](https://wwwleanproduction.com) can be found here.
 
 **Actually there is 1 more....**   
 **Six Sigma** is a set of techniques and tools for process improvement. It was introduced by engineer Bill Smith while working at Motorola in 1986.  
+
 ### Six Sigma seeks to improve the quality of the output of a process by identifying and removing the causes of defects and minimizing variability in manufacturing and business processes.  
 It uses a set of quality management methods, mainly empirical, statistical methods, and creates a special infrastructure of people within the organization, who are experts in these methods.  
 A six sigma process is one in which 99.99966% of all opportunities to produce some feature of a part are statistically expected to be free of defects (3.4 defective features per million opportunities).  
@@ -212,6 +222,7 @@ See more at: [Six Sigma](https://en.wikipedia.org/wiki/Six_Sigma)
 
 **Ok last one I promise....** 
 **Kaikaku** (Japanese for "radical change") is a business concept concerned with making fundamental and radical changes to a production system, unlike Kaizen which is focused on incremental minor changes.  
+
 ### Both Kaizen and Kaikaku can be applied to activities other than production.
 Kaikaku and Kaizen are concepts in Japanese production philosophy that relate to each other. Both have origins in the Toyota Production System.
 
@@ -236,6 +247,7 @@ See more at wikipedia: [Kaikaku](https://en.wikipedia.org/wiki/Kaikaku)
 **Some useful tools include....**  
 * Tools to help:  
 **Trello** is a web-based project management application originally made by Fog Creek Software in 2011, that spun out to be its own company in 2014.  
+
 ### Trello uses the kanban paradigm for managing projects, originally popularized by Toyota in the 1980s for supply chain management.  
 Projects are represented by boards, which contain lists (corresponding to task lists). Lists contain cards (corresponding to tasks).  
 Cards are supposed to progress from one list to the next (via drag-and-drop), for instance mirroring the flow of a feature from idea to implementation.  
@@ -244,7 +256,8 @@ Users and boards can be grouped into organisations.
 
 See more about Trello here [Trello](https://trello.com/)  
 
-**KanbanFlow** can be used as a Lean project management tool for you and your team. 
+**KanbanFlow** can be used as a Lean project management tool for you and your team.  
+
 ### Visualize your work
 The Kanban board gives you an excellent overview of your current work situation.
 When working in a team of people you can instantly see what other people are working on right now, what has been done and what is coming up. 
@@ -257,6 +270,7 @@ Then work another 25 minutes followed by another break. And so on.
 Check out KanbanFlow here [KanbanFlow](https://kanbanflow.com/features)    
 
 **KanbanNote**  
+
 ### "Evernote as a Kanban board"  
 Save time by getting quickly a Kanban view of your notes.
 1. CONNECT WITH EVERNOTE
