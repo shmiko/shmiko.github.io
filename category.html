@@ -32,7 +32,7 @@ Here we generate all the categories.
 
 
 <html lang="{{ site.lang }}">
-
+  {% include head.html %}
   <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
 
     <section id="{{ page.title }}" class="container content-section text-center" style="
@@ -96,7 +96,7 @@ Here we generate all the categories.
   {% endunless %}
   {% endfor %}
 </ul>
-
+{% include social-buttons.html %}
 </div>
 
 
@@ -109,6 +109,8 @@ Here we generate all the categories.
 
       </div>
     </section>
+    {% include footer.html %}
 
+    {% include js.html %}
   </body>
 </html>
