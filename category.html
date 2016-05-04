@@ -60,7 +60,7 @@ Here we generate all the categories.
 <h2 id="{{ ct | slugify }}">{{ ct }}</h2>
 <ul class="category-list">
   {% for post in site.posts %}
-  {% if post.category contains ct %}
+  {% if post.categories contains ct %}
   <li>
     <h3>
       <a href="{{ post.url }}">
