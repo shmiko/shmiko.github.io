@@ -40,7 +40,7 @@ Here we generate all the categories.
       <div class="row" id='projects' style="padding-top: 100px;">
         <div class="col-lg-8 col-lg-offset-2">
 
-          <h1><strong>Categories</strong></h1>
+          <h1><strong>Categories!</strong></h1>
           </div>
 
 
@@ -81,7 +81,7 @@ Here we generate all the categories.
 <h2 id="no-category">No Category</h2>
 <ul class="category-list">
   {% for post in site.posts %}
-  {% unless post.category %}
+  {% unless post.categories %}
   <li>
     <h3>
       <a href="{{ post.url }}">
