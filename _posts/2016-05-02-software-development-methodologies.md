@@ -277,7 +277,7 @@ See more at wikipedia: [Kaikaku](https://en.wikipedia.org/wiki/Kaikaku)
 
 **Some useful tools include....**  
 
-* Tools to help:  
+*Tools to help:  
 
 **Trello** 
 
