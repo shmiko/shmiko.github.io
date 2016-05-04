@@ -1,5 +1,6 @@
 ---
-layout:   blog
+layout: null
+section-type: projects-p
 title:    Category
 ---
 {% comment%}
@@ -29,6 +30,20 @@ Here we generate all the categories.
 {% endif %}
 {% endfor %}
 
+
+<html lang="{{ site.lang }}">
+  {% include head.html %}
+  <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
+
+    <section id="{{ page.title }}" class="container content-section text-center" style="
+    padding-top: 0px;">
+      <div class="row" id='projects' style="padding-top: 100px;">
+        <div class="col-lg-8 col-lg-offset-2">
+
+          <h1><strong>Categories!</strong></h1>
+          </div>
+
+
 <h1 class="page-title">
   <a href="/blog">Blog</a> | {{ page.title }}
 </h1>
@@ -46,7 +61,7 @@ Here we generate all the categories.
 <h2 id="{{ ct | slugify }}">{{ ct }}</h2>
 <ul class="category-list">
   {% for post in site.posts %}
-  {% if post.category contains ct %}
+  {% if post.categories contains ct %}
   <li>
     <h3>
       <a href="{{ post.url }}">
@@ -81,5 +96,21 @@ Here we generate all the categories.
   {% endunless %}
   {% endfor %}
 </ul>
-
+{% include social-buttons.html %}
 </div>
+
+
+
+<br>
+<br>
+<br>
+
+
+
+      </div>
+    </section>
+    {% include footer.html %}
+
+    {% include js.html %}
+  </body>
+</html>
