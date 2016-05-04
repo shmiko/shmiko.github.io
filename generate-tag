@@ -641,4 +641,22 @@ To git@github.com:shmiko/shmiko.github.io
    1d4c189..89d6a1e  master -> master
 [1m[7m%[27m[1m[0m                                                                                     [0m[27m[24m[J 
 [31mpauljones[00m@[36mPauls-MBP[33m /Volumes/disk0s2/WebApps/shmiko.github.io
-[32m>[00m [K[68C1:05[72D
+[32m>[00m [K[68C1:05[72Dgitpo commit -m "software deleopment methodologies"[46Da                                             [45D
+[1m[7m%[27m[1m[0m                                                                                     [0m[27m[24m[J 
+[31mpauljones[00m@[36mPauls-MBP[33m /Volumes/disk0s2/WebApps/shmiko.github.io
+[32m>[00m [K[68C1:09[72Dgitapo commit -m "software deleopment methodologies"
+[master 30b83c6] software deleopment methodologies
+ 3 files changed, 53 insertions(+), 4 deletions(-)
+[1m[7m%[27m[1m[0m                                                                                     [0m[27m[24m[J 
+[31mpauljones[00m@[36mPauls-MBP[33m /Volumes/disk0s2/WebApps/shmiko.github.io
+[32m>[00m [K[68C1:09[72Dgit commit -m "software deleopment methodologies"[46Da                                             [45Dpo
+Counting objects: 6, done.
+Delta compression using up to 4 threads.
+Compressing objects:  16% (1/6)   Compressing objects:  33% (2/6)   Compressing objects:  50% (3/6)   Compressing objects:  66% (4/6)   Compressing objects:  83% (5/6)   Compressing objects: 100% (6/6)   Compressing objects: 100% (6/6), done.
+Writing objects:  16% (1/6)   Writing objects:  33% (2/6)   Writing objects:  50% (3/6)   Writing objects:  66% (4/6)   Writing objects:  83% (5/6)   Writing objects: 100% (6/6)   Writing objects: 100% (6/6), 772 bytes | 0 bytes/s, done.
+Total 6 (delta 5), reused 0 (delta 0)
+To git@github.com:shmiko/shmiko.github.io
+   89d6a1e..30b83c6  master -> master
+[1m[7m%[27m[1m[0m                                                                                     [0m[27m[24m[J 
+[31mpauljones[00m@[36mPauls-MBP[33m /Volumes/disk0s2/WebApps/shmiko.github.io
+[32m>[00m [K[68C1:09[72D
