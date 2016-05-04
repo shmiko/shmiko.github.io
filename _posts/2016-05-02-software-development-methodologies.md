@@ -185,7 +185,7 @@ Also translates as "do without being told".
 Perform regular audits.  
 Training and Discipline.  
 
-See more at: [5s](http://www.personalkanban.com/pk/designpatterns/5s-in-personal-kanban/#sthash.bc1rYx5G.dpuf) 5s for Personal Kanaban
+See more at: [5s](http://www.personalkanban.com/pk/designpatterns/5s-in-personal-kanban/#sthash.bc1rYx5G.dpuf)  
 
 
 **And finally....**    
@@ -206,7 +206,7 @@ Six Sigma seeks to improve the quality of the output of a process by identifying
 It uses a set of quality management methods, mainly empirical, statistical methods, and creates a special infrastructure of people within the organization, who are experts in these methods.  
 A six sigma process is one in which 99.99966% of all opportunities to produce some feature of a part are statistically expected to be free of defects (3.4 defective features per million opportunities).  
 
-See more at: [Six Sigma](https://en.wikipedia.org/wiki/Six_Sigma) Six Sigma
+See more at: [Six Sigma](https://en.wikipedia.org/wiki/Six_Sigma)  
 
 
 **Ok last one I promise....** 
@@ -229,7 +229,7 @@ eg. the introduction of a new and innovative production technology
 Radically innovative - Operation close
 eg. the introduction of new and innovative production solutions that are new to the industry 
 
-See more at wikipedia: [Kaikaku](https://en.wikipedia.org/wiki/Kaikaku) Kaikaku
+See more at wikipedia: [Kaikaku](https://en.wikipedia.org/wiki/Kaikaku)  
 
 
 **Some useful tools include....**  
@@ -241,7 +241,7 @@ Cards are supposed to progress from one list to the next (via drag-and-drop), fo
 Users can be assigned to cards. 
 Users and boards can be grouped into organisations.  
 
-See more about Trello here [Trello](https://trello.com/) Trello
+See more about Trello here [Trello](https://trello.com/)  
 
 *KanbanFlow* can be used as a Lean project management tool for you and your team. 
 Visualize your work
@@ -253,7 +253,7 @@ The timer supports the popular Pomodoro technique for time management.
 The Pomodoro technique recommends working with full focus for 25 minutes before taking a short break.  
 Then work another 25 minutes followed by another break. And so on.  
 
-Check out KanbanFlow here [KanbanFlow](https://kanbanflow.com/features) KanbanFlow  
+Check out KanbanFlow here [KanbanFlow](https://kanbanflow.com/features)    
 
 *KanbanNote*  
 "Evernote as a Kanban board"  
@@ -264,7 +264,7 @@ Save time by getting quickly a Kanban view of your notes.
 Because we realized that Evernote is a crazy software for managing notes and task but the only thing missing is this Kanban view of notes.
 
 Kanbanote is optimized for Getting Things Done with the The Secret Weapon method.  
-Find out more at [KanbanNote](www.kanbanote.com) KanbanNote  
+Find out more at [KanbanNote](www.kanbanote.com)   
 
 
 
