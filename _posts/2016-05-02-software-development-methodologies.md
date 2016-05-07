@@ -27,7 +27,7 @@ So what's all the HooHa about Software Development Methodologies, lets see what 
 * [5s](#5s)      
 * [Kaizen](#Kaizen)        
 * [Six Sigma](#Six Sigma)        
-* [KaiKaku](#KaiKaku)      
+* [KaiKaku](#Kaikaku)      
 * [Tools](#Tools) - Trello, KanbanFlow & KanbanNote
 
 These methodologies are taught through numerous courses, but most notable are 1.Lean Software Development Fundamantals taught by Stephen Haunts from Puralsight and also Software Project Management Specialisation taught by University of Alberta through Coursera both of which I absolutley recommend.  
@@ -52,6 +52,7 @@ The waterfall model maintains that the next phase should only be started once th
 
 See more: [Waterfall](https://en.wikipedia.org/wiki/Waterfall_model)  
 <a id="V-Model"></a>  
+  
 
 ---
   
@@ -68,8 +69,9 @@ V-Model Layout:
  
 
 The V-Model is still a consectutive process but does allow for product verification at multiple levels.  
-<a id="Sawtooth"></a> 
 [Top](#top)
+<a id="Sawtooth"></a> 
+  
 
 ---
   
@@ -82,8 +84,9 @@ Sawtooth Layout:
 ![Sawtooth](/img/sawtooth.png "Sawtooth")
 
 As with Waterfall and the V-Model there is limited scope for change and as a sequential process if there is any change incorperated then all initial processes must be repeated which results ina costly and time consuming process.  
-<a id="Agile"></a>  
 [Top](#top)  
+<a id="Agile"></a>  
+  
 
 ---
   
@@ -111,6 +114,7 @@ The Agile Manifesto is based on 12 principles:
 Sourced from [Principles behind the Agile Manifesto](http://www.agilemanifesto.org/principles.html)     
 [Top](#top)   
 <a id="Scrum"></a>   
+  
 
 ---
   
@@ -129,6 +133,7 @@ From a more software focus the term Scrumban is used as it is more suited to sof
 Sourced from wikipedia:[Scrum software development](https://en.wikipedia.org/wiki/Scrum_(software_development))     
 [Top](#top)   
 <a id="Extreme"></a>   
+  
 
 ---
   
@@ -155,9 +160,11 @@ XP attempts to reduce the cost of changes in requirements by having multiple sho
 Check out more here [XP](https://en.wikipedia.org/wiki/Extreme_programming)    
 [Top](#top)   
 <a id="Lean"></a>  
+  
 
 ---
   
+
 
 **Lean Software Development** (LSD) 
 
@@ -177,6 +184,7 @@ It is based on 7 principles as proposed by Mary Poppendieck and Tom Poppendieck 
 Explore the idea here: [Lean Software Development](https://en.wikipedia.org/wiki/Lean_software_development)    
 [Top](#top)   
 <a id="Kanban"></a>  
+  
 
 ---
   
@@ -197,6 +205,7 @@ It is based on 6 core priciples.
 source: [Kanban for software development](http://wiretech.org/about-cloud/11-kanban-for-software-development)    
 [Top](#top)   
 <a id="Personal Kanban"></a>  
+  
 
 ---
 
@@ -214,6 +223,7 @@ It is based on iteration of tasks or Prioritising, Refining and Reducing.
 Discover more about [Personal Kanban](https://www.personalkanban.com)    
 [Top](#top)   
 <a id="5s"></a>    
+  
 
 ---
   
@@ -267,6 +277,7 @@ Training and Discipline.
 See more at: [5s](http://www.personalkanban.com/pk/designpatterns/5s-in-personal-kanban/#sthash.bc1rYx5G.dpuf)    
 [Top](#top)   
 <a id="Kaizen"></a>  
+  
 
 ---
   
@@ -285,6 +296,7 @@ Often used in conjunction with Kaizen is the technique known as the '5 Whys' whi
 more about [Kaizen](https://wwwleanproduction.com) can be found here.     
 [Top](#top)   
 <a id="Six Sigma"></a>  
+  
 
 ---
   
@@ -300,6 +312,7 @@ A six sigma process is one in which 99.99966% of all opportunities to produce so
 See more at: [Six Sigma](https://en.wikipedia.org/wiki/Six_Sigma)    
 [Top](#top)   
 <a id="Kaikaku"></a>  
+  
 
 ---
   
@@ -329,7 +342,8 @@ eg. the introduction of new and innovative production solutions that are new to 
 See more at wikipedia: [Kaikaku](https://en.wikipedia.org/wiki/Kaikaku)    
 [Top](#top)   
 <a id="Tools"></a>  
-
+  
+  
 ---
   
 
