@@ -34,11 +34,10 @@ and [Software Project Management Specialisation](https://www.coursera.org/specia
 
 **Starting with....**   
 
-<a id="Waterfall">**Waterfall**</a>
+**Waterfall**  
 
 #### A linear sequential design process first presented by Herbert Benington in 1956, originally used in manufacturing and construction. At this time no other methodologies existed and as such this method was adapted for software development.  
-
-
+<a id="Waterfall"></a>  
 It is a Linear Process Model based on the following phases:  
 
 Waterfall Layout: 
@@ -51,10 +50,11 @@ The waterfall model maintains that the next phase should only be started once th
 
 See more: [Waterfall](https://en.wikipedia.org/wiki/Waterfall_model)  
 
-<a id="V-Model">**V-Model**</a>
+
+**V-Model**  
 
 #### Whilst still a linear process there is a small improvement over the Waterfall model  as it allows for more client involvement.
-
+<a id="V-Model"></a>  
 The V-Model was created in response to the limitations of the Waterfall model however this process is still strict and can be costly to incorperate changes.  
 The V-Model beginds with the left sided Analysis and Requirements phase and end with the right sided acceptance testing phase.
 The phases on the right side validate the left sided phases.
@@ -64,20 +64,20 @@ V-Model Layout:
 
 The V-Model is still a consectutive process but does allow for product verification at multiple levels.  [Top](#top)  
 
- <a id="Sawtooth">**Sawtooth**</a> 
+**Sawtooth**  
 
 #### The Sawtooth model is also a linear model process but was introduced to addresss the lack of client involvement in Waterfall and V-Model processes.  
-
+<a id="Sawtooth"></a>  
 Sawtooth Layout: 
 ![Sawtooth](/img/sawtooth.png "Sawtooth")
 
 As with Waterfall and the V-Model there is limited scope for change and as a sequential process if there is any change incorperated then all initial processes must be repeated which results ina costly and time consuming process.  
 
 
-<a id="Agile">**Agile**</a> aka The Agile Manifesto.  
+**Agile** aka The Agile Manifesto.  
 
 #### Agile is a method of development is based on principles which require collaboration between self-organising, cross-functional teams where by requirements and solutions evolve gradually through adaptive planning, evolutionary development and continual improvement, encouraging rapid and flexible responseive changes to feedback.  
-
+<a id="Agile"></a>  
 Originally conceived in the 1980s, the manifesto was initiated in 1994 and finally proposed in 2001. 
 
 The Agile Manifesto is based on 12 principles:  
@@ -97,10 +97,10 @@ The Agile Manifesto is based on 12 principles:
 Sourced from [Principles behind the Agile Manifesto](http://www.agilemanifesto.org/principles.html)    [Top](#top)  
  
 
-<a id="Scrum">**Scrum**</a> is a iterative and incremental framework used for managing software development projects.  It is a flexible and holistic strategy where a team works towards a common goal.  
+**Scrum** is a iterative and incremental framework used for managing software development projects.  It is a flexible and holistic strategy where a team works towards a common goal.  
 
 #### First described in 1986 in Japan by Hirotaka Takeuchi and Ikujiro Nonaka who suggested that this method would increase speed and flexibility for commercial product development.  
-
+<a id="Scrum"></a>  
 A key principle of scrum is its recognition that during production processes, 
 the customers can change their minds about what they want and need (often called requirements volatility[4]), 
 and that unpredicted challenges cannot be easily addressed in a traditional predictive or planned manner. As such, scrum adopts an empirical approach—accepting that the problem 
@@ -111,10 +111,10 @@ From a more software focus the term Scrumban is used as it is more suited to sof
 Sourced from wikipedia:[Scrum software development](https://en.wikipedia.org/wiki/Scrum_(software_development))     [Top](#top)  
  
 
-<a id="Extreme">**Extreme programming**</a> (XP) 
+**Extreme programming** (XP) 
 
 #### intended to improve the quality of software and the responsiveness to changes for customer requirements. 
-
+<a id="Extreme"></a>  
 It is a type of agile process advocating frequent sprint cycles intended to improve productivity and introduce checkpoints whereby new requirements can be adopted.  
 
 Programming pairing, code review and unit testing are other elements of extreme programming. 
@@ -134,10 +134,10 @@ Check out more here [XP](https://en.wikipedia.org/wiki/Extreme_programming)    [
 
 
 
-<a id="Lean">**Lean Software Development**</a> (LSD) 
+**Lean Software Development** (LSD) 
 
 #### Based on Lean Manufacturing and Lean IT principles and practices in the software development domain.  
-
+<a id="Lean"></a>  
 It was adapted from the famous production system as introduced by Toyota manufacturing in 1998 kown as Kanban. (see below)  
 
 It is based on 7 principles as proposed by Mary Poppendieck and Tom Poppendieck (2003) in their book titled [Lean Software Development: An Agile Toolkit](https://books.google.com.au/books?id=hQk4S7asBi4C&pg=PA182&redir_esc=y)   
@@ -153,10 +153,10 @@ Explore the idea here: [Lean Software Development](https://en.wikipedia.org/wiki
 
  
 
-<a id="Kanban">**Kanban**</a>  
+**Kanban**    
 
 #### It is aligned with Agile software development, it is a method for managing work with an emphasis on just-in-time delivery.  
-
+<a id="Kanban"></a>  
 Developed by Toyota in the 1960s it is a visual process managaement system. Kanban helps company's to control the logistics chain being a pull flow system based on sales requirements.
 It is based on 6 core priciples.  
 1. Visualise - most common is to use a board with cards and columns. Each column represents the different state or step in the workflow.
@@ -170,10 +170,10 @@ source: [Kanban for software development](http://wiretech.org/about-cloud/11-kan
 
 
 
-<a id="Personal Kanban">**Personal Kanban**</a>  
+**Personal Kanban**   
 
 #### Originally conceived by Jim Benson. Personal kanban tracks and visualises items of personal value - tasks, work and goals.  
-
+<a id="Personal Kanban"></a>  
 In contrast to industry style kanban as described above which tracks industrial objects of value as they travel through a production stream, personal kanban tracks items of person value they travel thru a less predictable path. 
 Personal Kanban is a great tool to visualize your work, to limit your WIP and to take better control of your life, either alone or together with your significant other, your kids or even your team at the office.
 Making use of a Kanban Board is a common way to visualise kanban and being split into 4 columns each having a distinct function it allows for some consise measurement of work in progress, backlog work and work that has been done.
@@ -184,10 +184,10 @@ Discover more about [Personal Kanban](https://www.personalkanban.com)    [Top](#
 
  
 
-<a id="5s">**5s**</a>  
+**5s**    
 
 #### A Japanese philosophy yet again based on similar core principles as Lean and Kanban and is essentially the same as JIT or Just-In-Time production.  
-
+<a id="5s"></a>    
 It is a set of steps that streamline work processes, eliminating waste and inefficiencies and helping to reduce variation in processes.  
 By combining these 5 principles with your personal kanban will allow you to reap more benefits. 
 The Japanese terms are seiri, seiton, seiso, seiketsu, and shitsuke and when romanised all start with the letter 'S'.  
@@ -234,10 +234,10 @@ See more at: [5s](http://www.personalkanban.com/pk/designpatterns/5s-in-personal
 
    
 
-<a id="Kaizen">**Kaizen**</a> (Continuous Improvement) 
+**Kaizen** (Continuous Improvement) 
 
 #### A strategy where employees at all levels of a company work together proactively to achieve regular, incremental improvements to the manufacturing process. In a sense, it combines the collective talents within a company to create a powerful engine for improvement.  
-
+<a id="Kaizen"></a>  
 Kaizen actually means 'Improvement' or 'Change for Better' in Sino-Japanese.  
 It is a daily process which goes beyond simple productivity improvemnet. It is a process that when done properly humanises the workplace  
 and eliminates overly hark work, it also teaches people how to perform experiments of their work using scientific methods and how to learn to spot and eliminate waste in a business process.
@@ -249,10 +249,10 @@ more about [Kaizen](https://wwwleanproduction.com) can be found here.     [Top](
 
 
 
-<a id="Six Sigma">**Six Sigma**</a>  
+**Six Sigma**    
 
 #### A set of techniques and tools for process improvement. It was introduced by engineer Bill Smith while working at Motorola in 1986.  
-
+<a id="Six Sigma"></a>  
 Six Sigma seeks to improve the quality of the output of a process by identifying and removing the causes of defects and minimizing variability in manufacturing and business processes.  
 It uses a set of quality management methods, mainly empirical, statistical methods, and creates a special infrastructure of people within the organization, who are experts in these methods.  
 A six sigma process is one in which 99.99966% of all opportunities to produce some feature of a part are statistically expected to be free of defects (3.4 defective features per million opportunities).  
@@ -261,10 +261,10 @@ See more at: [Six Sigma](https://en.wikipedia.org/wiki/Six_Sigma)    [Top](#top)
 
 
 
-<a id="Kaikaku">**Kaikaku**</a> (Japanese for "radical change")  
+**Kaikaku** (Japanese for "radical change")  
 
 #### Abusiness concept concerned with making fundamental and radical changes to a production system, unlike Kaizen which is focused on incremental minor changes.  
-
+<a id="Kaikaku"></a>  
 Both Kaizen and Kaikaku can be applied to activities other than production.
 Kaikaku and Kaizen are concepts in Japanese production philosophy that relate to each other. Both have origins in the Toyota Production System.
 
@@ -286,12 +286,12 @@ eg. the introduction of new and innovative production solutions that are new to 
 See more at wikipedia: [Kaikaku](https://en.wikipedia.org/wiki/Kaikaku)    [Top](#top)  
 
 
-<a id="Tools">**Tools**</a> to help:  
+**Tools** to help:  
 
 **Trello** 
 
 #### A web-based project management application originally made by Fog Creek Software in 2011, that spun out to be its own company in 2014.  
-
+<a id="Tools"></a>  
 Trello uses the kanban paradigm for managing projects, originally popularized by Toyota in the 1980s for supply chain management.  
 
 Projects are represented by boards, which contain lists (corresponding to task lists). Lists contain cards (corresponding to tasks).  
