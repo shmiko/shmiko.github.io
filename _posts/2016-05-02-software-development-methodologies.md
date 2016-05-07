@@ -67,7 +67,8 @@ V-Model Layout:
 ![V-Model](/img/vmodel.png "V-Model")
 <a id="Sawtooth"></a>  
 
-The V-Model is still a consectutive process but does allow for product verification at multiple levels.  <h6>[Top](#top)</h6> 
+The V-Model is still a consectutive process but does allow for product verification at multiple levels.  
+<h6>[Top](#top)</h6> 
 
 ---
   
@@ -81,6 +82,7 @@ Sawtooth Layout:
 
 As with Waterfall and the V-Model there is limited scope for change and as a sequential process if there is any change incorperated then all initial processes must be repeated which results ina costly and time consuming process.  
 <a id="Agile"></a>  
+<h6>[Top](#top)</h6> 
 
 ---
   
@@ -105,7 +107,8 @@ The Agile Manifesto is based on 12 principles:
 11. Best architectures, requirements, and designs emerge from self-organizing teams  
 12. Regularly, the team reflects on how to become more effective, and adjusts accordingly  
 
-Sourced from [Principles behind the Agile Manifesto](http://www.agilemanifesto.org/principles.html)     <h6>[Top](#top)</h6>  
+Sourced from [Principles behind the Agile Manifesto](http://www.agilemanifesto.org/principles.html)     
+<h6>[Top](#top)</h6>  
 <a id="Scrum"></a>   
 
 ---
@@ -122,7 +125,8 @@ cannot be fully understood or defined, focusing instead on maximizing the team's
 The workflow of Scrum includes Planning, Daily Scrum, Review and Retrospective and Extensions.  
 From a more software focus the term Scrumban is used as it is more suited to software development and projects with frequent and unexpected work items or progrmming errors.  
 
-Sourced from wikipedia:[Scrum software development](https://en.wikipedia.org/wiki/Scrum_(software_development))     <h6>[Top](#top)</h6>  
+Sourced from wikipedia:[Scrum software development](https://en.wikipedia.org/wiki/Scrum_(software_development))     
+<h6>[Top](#top)</h6>  
 <a id="Extreme"></a>   
 
 ---
@@ -147,7 +151,8 @@ Principles - Feedback, Assumed Simplicity, Embracing Change.
 
 XP attempts to reduce the cost of changes in requirements by having multiple short development cycles, rather than a long one. In this doctrine, changes are a natural, inescapable and desirable aspect of software-development projects, and should be planned for, instead of attempting to define a stable set of requirements.  
 
-Check out more here [XP](https://en.wikipedia.org/wiki/Extreme_programming)    <h6>[Top](#top)</h6>  
+Check out more here [XP](https://en.wikipedia.org/wiki/Extreme_programming)    
+<h6>[Top](#top)</h6>  
 <a id="Lean"></a>  
 
 ---
@@ -168,7 +173,8 @@ It is based on 7 principles as proposed by Mary Poppendieck and Tom Poppendieck 
 6. Build integrity in  
 7. See the whole  
 
-Explore the idea here: [Lean Software Development](https://en.wikipedia.org/wiki/Lean_software_development)    <h6>[Top](#top)</h6>  
+Explore the idea here: [Lean Software Development](https://en.wikipedia.org/wiki/Lean_software_development)    
+<h6>[Top](#top)</h6>  
 <a id="Kanban"></a>  
 
 ---
@@ -187,7 +193,8 @@ It is based on 6 core priciples.
 5. Anything that does not contribute to value creation for the customer, should be removed
 6. Exact adjustment of production levels
 
-source: [Kanban for software development](http://wiretech.org/about-cloud/11-kanban-for-software-development)    <h6>[Top](#top)</h6>  
+source: [Kanban for software development](http://wiretech.org/about-cloud/11-kanban-for-software-development)    
+<h6>[Top](#top)</h6>  
 <a id="Personal Kanban"></a>  
 
 ---
@@ -203,7 +210,8 @@ Making use of a Kanban Board is a common way to visualise kanban and being split
 These 3 columns are referred to as a 'Value Stream', which is the flow of work from the moment you start it to the moment you finish it. This is often written onto a white board where tasks can be migrated from 1 column rto another as tasks are tracked.  
 It is based on iteration of tasks or Prioritising, Refining and Reducing.
 
-Discover more about [Personal Kanban](https://www.personalkanban.com)    <h6>[Top](#top)</h6>  
+Discover more about [Personal Kanban](https://www.personalkanban.com)    
+<h6>[Top](#top)</h6>  
 <a id="5s"></a>    
 
 ---
@@ -255,7 +263,8 @@ Also translates as "do without being told".
 Perform regular audits.  
 Training and Discipline.  
 
-See more at: [5s](http://www.personalkanban.com/pk/designpatterns/5s-in-personal-kanban/#sthash.bc1rYx5G.dpuf)    <h6>[Top](#top)</h6>  
+See more at: [5s](http://www.personalkanban.com/pk/designpatterns/5s-in-personal-kanban/#sthash.bc1rYx5G.dpuf)    
+<h6>[Top](#top)</h6>  
 <a id="Kaizen"></a>  
 
 ---
@@ -272,7 +281,8 @@ Kaizen is closely associatted with Toyota. In short it is a continual improvemen
 The cycle of Kaizen can be defined as 'Plan, Do, Check, Act' or 'PDCA'. This acronym can also be labeled as 'Problem Finding, Disply, Clear, Acknowledge'.  
 Often used in conjunction with Kaizen is the technique known as the '5 Whys' which questions the user about a failure that may have occurred where each subsequent question is based on the previous one.
 
-more about [Kaizen](https://wwwleanproduction.com) can be found here.     <h6>[Top](#top)</h6>  
+more about [Kaizen](https://wwwleanproduction.com) can be found here.     
+<h6>[Top](#top)</h6>  
 <a id="Six Sigma"></a>  
 
 ---
@@ -286,7 +296,8 @@ Six Sigma seeks to improve the quality of the output of a process by identifying
 It uses a set of quality management methods, mainly empirical, statistical methods, and creates a special infrastructure of people within the organization, who are experts in these methods.  
 A six sigma process is one in which 99.99966% of all opportunities to produce some feature of a part are statistically expected to be free of defects (3.4 defective features per million opportunities).  
 
-See more at: [Six Sigma](https://en.wikipedia.org/wiki/Six_Sigma)    <h6>[Top](#top)</h6>  
+See more at: [Six Sigma](https://en.wikipedia.org/wiki/Six_Sigma)    
+<h6>[Top](#top)</h6>  
 <a id="Kaikaku"></a>  
 
 ---
@@ -314,7 +325,8 @@ eg. the introduction of a new and innovative production technology
 Radically innovative - Operation close
 eg. the introduction of new and innovative production solutions that are new to the industry 
 
-See more at wikipedia: [Kaikaku](https://en.wikipedia.org/wiki/Kaikaku)    <h6>[Top](#top)</h6>  
+See more at wikipedia: [Kaikaku](https://en.wikipedia.org/wiki/Kaikaku)    
+<h6>[Top](#top)</h6>  
 <a id="Tools"></a>  
 
 ---
@@ -333,7 +345,8 @@ Cards are supposed to progress from one list to the next (via drag-and-drop), fo
 Users can be assigned to cards. 
 Users and boards can be grouped into organisations.  
 
-See more about Trello here [Trello](https://trello.com/)....<h6>[Top](#top)</h6>  
+See more about Trello here [Trello](https://trello.com/)  
+<h6>[Top](#top)</h6>  
 
 **KanbanFlow** 
 
@@ -349,7 +362,8 @@ The timer supports the popular Pomodoro technique for time management.
 The Pomodoro technique recommends working with full focus for 25 minutes before taking a short break.  
 Then work another 25 minutes followed by another break. And so on.  
 
-Check out KanbanFlow here [KanbanFlow](https://kanbanflow.com/features)....<h6>[Top](#top)</h6>  
+Check out KanbanFlow here [KanbanFlow](https://kanbanflow.com/features)  
+<h6>[Top](#top)</h6>  
 
 **KanbanNote**  
 
@@ -362,7 +376,8 @@ Save time by getting quickly a Kanban view of your notes.
 Because we realized that Evernote is a crazy software for managing notes and task but the only thing missing is this Kanban view of notes.
 
 Kanbanote is optimized for Getting Things Done with the The Secret Weapon method.  
-Find out more at [KanbanNote](www.kanbanote.com)....<h6>[Top](#top)</h6>  
+Find out more at [KanbanNote](www.kanbanote.com)  
+<h6>[Top](#top)</h6>  
 
 
 
