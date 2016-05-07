@@ -55,7 +55,9 @@ See more: [Waterfall](https://en.wikipedia.org/wiki/Waterfall_model)
   
 
 ---
+---
   
+    
 
 **V-Model**  
 
@@ -74,7 +76,9 @@ The V-Model is still a consectutive process but does allow for product verificat
   
 
 ---
+---
   
+
 
 **Sawtooth**  
 
@@ -89,7 +93,9 @@ As with Waterfall and the V-Model there is limited scope for change and as a seq
   
 
 ---
+---
   
+
 
 **Agile** aka The Agile Manifesto.  
 
@@ -117,7 +123,9 @@ Sourced from [Principles behind the Agile Manifesto](http://www.agilemanifesto.o
   
 
 ---
+---
   
+
 
 **Scrum** is a iterative and incremental framework used for managing software development projects.  It is a flexible and holistic strategy where a team works towards a common goal.  
 
@@ -136,7 +144,9 @@ Sourced from wikipedia:[Scrum software development](https://en.wikipedia.org/wik
   
 
 ---
+---
   
+
 
 **Extreme programming** (XP) 
 
@@ -163,6 +173,7 @@ Check out more here [XP](https://en.wikipedia.org/wiki/Extreme_programming)
   
 
 ---
+---
   
 
 
@@ -187,6 +198,7 @@ Explore the idea here: [Lean Software Development](https://en.wikipedia.org/wiki
   
 
 ---
+---
   
 
 **Kanban**    
@@ -208,6 +220,8 @@ source: [Kanban for software development](http://wiretech.org/about-cloud/11-kan
   
 
 ---
+---
+  
 
 **Personal Kanban**   
   
@@ -225,6 +239,7 @@ Discover more about [Personal Kanban](https://www.personalkanban.com)
 <a id="5s"></a>    
   
 
+---
 ---
   
 
@@ -280,7 +295,8 @@ See more at: [5s](http://www.personalkanban.com/pk/designpatterns/5s-in-personal
   
 
 ---
-  
+---
+ 
 
 **Kaizen** (Continuous Improvement) 
 
@@ -299,6 +315,7 @@ more about [Kaizen](https://wwwleanproduction.com) can be found here.
   
 
 ---
+---
   
 
 **Six Sigma**    
@@ -314,6 +331,7 @@ See more at: [Six Sigma](https://en.wikipedia.org/wiki/Six_Sigma)
 <a id="Kaikaku"></a>  
   
 
+---
 ---
   
 
@@ -343,7 +361,8 @@ See more at wikipedia: [Kaikaku](https://en.wikipedia.org/wiki/Kaikaku)
 [Top](#top)   
 <a id="Tools"></a>  
   
-  
+
+---
 ---
   
 
