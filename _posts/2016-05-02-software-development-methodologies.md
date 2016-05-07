@@ -6,7 +6,7 @@ categories: ['development']
 tags: [ 'software','development methodoogies','lean','agile','scrum']
 ---
 <a id="top"></a> 
-  
+..    
   
 
 ## Software Developments Methodologies!  
@@ -105,7 +105,7 @@ The Agile Manifesto is based on 12 principles:
 11. Best architectures, requirements, and designs emerge from self-organizing teams  
 12. Regularly, the team reflects on how to become more effective, and adjusts accordingly  
 
-Sourced from [Principles behind the Agile Manifesto](http://www.agilemanifesto.org/principles.html)    ###### [Top](#top)  
+Sourced from [Principles behind the Agile Manifesto](http://www.agilemanifesto.org/principles.html)     [###### Top](#top)  
 <a id="Scrum"></a>   
 
 ---
