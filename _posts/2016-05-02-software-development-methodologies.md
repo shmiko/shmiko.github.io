@@ -370,7 +370,7 @@ eg. the introduction of a new and innovative production technology
 Radically innovative - Operation close
 eg. the introduction of new and innovative production solutions that are new to the industry 
 
-See more at wikipedia: [Kaikaku](https://en.wikipedia.org/wiki/Kaikaku)    
+See more at wikipedia:  [Kaikaku](https://en.wikipedia.org/wiki/Kaikaku)    
 [Top](#top)   
 <a id="Tools"></a>  
   
