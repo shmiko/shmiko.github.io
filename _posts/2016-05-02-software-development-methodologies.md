@@ -9,13 +9,13 @@ tags: [ 'software','development methodoogies','lean','agile','scrum']
 
 ## Software Developments Methodologies!  
 
-So what's all the HooHa about Software Development Methodologies, lets see what the differences are bwtween the majors.    
+So what's all the HooHa about Software Development Methodologies, lets see what the differences are between the major methods.    
 
 
 **We have....**     
-* Waterfall 
-* V-Model
-* Sawtooth  
+* Waterfall  
+* V-Model  
+* Sawtooth   
 * Agile   
 * Scrum  
 * Extreme  
