@@ -333,7 +333,7 @@ Cards are supposed to progress from one list to the next (via drag-and-drop), fo
 Users can be assigned to cards. 
 Users and boards can be grouped into organisations.  
 
-See more about Trello here [Trello](https://trello.com/)    <h6>[Top](#top)</h6>  
+See more about Trello here [Trello](https://trello.com/)....<h6>[Top](#top)</h6>  
 
 **KanbanFlow** 
 
@@ -349,7 +349,7 @@ The timer supports the popular Pomodoro technique for time management.
 The Pomodoro technique recommends working with full focus for 25 minutes before taking a short break.  
 Then work another 25 minutes followed by another break. And so on.  
 
-Check out KanbanFlow here [KanbanFlow](https://kanbanflow.com/features)      <h6>[Top](#top)</h6>  
+Check out KanbanFlow here [KanbanFlow](https://kanbanflow.com/features)....<h6>[Top](#top)</h6>  
 
 **KanbanNote**  
 
@@ -362,7 +362,7 @@ Save time by getting quickly a Kanban view of your notes.
 Because we realized that Evernote is a crazy software for managing notes and task but the only thing missing is this Kanban view of notes.
 
 Kanbanote is optimized for Getting Things Done with the The Secret Weapon method.  
-Find out more at [KanbanNote](www.kanbanote.com)     <h6>[Top](#top)</h6>  
+Find out more at [KanbanNote](www.kanbanote.com)....<h6>[Top](#top)</h6>  
 
 
 
