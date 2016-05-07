@@ -54,6 +54,7 @@ See more: [Waterfall](https://en.wikipedia.org/wiki/Waterfall_model)
 <a id="V-Model"></a>  
 
 ---
+  
 
 **V-Model**  
 
@@ -66,9 +67,10 @@ V-Model Layout:
 ![V-Model](/img/vmodel.png "V-Model")
 <a id="Sawtooth"></a>  
 
-The V-Model is still a consectutive process but does allow for product verification at multiple levels.  [Top](#top)  
+The V-Model is still a consectutive process but does allow for product verification at multiple levels.  ######[Top](#top)  
 
 ---
+  
 
 **Sawtooth**  
 
@@ -81,6 +83,7 @@ As with Waterfall and the V-Model there is limited scope for change and as a seq
 <a id="Agile"></a>  
 
 ---
+  
 
 **Agile** aka The Agile Manifesto.  
 
@@ -102,10 +105,11 @@ The Agile Manifesto is based on 12 principles:
 11. Best architectures, requirements, and designs emerge from self-organizing teams  
 12. Regularly, the team reflects on how to become more effective, and adjusts accordingly  
 
-Sourced from [Principles behind the Agile Manifesto](http://www.agilemanifesto.org/principles.html)    [Top](#top)  
+Sourced from [Principles behind the Agile Manifesto](http://www.agilemanifesto.org/principles.html)    ######[Top](#top)  
 <a id="Scrum"></a>   
 
 ---
+  
 
 **Scrum** is a iterative and incremental framework used for managing software development projects.  It is a flexible and holistic strategy where a team works towards a common goal.  
 
@@ -118,10 +122,11 @@ cannot be fully understood or defined, focusing instead on maximizing the team's
 The workflow of Scrum includes Planning, Daily Scrum, Review and Retrospective and Extensions.  
 From a more software focus the term Scrumban is used as it is more suited to software development and projects with frequent and unexpected work items or progrmming errors.  
 
-Sourced from wikipedia:[Scrum software development](https://en.wikipedia.org/wiki/Scrum_(software_development))     [Top](#top)  
+Sourced from wikipedia:[Scrum software development](https://en.wikipedia.org/wiki/Scrum_(software_development))     ######[Top](#top)  
 <a id="Extreme"></a>   
 
 ---
+  
 
 **Extreme programming** (XP) 
 
@@ -142,10 +147,11 @@ Principles - Feedback, Assumed Simplicity, Embracing Change.
 
 XP attempts to reduce the cost of changes in requirements by having multiple short development cycles, rather than a long one. In this doctrine, changes are a natural, inescapable and desirable aspect of software-development projects, and should be planned for, instead of attempting to define a stable set of requirements.  
 
-Check out more here [XP](https://en.wikipedia.org/wiki/Extreme_programming)    [Top](#top)  
+Check out more here [XP](https://en.wikipedia.org/wiki/Extreme_programming)    ######[Top](#top)  
 <a id="Lean"></a>  
 
 ---
+  
 
 **Lean Software Development** (LSD) 
 
@@ -162,10 +168,11 @@ It is based on 7 principles as proposed by Mary Poppendieck and Tom Poppendieck 
 6. Build integrity in  
 7. See the whole  
 
-Explore the idea here: [Lean Software Development](https://en.wikipedia.org/wiki/Lean_software_development)    [Top](#top)  
+Explore the idea here: [Lean Software Development](https://en.wikipedia.org/wiki/Lean_software_development)    ######[Top](#top)  
 <a id="Kanban"></a>  
 
 ---
+  
 
 **Kanban**    
 
@@ -180,12 +187,13 @@ It is based on 6 core priciples.
 5. Anything that does not contribute to value creation for the customer, should be removed
 6. Exact adjustment of production levels
 
-source: [Kanban for software development](http://wiretech.org/about-cloud/11-kanban-for-software-development)    [Top](#top)  
+source: [Kanban for software development](http://wiretech.org/about-cloud/11-kanban-for-software-development)    ######[Top](#top)  
 <a id="Personal Kanban"></a>  
 
 ---
 
 **Personal Kanban**   
+  
 
 #### Originally conceived by Jim Benson. Personal kanban tracks and visualises items of personal value - tasks, work and goals.  
 
@@ -195,10 +203,11 @@ Making use of a Kanban Board is a common way to visualise kanban and being split
 These 3 columns are referred to as a 'Value Stream', which is the flow of work from the moment you start it to the moment you finish it. This is often written onto a white board where tasks can be migrated from 1 column rto another as tasks are tracked.  
 It is based on iteration of tasks or Prioritising, Refining and Reducing.
 
-Discover more about [Personal Kanban](https://www.personalkanban.com)    [Top](#top)  
+Discover more about [Personal Kanban](https://www.personalkanban.com)    ######[Top](#top)  
 <a id="5s"></a>    
 
 ---
+  
 
 **5s**    
 
@@ -246,10 +255,11 @@ Also translates as "do without being told".
 Perform regular audits.  
 Training and Discipline.  
 
-See more at: [5s](http://www.personalkanban.com/pk/designpatterns/5s-in-personal-kanban/#sthash.bc1rYx5G.dpuf)    [Top](#top)  
+See more at: [5s](http://www.personalkanban.com/pk/designpatterns/5s-in-personal-kanban/#sthash.bc1rYx5G.dpuf)    ######[Top](#top)  
 <a id="Kaizen"></a>  
 
 ---
+  
 
 **Kaizen** (Continuous Improvement) 
 
@@ -262,10 +272,11 @@ Kaizen is closely associatted with Toyota. In short it is a continual improvemen
 The cycle of Kaizen can be defined as 'Plan, Do, Check, Act' or 'PDCA'. This acronym can also be labeled as 'Problem Finding, Disply, Clear, Acknowledge'.  
 Often used in conjunction with Kaizen is the technique known as the '5 Whys' which questions the user about a failure that may have occurred where each subsequent question is based on the previous one.
 
-more about [Kaizen](https://wwwleanproduction.com) can be found here.     [Top](#top)  
+more about [Kaizen](https://wwwleanproduction.com) can be found here.     ######[Top](#top)  
 <a id="Six Sigma"></a>  
 
 ---
+  
 
 **Six Sigma**    
 
@@ -275,10 +286,11 @@ Six Sigma seeks to improve the quality of the output of a process by identifying
 It uses a set of quality management methods, mainly empirical, statistical methods, and creates a special infrastructure of people within the organization, who are experts in these methods.  
 A six sigma process is one in which 99.99966% of all opportunities to produce some feature of a part are statistically expected to be free of defects (3.4 defective features per million opportunities).  
 
-See more at: [Six Sigma](https://en.wikipedia.org/wiki/Six_Sigma)    [Top](#top)  
+See more at: [Six Sigma](https://en.wikipedia.org/wiki/Six_Sigma)    ######[Top](#top)  
 <a id="Kaikaku"></a>  
 
 ---
+  
 
 **Kaikaku** (Japanese for "radical change")  
 
@@ -302,10 +314,11 @@ eg. the introduction of a new and innovative production technology
 Radically innovative - Operation close
 eg. the introduction of new and innovative production solutions that are new to the industry 
 
-See more at wikipedia: [Kaikaku](https://en.wikipedia.org/wiki/Kaikaku)    [Top](#top)  
+See more at wikipedia: [Kaikaku](https://en.wikipedia.org/wiki/Kaikaku)    ######[Top](#top)  
 <a id="Tools"></a>  
 
 ---
+  
 
 **Tools** to help:  
 
@@ -320,7 +333,7 @@ Cards are supposed to progress from one list to the next (via drag-and-drop), fo
 Users can be assigned to cards. 
 Users and boards can be grouped into organisations.  
 
-See more about Trello here [Trello](https://trello.com/)    [Top](#top)  
+See more about Trello here [Trello](https://trello.com/)    ######[Top](#top)  
 
 **KanbanFlow** 
 
@@ -336,7 +349,7 @@ The timer supports the popular Pomodoro technique for time management.
 The Pomodoro technique recommends working with full focus for 25 minutes before taking a short break.  
 Then work another 25 minutes followed by another break. And so on.  
 
-Check out KanbanFlow here [KanbanFlow](https://kanbanflow.com/features)      [Top](#top)  
+Check out KanbanFlow here [KanbanFlow](https://kanbanflow.com/features)      ######[Top](#top)  
 
 **KanbanNote**  
 
@@ -349,7 +362,7 @@ Save time by getting quickly a Kanban view of your notes.
 Because we realized that Evernote is a crazy software for managing notes and task but the only thing missing is this Kanban view of notes.
 
 Kanbanote is optimized for Getting Things Done with the The Secret Weapon method.  
-Find out more at [KanbanNote](www.kanbanote.com)     [Top](#top)  
+Find out more at [KanbanNote](www.kanbanote.com)     ######[Top](#top)  
 
 
 
