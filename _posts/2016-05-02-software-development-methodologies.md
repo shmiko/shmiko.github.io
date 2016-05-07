@@ -40,14 +40,10 @@ and [Software Project Management Specialisation](https://www.coursera.org/specia
 
 
 It is a Linear Process Model based on the following phases:  
-1. Conception  
-2. Initiation  
-3. Analysis  
-4. Design  
-5. Construction  
-6. Testing  
-7. Implementation  
-8. Maintenance  
+
+Waterfall Layout: 
+![Waterfall](/img/waterfall.png "Waterfall")
+
 The waterfall analogy is due to the fact that each phase flows steadily downwards.  
 In 1985 is was further refined by Royce to have just 6 phases whilst still incorperating the original list.
 
@@ -62,11 +58,9 @@ See more: [Waterfall](https://en.wikipedia.org/wiki/Waterfall_model)
 The V-Model was created in response to the limitations of the Waterfall model however this process is still strict and can be costly to incorperate changes.  
 The V-Model beginds with the left sided Analysis and Requirements phase and end with the right sided acceptance testing phase.
 The phases on the right side validate the left sided phases.
-1. Requirements........9. Acceptance Testing  
-2. Specification.......8. System Testing   
-3. Architecture........7. Integration Testing   
-4. Detailed Design.....6. Unit Testing   
-..................5. Coding  
+V-Model Layout: 
+![V-Model](/img/vmodel.png "V-Model")
+
 
 The V-Model is still a consectutive process but does allow for product verification at multiple levels.  
 
@@ -74,11 +68,8 @@ The V-Model is still a consectutive process but does allow for product verificat
 
 #### The Sawtooth model is also a linear model process but was introduced to addresss the lack of client involvement in Waterfall and V-Model processes.  
 
-Starting with:  
-.....System Requirements...Prototype........Prototype...............Acceptance  
-..............\............/........\......./........\.............../   
-...............\........../..........\...../..........\............./  
-.................Analysis.............Design...........Implementation  
+Sawtooth Layout: 
+![Sawtooth](/img/sawtooth.png "Sawtooth")
 
 As with Waterfall and the V-Model there is limited scope for change and as a sequential process if there is any change incorperated then all initial processes must be repeated which results ina costly and time consuming process.  
 
