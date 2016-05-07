@@ -13,7 +13,9 @@ So what's all the HooHa about Software Development Methodologies, lets see what 
 
 
 **We have....**     
-* Waterfall   
+* Waterfall 
+* V-Model
+* Sawtooth  
 * Agile   
 * Scrum  
 * Extreme  
@@ -34,10 +36,10 @@ and [Software Project Management Specialisation](https://www.coursera.org/specia
 
 **Waterfall**  
 
-#### A sequential design process first presented by Herbert Benington in 1956, originally used in manufacturing and construction. At this time no other methodologies existed and as such this method was adapted for software development.  
+#### A linear sequential design process first presented by Herbert Benington in 1956, originally used in manufacturing and construction. At this time no other methodologies existed and as such this method was adapted for software development.  
 
 
-It is based on the following phases:  
+It is a Linear Process Model based on the following phases:  
 1. Conception  
 2. Initiation  
 3. Analysis  
@@ -53,7 +55,33 @@ The waterfall model maintains that the next phase should only be started once th
 
 See more: [Waterfall](https://en.wikipedia.org/wiki/Waterfall_model)  
 
-**Next Up....**   
+**V-Model**  
+
+#### Whilst still a linear process there is a small improvement over the Waterfall model  as it allows for more client involvement.
+
+The V-Model was created in response to the limitations of the Waterfall model however this process is still strict and can be costly to incorperate changes.  
+The V-Model beginds with the left sided Analysis and Requirements phase and end with the right sided acceptance testing phase.
+The phases on the right side validate the left sided phases.
+1. Requirements........9. Acceptance Testing  
+2. Specification.......8. System Testing   
+3. Architecture........7. Integration Testing   
+4. Detailed Design.....6. Unit Testing   
+..................5. Coding  
+
+The V-Model is still a consectutive process but does allow for product verification at multiple levels.  
+
+**Sawtooth**  
+
+#### The Sawtooth model is also a linear model process but was introduced to addresss the lack of client involvement in Waterfall and V-Model processes.  
+
+Starting with:  
+.....System Requirements...Prototype........Prototype...............Acceptance  
+..............\............/........\......./........\.............../   
+...............\........../..........\...../..........\............./  
+.................Analysis.............Design...........Implementation  
+
+As with Waterfall and the V-Model there is limited scope for change and as a sequential process if there is any change incorperated then all initial processes must be repeated which results ina costly and time consuming process.  
+
 
 **Agile** aka The Agile Manifesto.  
 
@@ -76,8 +104,7 @@ The Agile Manifesto is based on 12 principles:
 12. Regularly, the team reflects on how to become more effective, and adjusts accordingly  
 
 Sourced from [Principles behind the Agile Manifesto](http://www.agilemanifesto.org/principles.html)  
-
-**And now....**  
+ 
 
 **Scrum** is a iterative and incremental framework used for managing software development projects.  It is a flexible and holistic strategy where a team works towards a common goal.  
 
@@ -91,9 +118,7 @@ The workflow of Scrum includes Planning, Daily Scrum, Review and Retrospective a
 From a more software focus the term Scrumban is used as it is more suited to software development and projects with frequent and unexpected work items or progrmming errors.  
 
 Sourced from wikipedia:[Scrum software development](https://en.wikipedia.org/wiki/Scrum_(software_development))   
-
-
-**And now....**  
+ 
 
 **Extreme programming** (XP) 
 
@@ -116,7 +141,7 @@ XP attempts to reduce the cost of changes in requirements by having multiple sho
 
 Check out more here [XP](https://en.wikipedia.org/wiki/Extreme_programming)  
 
-**Also....**  
+
 
 **Lean Software Development** (LSD) 
 
@@ -135,7 +160,7 @@ It is based on 7 principles as proposed by Mary Poppendieck and Tom Poppendieck 
 
 Explore the idea here: [Lean Software Development](https://en.wikipedia.org/wiki/Lean_software_development)  
 
-**And....**  
+ 
 
 **Kanban** 
 
@@ -153,7 +178,6 @@ It is based on 6 core priciples.
 source: [Kanban for software development](http://wiretech.org/about-cloud/11-kanban-for-software-development)  
 
 
-**Closely related to....**  
 
 **Personal Kanban** 
 
@@ -167,8 +191,7 @@ It is based on iteration of tasks or Prioritising, Refining and Reducing.
 
 Discover more about [Personal Kanban](https://www.personalkanban.com)  
 
-
-**Also related to Kanban is....**  
+ 
 
 **5s** 
 
@@ -218,8 +241,7 @@ Training and Discipline.
 
 See more at: [5s](http://www.personalkanban.com/pk/designpatterns/5s-in-personal-kanban/#sthash.bc1rYx5G.dpuf)  
 
-
-**And finally....**    
+   
 
 **Kaizen** (Continuous Improvement) 
 
@@ -235,7 +257,6 @@ Often used in conjunction with Kaizen is the technique known as the '5 Whys' whi
 more about [Kaizen](https://wwwleanproduction.com) can be found here.
 
 
-**Actually there is 1 more....**  
 
 **Six Sigma** 
 
@@ -248,7 +269,6 @@ A six sigma process is one in which 99.99966% of all opportunities to produce so
 See more at: [Six Sigma](https://en.wikipedia.org/wiki/Six_Sigma)  
 
 
-**Ok last one I promise....** 
 
 **Kaikaku** (Japanese for "radical change")  
 
@@ -274,8 +294,6 @@ eg. the introduction of new and innovative production solutions that are new to 
 
 See more at wikipedia: [Kaikaku](https://en.wikipedia.org/wiki/Kaikaku)  
 
-
-**Some useful tools include....**  
 
 *Tools to help:  
 
