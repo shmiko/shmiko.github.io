@@ -6,6 +6,8 @@ categories: ['development']
 tags: [ 'software','development methodoogies','lean','agile','scrum']
 ---
 <a id="top"></a> 
+  
+  
 
 ## Software Developments Methodologies!  
 
@@ -50,7 +52,7 @@ The waterfall model maintains that the next phase should only be started once th
 
 See more: [Waterfall](https://en.wikipedia.org/wiki/Waterfall_model)  
 <a id="V-Model"></a>  
-
+___
 **V-Model**  
 
 #### Whilst still a linear process there is a small improvement over the Waterfall model  as it allows for more client involvement.
@@ -63,7 +65,7 @@ V-Model Layout:
 <a id="Sawtooth"></a>  
 
 The V-Model is still a consectutive process but does allow for product verification at multiple levels.  [Top](#top)  
-
+___
 **Sawtooth**  
 
 #### The Sawtooth model is also a linear model process but was introduced to addresss the lack of client involvement in Waterfall and V-Model processes.  
@@ -73,7 +75,7 @@ Sawtooth Layout:
 
 As with Waterfall and the V-Model there is limited scope for change and as a sequential process if there is any change incorperated then all initial processes must be repeated which results ina costly and time consuming process.  
 <a id="Agile"></a>  
-
+___
 **Agile** aka The Agile Manifesto.  
 
 #### Agile is a method of development is based on principles which require collaboration between self-organising, cross-functional teams where by requirements and solutions evolve gradually through adaptive planning, evolutionary development and continual improvement, encouraging rapid and flexible responseive changes to feedback.  
@@ -96,7 +98,7 @@ The Agile Manifesto is based on 12 principles:
 
 Sourced from [Principles behind the Agile Manifesto](http://www.agilemanifesto.org/principles.html)    [Top](#top)  
 <a id="Scrum"></a>   
-
+___
 **Scrum** is a iterative and incremental framework used for managing software development projects.  It is a flexible and holistic strategy where a team works towards a common goal.  
 
 #### First described in 1986 in Japan by Hirotaka Takeuchi and Ikujiro Nonaka who suggested that this method would increase speed and flexibility for commercial product development.  
@@ -110,7 +112,7 @@ From a more software focus the term Scrumban is used as it is more suited to sof
 
 Sourced from wikipedia:[Scrum software development](https://en.wikipedia.org/wiki/Scrum_(software_development))     [Top](#top)  
 <a id="Extreme"></a>   
-
+___
 **Extreme programming** (XP) 
 
 #### intended to improve the quality of software and the responsiveness to changes for customer requirements. 
@@ -132,7 +134,7 @@ XP attempts to reduce the cost of changes in requirements by having multiple sho
 
 Check out more here [XP](https://en.wikipedia.org/wiki/Extreme_programming)    [Top](#top)  
 <a id="Lean"></a>  
-
+___
 **Lean Software Development** (LSD) 
 
 #### Based on Lean Manufacturing and Lean IT principles and practices in the software development domain.  
@@ -150,7 +152,7 @@ It is based on 7 principles as proposed by Mary Poppendieck and Tom Poppendieck 
 
 Explore the idea here: [Lean Software Development](https://en.wikipedia.org/wiki/Lean_software_development)    [Top](#top)  
 <a id="Kanban"></a>  
-
+___
 **Kanban**    
 
 #### It is aligned with Agile software development, it is a method for managing work with an emphasis on just-in-time delivery.  
@@ -166,7 +168,7 @@ It is based on 6 core priciples.
 
 source: [Kanban for software development](http://wiretech.org/about-cloud/11-kanban-for-software-development)    [Top](#top)  
 <a id="Personal Kanban"></a>  
-
+___
 **Personal Kanban**   
 
 #### Originally conceived by Jim Benson. Personal kanban tracks and visualises items of personal value - tasks, work and goals.  
@@ -179,7 +181,7 @@ It is based on iteration of tasks or Prioritising, Refining and Reducing.
 
 Discover more about [Personal Kanban](https://www.personalkanban.com)    [Top](#top)  
 <a id="5s"></a>    
-
+___
 **5s**    
 
 #### A Japanese philosophy yet again based on similar core principles as Lean and Kanban and is essentially the same as JIT or Just-In-Time production.  
@@ -228,7 +230,7 @@ Training and Discipline.
 
 See more at: [5s](http://www.personalkanban.com/pk/designpatterns/5s-in-personal-kanban/#sthash.bc1rYx5G.dpuf)    [Top](#top)  
 <a id="Kaizen"></a>  
-
+___
 **Kaizen** (Continuous Improvement) 
 
 #### A strategy where employees at all levels of a company work together proactively to achieve regular, incremental improvements to the manufacturing process. In a sense, it combines the collective talents within a company to create a powerful engine for improvement.  
@@ -242,7 +244,7 @@ Often used in conjunction with Kaizen is the technique known as the '5 Whys' whi
 
 more about [Kaizen](https://wwwleanproduction.com) can be found here.     [Top](#top)  
 <a id="Six Sigma"></a>  
-
+___
 **Six Sigma**    
 
 #### A set of techniques and tools for process improvement. It was introduced by engineer Bill Smith while working at Motorola in 1986.  
@@ -253,7 +255,7 @@ A six sigma process is one in which 99.99966% of all opportunities to produce so
 
 See more at: [Six Sigma](https://en.wikipedia.org/wiki/Six_Sigma)    [Top](#top)  
 <a id="Kaikaku"></a>  
-
+___
 **Kaikaku** (Japanese for "radical change")  
 
 #### Abusiness concept concerned with making fundamental and radical changes to a production system, unlike Kaizen which is focused on incremental minor changes.  
@@ -278,7 +280,7 @@ eg. the introduction of new and innovative production solutions that are new to 
 
 See more at wikipedia: [Kaikaku](https://en.wikipedia.org/wiki/Kaikaku)    [Top](#top)  
 <a id="Tools"></a>  
-
+___
 **Tools** to help:  
 
 **Trello** 
