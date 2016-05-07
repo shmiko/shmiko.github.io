@@ -57,7 +57,7 @@ See more: [Waterfall](https://en.wikipedia.org/wiki/Waterfall_model)
 ---
 ---
   
-    
+
 
 **V-Model**  
 
@@ -243,6 +243,7 @@ Discover more about [Personal Kanban](https://www.personalkanban.com)
 ---
   
 
+  
 **5s**    
 
 #### A Japanese philosophy yet again based on similar core principles as Lean and Kanban and is essentially the same as JIT or Just-In-Time production.  
