@@ -254,7 +254,7 @@ Discover more about [Personal Kanban](https://www.personalkanban.com)
 ---
   
   
-  
+
 
 **5s**    
 
@@ -311,7 +311,8 @@ See more at: [5s](http://www.personalkanban.com/pk/designpatterns/5s-in-personal
 ---
  
 
-
+  
+  
 **Kaizen** (Continuous Improvement) 
 
 #### A strategy where employees at all levels of a company work together proactively to achieve regular, incremental improvements to the manufacturing process. In a sense, it combines the collective talents within a company to create a powerful engine for improvement.  
