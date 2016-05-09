@@ -333,7 +333,7 @@ more about [Kaizen](https://wwwleanproduction.com) can be found here.
 ---
   
   
-  
+
 
 **Six Sigma**    
 
@@ -383,7 +383,8 @@ See more at wikipedia:  [Kaikaku](https://en.wikipedia.org/wiki/Kaikaku)
 ---
 ---
   
-
+  
+  
 
 **Tools** to help:  
 
