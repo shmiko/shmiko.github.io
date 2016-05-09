@@ -36,7 +36,7 @@ and [Software Project Management Specialisation](https://www.coursera.org/specia
 <a id="Waterfall"></a>  
 **Starting with....**   
 
-</br>  
+
 **Waterfall**  
 
 #### A linear sequential design process first presented by Herbert Benington in 1956, originally used in manufacturing and construction. At this time no other methodologies existed and as such this method was adapted for software development.  
@@ -60,7 +60,7 @@ See more: [Waterfall](https://en.wikipedia.org/wiki/Waterfall_model)
   
 
 
-</br>  
+
 **V-Model**  
 
 #### Whilst still a linear process there is a small improvement over the Waterfall model  as it allows for more client involvement.
@@ -82,7 +82,7 @@ The V-Model is still a consectutive process but does allow for product verificat
   
 
 
-</br>  
+
 **Sawtooth**  
 
 #### The Sawtooth model is also a linear model process but was introduced to addresss the lack of client involvement in Waterfall and V-Model processes.  
@@ -100,7 +100,7 @@ As with Waterfall and the V-Model there is limited scope for change and as a seq
   
 
 
-</br>  
+
 **Agile** aka The Agile Manifesto.  
 
 #### Agile is a method of development is based on principles which require collaboration between self-organising, cross-functional teams where by requirements and solutions evolve gradually through adaptive planning, evolutionary development and continual improvement, encouraging rapid and flexible responseive changes to feedback.  
@@ -131,7 +131,7 @@ Sourced from [Principles behind the Agile Manifesto](http://www.agilemanifesto.o
   
 
 
-</br>  
+
 **Scrum** is a iterative and incremental framework used for managing software development projects.  It is a flexible and holistic strategy where a team works towards a common goal.  
 
 #### First described in 1986 in Japan by Hirotaka Takeuchi and Ikujiro Nonaka who suggested that this method would increase speed and flexibility for commercial product development.  
@@ -153,7 +153,7 @@ Sourced from wikipedia:[Scrum software development](https://en.wikipedia.org/wik
   
 
 
-</br>  
+
 **Extreme programming** (XP) 
 
 #### intended to improve the quality of software and the responsiveness to changes for customer requirements. 
@@ -183,7 +183,7 @@ Check out more here [XP](https://en.wikipedia.org/wiki/Extreme_programming)
   
 
 
-</br>  
+
 **Lean Software Development** (LSD) 
 
 #### Based on Lean Manufacturing and Lean IT principles and practices in the software development domain.  
@@ -208,7 +208,7 @@ Explore the idea here: [Lean Software Development](https://en.wikipedia.org/wiki
 ---
   
 
-</br>  
+
 **Kanban**    
 
 #### It is aligned with Agile software development, it is a method for managing work with an emphasis on just-in-time delivery.  
@@ -231,7 +231,7 @@ source: [Kanban for software development](http://wiretech.org/about-cloud/11-kan
 ---
   
 
-</br>  
+
 **Personal Kanban**   
   
 
@@ -252,7 +252,7 @@ Discover more about [Personal Kanban](https://www.personalkanban.com)
 ---
   
 
-</br>  
+
 **5s**    
 
 #### A Japanese philosophy yet again based on similar core principles as Lean and Kanban and is essentially the same as JIT or Just-In-Time production.  
@@ -308,7 +308,7 @@ See more at: [5s](http://www.personalkanban.com/pk/designpatterns/5s-in-personal
 ---
  
 
-</br>  
+
 **Kaizen** (Continuous Improvement) 
 
 #### A strategy where employees at all levels of a company work together proactively to achieve regular, incremental improvements to the manufacturing process. In a sense, it combines the collective talents within a company to create a powerful engine for improvement.  
@@ -329,7 +329,7 @@ more about [Kaizen](https://wwwleanproduction.com) can be found here.
 ---
   
 
-</br>  
+
 **Six Sigma**    
 
 #### A set of techniques and tools for process improvement. It was introduced by engineer Bill Smith while working at Motorola in 1986.  
@@ -347,7 +347,7 @@ See more at: [Six Sigma](https://en.wikipedia.org/wiki/Six_Sigma)
 ---
   
 
-</br>  
+
 **Kaikaku** (Japanese for "radical change")  
 
 #### Abusiness concept concerned with making fundamental and radical changes to a production system, unlike Kaizen which is focused on incremental minor changes.  
@@ -379,7 +379,7 @@ See more at wikipedia:  [Kaikaku](https://en.wikipedia.org/wiki/Kaikaku)
 ---
   
 
-</br>  
+
 **Tools** to help:  
 
 **Trello** 
