@@ -208,7 +208,7 @@ Explore the idea here: [Lean Software Development](https://en.wikipedia.org/wiki
 ---
   
   
-  
+
 
 **Kanban**    
 
@@ -231,7 +231,8 @@ source: [Kanban for software development](http://wiretech.org/about-cloud/11-kan
 ---
 ---
   
-
+  
+  
 
 **Personal Kanban**   
   
