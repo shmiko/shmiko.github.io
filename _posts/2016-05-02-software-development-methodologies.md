@@ -182,8 +182,8 @@ Check out more here [XP](https://en.wikipedia.org/wiki/Extreme_programming)
 ---
   
 
-
-
+  
+  
 **Lean Software Development** (LSD) 
 
 #### Based on Lean Manufacturing and Lean IT principles and practices in the software development domain.  
