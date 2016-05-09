@@ -98,7 +98,8 @@ As with Waterfall and the V-Model there is limited scope for change and as a seq
 ---
 ---
   
-
+  
+  
 
 
 **Agile** aka The Agile Manifesto.  
@@ -384,7 +385,7 @@ See more at wikipedia:  [Kaikaku](https://en.wikipedia.org/wiki/Kaikaku)
 ---
   
   
-  
+
 
 **Tools** to help:  
 
