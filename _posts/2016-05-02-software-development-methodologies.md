@@ -232,7 +232,7 @@ source: [Kanban for software development](http://wiretech.org/about-cloud/11-kan
 ---
   
   
-  
+
 
 **Personal Kanban**   
   
@@ -253,7 +253,8 @@ Discover more about [Personal Kanban](https://www.personalkanban.com)
 ---
 ---
   
-
+  
+  
 
 **5s**    
 
