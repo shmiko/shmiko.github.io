@@ -99,7 +99,7 @@ As with Waterfall and the V-Model there is limited scope for change and as a seq
 ---
   
   
-  
+
 
 
 **Agile** aka The Agile Manifesto.  
@@ -125,6 +125,7 @@ The Agile Manifesto is based on 12 principles:
 Sourced from [Principles behind the Agile Manifesto](http://www.agilemanifesto.org/principles.html)     
 [Top](#top)   
 <a id="Scrum"></a>   
+  
   
 
 ---
