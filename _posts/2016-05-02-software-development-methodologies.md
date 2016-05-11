@@ -120,7 +120,7 @@ The Agile Manifesto is based on 12 principles:
 9. Continuous attention to technical excellence and good design  
 10. Simplicity—the art of maximizing the amount of work not done—is essential  
 11. Best architectures, requirements, and designs emerge from self-organizing teams  
-12. Regularly, the team reflects on how to become more effective, and adjusts accordingly  
+12. Regularly, the team reflects on how to become more effective, and adjusts accordingly.    
 
 Sourced from [Principles behind the Agile Manifesto](http://www.agilemanifesto.org/principles.html)     
 [Top](#top)   
