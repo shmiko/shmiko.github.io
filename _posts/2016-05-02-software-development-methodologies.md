@@ -28,7 +28,7 @@ So what's all the HooHa about Software Development Methodologies, lets see what 
 * [Kaizen](#Kaizen)        
 * [Six Sigma](#Six Sigma)        
 * [KaiKaku](#Kaikaku)      
-* [Tools](#Tools) - Trello, KanbanFlow & KanbanNote
+* [Tools](#Tools) - Trello, KanbanFlow & KanbanNote  
 
 These methodologies are taught through numerous courses, but most notable are 1.Lean Software Development Fundamantals taught by Stephen Haunts from Puralsight and also Software Project Management Specialisation taught by University of Alberta through Coursera both of which I absolutley recommend.  
 [Lean Software Development Fundamantals](https://app.pluralsight.com/library/courses/lean-software-development-fundamentals/table-of-contents)  
