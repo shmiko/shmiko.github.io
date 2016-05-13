@@ -6,7 +6,7 @@ categories: ['development']
 tags: [ 'software','development methodoogies','lean','agile','scrum']
 ---
 <a id="top"></a> 
-..A...      
+The Start         
   
 
 ## Software Developments Methodologies!  
