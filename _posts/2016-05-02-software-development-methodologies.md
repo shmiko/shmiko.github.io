@@ -111,7 +111,7 @@ As with Waterfall and the V-Model there is limited scope for change and as a seq
   
 **Spiral Model**  
  
-#### The Spiral Model is a use-case driven, architecture-focused, iterative and incremental parallel software deelopment process.  
+#### The Spiral Model is a risk-driven process model created by Boehm that iterates through foru phases.  
 
 
 
