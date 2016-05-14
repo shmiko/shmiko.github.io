@@ -34,7 +34,7 @@ I received a high distinction for this report from the AIB on May 11 2016.
     a.ctl:link { so-language: zxx }
   </style>
 </head>
-<body lang="en-US" text="#00000a" bgcolor="#ffffff" dir="ltr" style="background: #ffffff">
+<body lang="en-US" text="#ffffff" bgcolor="#000000" dir="ltr" style="background: #000000">
 <p lang="en-AU" class="western" style="margin-bottom: 0in; line-height: 150%">
 <font face="Arial, sans-serif"><b>Word Count</b></font><font face="Arial, sans-serif">:
 2748<br></font><font face="Arial, sans-serif"><b>Student Name</b></font><font face="Arial, sans-serif">:
