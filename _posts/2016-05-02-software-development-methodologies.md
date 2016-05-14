@@ -117,6 +117,10 @@ Also, the Spiral model requires much analytical expertise to assess risks. These
 #### Last Word on Spiral Model  
 This simplified description of the Spiral model introduced the idea of an iterative process. Work is done in iterations that allow for revisions of the product at certain specific intervals. The ability to harness a repetitive process to make further refinements to a product is a clear advantage over the earlier linear models.  
 
+Spiral Layout: 
+![Spiral](/img/spiral.jpg "Spiral")  
+
+
 ---
 ---
   
@@ -139,6 +143,8 @@ Unified Process model is an example of a parallel process that features iteratio
 Iterations also happen within phases; for example, the elaboration phase may lead to several iterations of design before the work product is ready for the construction phase. The Unified Process is well suited to large projects where iterations can allow the product to grow naturally beyond the original inception for the product.  
 You may notice a pattern of evolving ever-more advanced processes, but this does not mean that simpler processes are outdated! While earlier linear and iterative processes may be less sophisticated than modern parallel processes, the older processes are still frequently used in simpler situations.  
 
+Unified Process Model Layout: 
+![UPM](/img/upm.jpg "Unified Process Model")
 
 ---
 ---
