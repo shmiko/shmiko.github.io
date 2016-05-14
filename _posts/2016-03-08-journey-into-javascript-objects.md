@@ -539,4 +539,5 @@ if(alwaysFalse) {
  1c. if you need to do an equality comparison, always use '===' / '!==' rather than '==' / '!='  
 2. chain boolean expressions using && and/or ||  
 3. logical NOT operator (!) converts the following expression to a boolean and then   4. returns the opposite boolean value (ex: !null returns true)  
-  tip: use !! to see if something is truthy or falsey (ex: !!null returns false)
+  tip: use !! to see if something is truthy or falsey (ex: !!null returns false)  
+  
