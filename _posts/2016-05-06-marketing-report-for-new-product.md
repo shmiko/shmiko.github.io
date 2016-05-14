@@ -6,7 +6,7 @@ categories: ['marketing']
 tags: [ 'MBA','business']
 ---
 
-## This is a report I did recently for my MBA which was about launching a new product and creating a report for which a marketing plan could be establiched.  
+### This is a report I did recently for my MBA which was about launching a new product and creating a report for which a marketing plan could be establiched.  
 
 I received a high distinction for this report from the AIB on May 11 2016.
 
