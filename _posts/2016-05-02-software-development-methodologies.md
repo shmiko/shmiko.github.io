@@ -100,6 +100,10 @@ As with Waterfall and the V-Model there is limited scope for change and as a seq
 ---
   
   
+**Unified Process Model**  
+ 
+#### The Unified Process Model is a use-case driven, architecture-focused, iterative and incremental software deelopment process.  
+
 
 
 
