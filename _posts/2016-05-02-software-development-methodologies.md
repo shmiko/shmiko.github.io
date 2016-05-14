@@ -125,6 +125,15 @@ This simplified description of the Spiral model introduced the idea of an iterat
  
 #### The Unified Process Model is a use-case driven, architecture-focused, iterative and incremental parallel software deelopment process.  
 
+Its basic structure has sequential phases within a repeatable cycle. Within most of the Unified Process model’s phases, work happens in small iterations until the phase is deemed complete. Usually, phases are deemed complete when a milestone, a specific and identifiable point in a project, is reached.  
+
+While the general structure of the Unified Process is iterative, the model allows for tasks done in one phase to also occur in another. So, a requirements task or activity can happen in more than just some specific phase; it can happen throughout the phases. This also means that, for example, a requirements task, an architecture design task, and a test development task can happen in parallel with the same phase. In contrast, the Waterfall model is linear; these tasks would be organized into specific, separate phases, with no parallelism for those tasks.  
+#### Phases within the Unified Process Model  
+The Unified Process model has four phases; each phase have distinct aims.  
+1. Inception phase  
+2. Elaboration phase  
+3. Construction phase  
+4. Transition phase  
 
 
 ---
