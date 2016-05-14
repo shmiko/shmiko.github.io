@@ -107,11 +107,15 @@ As with Waterfall and the V-Model there is limited scope for change and as a seq
 #### The Spiral Model is a risk-driven process model created by Boehm that iterates through four phases.  
 
 The model outlined a basic process in which development teams could design and successfully implement a software system by revisiting phases of the process after they had been previously completed.  
-A simplified version of the Spiral model has four phases, which have associated goals: determine objectives, identify and resolve risks, develop and test, and plan the next iteration. Taken in order, the four phases represent one full iteration. Each subsequent iteration has the sequence of the four phases revisited. And each iteration results in a product prototype, which allows the development team to review their product or the client to offer feedback. Early iterations lead to product ideas and concepts, while later iterations lead to working software prototypes. The Spiral model is commonly charted with the four phases appearing as quadrants, and an outward growing spiral to indicate progression through the phases.
+A simplified version of the Spiral model has four phases, which have associated goals: determine objectives, identify and resolve risks, develop and test, and plan the next iteration. Taken in order, the four phases represent one full iteration. Each subsequent iteration has the sequence of the four phases revisited. And each iteration results in a product prototype, which allows the development team to review their product or the client to offer feedback. Early iterations lead to product ideas and concepts, while later iterations lead to working software prototypes. The Spiral model is commonly charted with the four phases appearing as quadrants, and an outward growing spiral to indicate progression through the phases.  
+
 ##### Drawbacks of the Spiral Model  
 Estimating work can be more difficult, depending on the duration of the iteration cycle in the Spiral model. The longer the iteration cycle, the further into the future one needs to plan and estimate for; lengthy iterations can introduce more uncertainty in estimates. It is easier to estimate the effort on small things and plan for two weeks ahead than to estimate the effort needed on many big things for several weeks ahead.  
 
+Also, the Spiral model requires much analytical expertise to assess risks. These extensive risk-assessment tasks can consume a great deal of resources to be done properly. Not all organizations will have the years of experience, data, and technical expertise available for estimation and risk assessment.  
 
+#### Last Word on Spiral Model  
+This simplified description of the Spiral model introduced the idea of an iterative process. Work is done in iterations that allow for revisions of the product at certain specific intervals. The ability to harness a repetitive process to make further refinements to a product is a clear advantage over the earlier linear models.  
 
 ---
 ---
