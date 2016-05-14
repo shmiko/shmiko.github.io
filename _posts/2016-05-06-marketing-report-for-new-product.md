@@ -11,17 +11,10 @@ tags: [ 'MBA','business']
 I received a high distinction for this report from the AIB on May 11 2016.
 
 
-```html
-
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <html>
 <head>
-  <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-  <title>705MMGT_Assignment_Paul_Jones</title>
-  <meta name="generator" content="LibreOffice 4.3.5.2 (MacOSX)"/>
-  <meta name="author" content="Paul Jones"/>
-  <meta name="created" content="2016-04-18T10:48:00"/>
-  <meta name="changed" content="2016-04-19T09:44:54.779470000"/>
+ 
   <style type="text/css">
     @page { margin-right: 0.79in; margin-top: 0.79in; margin-bottom: 0.5in }
     p { margin-bottom: 0.1in; direction: ltr; color: #00000a; line-height: 120%; widows: 0; orphans: 0 }
@@ -948,6 +941,3 @@ http://web.b.ebscohost.com/ehost/detail/detail.</font></font></p>
   of 17</font></p>
 </div>
 </body>
-</html>
-
-```
