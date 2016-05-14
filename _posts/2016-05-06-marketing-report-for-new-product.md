@@ -11,29 +11,6 @@ tags: [ 'MBA','business']
 I received a high distinction for this report from the AIB on May 11 2016.
 
 
-<head>
- 
-  <style type="text/css">
-    @page { margin-right: 0.79in; margin-top: 0.79in; margin-bottom: 0.5in }
-    p { margin-bottom: 0.1in; direction: ltr; color: #00000a; line-height: 120%; widows: 0; orphans: 0 }
-    p.western { font-family: "Liberation Serif", "Times New Roman", serif; font-size: 12pt; so-language: en-AU }
-    p.cjk { font-family: "Arial Unicode MS", sans-serif; font-size: 12pt; so-language: zh-CN }
-    p.ctl { font-family: "Arial Unicode MS", sans-serif; font-size: 12pt; so-language: hi-IN }
-    h1 { margin-bottom: 0.08in; direction: ltr; color: #00000a; widows: 0; orphans: 0 }
-    h1.western { font-family: "Liberation Sans", "Arial", sans-serif; font-size: 14pt; so-language: en-AU; font-weight: normal }
-    h1.cjk { font-family: "Arial Unicode MS", sans-serif; font-size: 14pt; so-language: zh-CN; font-weight: normal }
-    h1.ctl { font-family: "Arial Unicode MS", sans-serif; font-size: 14pt; so-language: hi-IN; font-weight: normal }
-    h2 { margin-top: 0.17in; direction: ltr; color: #00000a; widows: 0; orphans: 0 }
-    h2.western { font-family: "Liberation Sans", "Arial", sans-serif; font-size: 14pt; so-language: en-AU; font-weight: normal }
-    h2.cjk { font-family: "Arial Unicode MS", sans-serif; font-size: 14pt; so-language: zh-CN; font-weight: normal }
-    h2.ctl { font-family: "Arial Unicode MS", sans-serif; font-size: 14pt; so-language: hi-IN; font-weight: normal }
-    h3 { margin-top: 0.17in; direction: ltr; color: #00000a; widows: 0; orphans: 0 }
-    h3.western { font-family: "Liberation Sans", "Arial", sans-serif; so-language: en-AU; font-weight: normal }
-    h3.cjk { font-family: "Arial Unicode MS", sans-serif; so-language: zh-CN; font-weight: normal }
-    h3.ctl { font-family: "Arial Unicode MS", sans-serif; so-language: hi-IN; font-weight: normal }
-    a.ctl:link { so-language: zxx }
-  </style>
-</head>
 <body lang="en-US" text="#ffffff" bgcolor="#000000" dir="ltr" style="background: #000000">
 <p lang="en-AU" class="western" style="margin-bottom: 0in; line-height: 150%">
 <font face="Arial, sans-serif"><b>Word Count</b></font><font face="Arial, sans-serif">:
