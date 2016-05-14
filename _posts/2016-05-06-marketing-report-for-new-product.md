@@ -11,7 +11,7 @@ tags: [ 'MBA','business']
 I earned a high distinction for this 705MMGT Marketing Management report from the AIB on May 11 2016.  
 
 
-<body lang="en-US" text="#00000a" bgcolor="#ffffff" dir="ltr" style="background: #ffffff">
+<body>
 <p lang="en-AU" class="western" style="margin-bottom: 0in; line-height: 150%">
 <font color="#ffffff"><font face="Arial, sans-serif"><b>Word Count</b></font><font face="Arial, sans-serif">:
 2748<br></font><font face="Arial, sans-serif"><b>Student Name</b></font><font face="Arial, sans-serif">:
