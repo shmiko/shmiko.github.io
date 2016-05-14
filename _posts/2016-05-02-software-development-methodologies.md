@@ -135,6 +135,10 @@ The Unified Process model has four phases; each phase have distinct aims.
 3. Construction phase  
 4. Transition phase  
 
+Unified Process model is an example of a parallel process that features iterations. Activities like requirements, design, and implementation can happen at the same time, and they all drive the product to a “release” stage. However, once the product is released, the process can begin another cycle to refine and improve the product.  
+Iterations also happen within phases; for example, the elaboration phase may lead to several iterations of design before the work product is ready for the construction phase. The Unified Process is well suited to large projects where iterations can allow the product to grow naturally beyond the original inception for the product.  
+You may notice a pattern of evolving ever-more advanced processes, but this does not mean that simpler processes are outdated! While earlier linear and iterative processes may be less sophisticated than modern parallel processes, the older processes are still frequently used in simpler situations.  
+
 
 ---
 ---
