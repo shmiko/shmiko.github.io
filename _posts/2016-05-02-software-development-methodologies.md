@@ -105,6 +105,8 @@ As with Waterfall and the V-Model there is limited scope for change and as a seq
  
 #### The Unified Process Model is a use-case driven, architecture-focused, iterative and incremental parallel software deelopment process.  
 
+
+
 ---
 ---
   
@@ -113,7 +115,12 @@ As with Waterfall and the V-Model there is limited scope for change and as a seq
  
 #### The Spiral Model is a risk-driven process model created by Boehm that iterates through four phases.  
 
+The model outlined a basic process in which development teams could design and successfully implement a software system by revisiting phases of the process after they had been previously completed.
 
+
+---
+---
+ 
 
 
 **Agile** aka The Agile Manifesto.  
