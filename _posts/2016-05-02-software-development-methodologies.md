@@ -18,7 +18,7 @@ So what's all the HooHa about Software Development Methodologies, lets see what 
 * [Waterfall](#Waterfall)     
 * [V-Model](#V-Model)        
 * [Sawtooth](#Sawtooth)   
-* [Inified Process Model](#UnifiedProcessModel)         
+* [Unified Process Model](#UnifiedProcessModel)         
 * [Agile](#Agile)        
 * [Scrum](#Scrum)        
 * [Extreme](#Extreme)       
