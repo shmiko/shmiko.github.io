@@ -8,7 +8,7 @@ tags: [ 'MBA','business']
 
 #### This is a report I did recently for my MBA which was about launching a new product and creating a report for which a marketing plan could be establiched.  
 
-I earned a high distinction for this report from the AIB on May 11 2016.
+I earned a high distinction for this report from the AIB on May 11 2016.  
 
 
 <body lang="en-US" text="#00000a" bgcolor="#ffffff" dir="ltr" style="background: #ffffff">
