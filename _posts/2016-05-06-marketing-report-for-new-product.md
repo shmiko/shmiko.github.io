@@ -11,7 +11,7 @@ tags: [ 'MBA','business']
 I received a high distinction for this report from the AIB on May 11 2016.
 
 
-```text
+```doc
 
 Word Count: 2748
 Student Name: Paul Jones
