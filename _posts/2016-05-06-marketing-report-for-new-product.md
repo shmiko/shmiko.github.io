@@ -15,7 +15,7 @@ I received a high distinction for this report from the AIB on May 11 2016.
 <p lang="en-AU" class="western" style="margin-bottom: 0in; line-height: 150%">
 <font color="#ffffff"><font face="Arial, sans-serif"><b>Word Count</b></font><font face="Arial, sans-serif">:
 2748<br></font><font face="Arial, sans-serif"><b>Student Name</b></font><font face="Arial, sans-serif">:
-Paul Jones</font></font></p>
+Paul R Jones</font></font></p>
 <p lang="en-AU" class="western" style="margin-bottom: 0in; line-height: 150%">
 <font color="#ffffff"><font face="Arial, sans-serif"><b>Student
 Number</b></font><font face="Arial, sans-serif">: A001637852</font></font></p>
