@@ -7,7 +7,7 @@ tags: [ 'angularjs','wikipedia']
 ---
 
 
-## AngulatJS Performance.  
+#### AngulatJS Performance.  
 
 We will look at the $digest loop, $rootScope, $scopes, $$watchers, $scope.$watch and $digest loop to help understand how Angular Work internally and by knowing this you can help improve performance.
 
