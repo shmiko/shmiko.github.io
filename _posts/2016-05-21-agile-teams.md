@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: Builing an agile Team
+title: Building an agile Team
 categories: ['agile']
 tags: [ 'agile','teams']
 ---
@@ -9,7 +9,7 @@ tags: [ 'agile','teams']
 
 #### Agile Teams. 
 
-Building an agile Team. 
+Building an Agile Team. 
 
 Getting a Team together.  
 A great acronym to remember is:  
