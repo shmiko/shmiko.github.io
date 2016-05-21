@@ -31,7 +31,7 @@ For each change to a team the growth cycle starts over, that is to say for a new
 Agile teams are built on solid engineering principles such as code reviews, continuous integration, task branching and release cadences.  
 In addition continuous mentoring and shared skill sets are critical to having great agile teams.  
 
-Taking Atlassian as a pefect example of how well agile teams can work together we can benefit from understanding how they cohesively form their agile teams around three product phases, including product managers, designers, marketers, operations, developers and testers alike.  
+Taking [Atlassian](https://www.atlassian.com/agile/teams) as a pefect example of how well agile teams can work together we can benefit from understanding how they cohesively form their agile teams around three product phases, including product managers, designers, marketers, operations, developers and testers alike.  
  
  Each team comprise 5-7 members each to form a triad.  
  **Make** - Producy Manager, Design and Development  
