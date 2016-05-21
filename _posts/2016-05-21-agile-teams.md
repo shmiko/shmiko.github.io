@@ -9,7 +9,7 @@ tags: [ 'agile','teams']
 
 #### Agile Teams. 
 
-Builing an agile Team. 
+Building an agile Team. 
 
 Getting a Team together.  
 A great acronym to remember is:  
