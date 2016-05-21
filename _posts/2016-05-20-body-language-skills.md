@@ -20,12 +20,12 @@ She teaches 6 courses at Udemy, 5 of which are paid courses and 1 of those being
 
 The course listing is:
 
-1. Body Language for Entrepreneurs  
-2. The Secrets of Body Language  
-3. How to be a Human Lie Detector  
-4. 7 Scientifically Proven Steps to Increase Your Influence  [Free]  
-5. Supercharge Your Sales with Body Language  
-6. Body Language of Love and Dating  
+1. [Body Language for Entrepreneurs](https://www.udemy.com/body-language-for-entrepreneurs/)  
+2. [The Secrets of Body Language](https://www.udemy.com/the-secrets-of-body-language-webinar/)  
+3. [How to be a Human Lie Detector](https://www.udemy.com/how-to-be-a-human-lie-detector/)  
+4. [7 Scientifically Proven Steps to Increase Your Influence](https://www.udemy.com/7-scientifically-proven-steps-to-increase-your-influence/)  [Free]  
+5. [Supercharge Your Sales with Body Language](https://www.udemy.com/supercharge-your-sales-with-body-language/)  
+6. [Body Language of Love and Dating](https://www.udemy.com/body-language-of-love-and-dating/)  
 
 Vanessa also holds personal [courses](http://www.scienceofpeople.com/work-with-me/) through her website which you should seriously check out.
 
