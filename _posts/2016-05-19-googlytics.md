@@ -32,6 +32,18 @@ Once you get closer to having a working knowledge you will need to have a develo
 
 And then the next step before attempting to become certified will be to sign up and apply for Google Partner status.  
 
-May 21st 2016 - [Lesson 1 at Google Analytics Academy](https://analyticsacademy.withgoogle.com/course/1/unit/1/lesson/1)
+Ok so starting with Google Analytics using the Google Analytics Academy as our may resource.  
+
+There are 5 courses on offer.  
+
+1.Digital Analytics Fundamentals  
+2.Google Analytics Platform Principles  
+3.Ecommerce Analytics: From Data to Decisions  
+4.Mobile App Analytics Fundamentals  
+5.Google Tag Manager Fundamentals  
+
+Starting with Digital Analytics Fundamentals  
+
+May 21st 2016 - [Lesson 1 Digital Analytics Fundamentals](https://analyticsacademy.withgoogle.com/course/1/unit/1/lesson/1)
 
 
