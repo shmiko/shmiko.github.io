@@ -68,14 +68,27 @@ There are commonly 5 business objectives in the online world:
  Continual Improvement consists of 5 phases:
   1. Measure - Collecting data to answers business questions.  
   2. Report - Produce reports or dashboards to the decision makers so as to empower them to make business decisions.  
-  3. Analyse - Identyfing larger trands or to develop a hypothisis which reflects your expectations and figuring out why the numbers do or do not match.  
+  3. Analyse - Identifying larger trends or to develop a hypothesis which reflects your expectations and figuring out why the numbers do or do not match.  
   4. Test - Try different solutions to the problems discovered through analysis.  
   5. Repeat the process to improve.  
 
 2.2 Core analysis techniques  
 
+Describe segmentation and why it is an important technique for good analysis.  
+Understand the importance of using internal and external benchmarks to add context to your data.  
 
+Segmentation  
+Segmentation allows you to analyse subsets of data. You can segment your data my marketing channel. 
+Understanding this allows you to see which channel is responsible for changes in your data.  
 
+Context
+Adding context to your data is very important and allows you to understand if performance is good or bad.  
+Context can be set internally or externally.  
+
+2.3 Conversions and conversion attribution   
+Define the term "conversion"  
+Explain how marketing attribution works in Google Analytics and why understanding attribution is important for good analysis.  
+Understand the “last-click” attribution model versus other models.  
 
 
 
