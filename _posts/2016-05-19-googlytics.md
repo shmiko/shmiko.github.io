@@ -72,5 +72,12 @@ There are commonly 5 business objectives in the online world:
   4. Test - Try different solutions to the problems discovered through analysis.  
   5. Repeat the process to improve.  
 
+2.2 Core analysis techniques  
+
+
+
+
+
+
 
 
