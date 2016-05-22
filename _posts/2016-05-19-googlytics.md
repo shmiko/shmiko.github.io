@@ -45,7 +45,14 @@ There are 5 courses on offer.
 Starting with Digital Analytics Fundamentals  
 
 May 21st 2016 - [Lesson 1 Digital Analytics Fundamentals](https://analyticsacademy.withgoogle.com/course/1/unit/1/lesson/1)
-Course Overview:
+
+1. Course Overview:
 The course should take between 4 and 6 hours including the written tests and final assessment for which 80% of higher is required to get a certificate should that concern you. I personally don't worry about the certificate as I am here for the knowledge and to ultimately apply that to earn certification.  
+
+2. Getting started with digital analytics  
+ * Understand what "digital measurement" means
+ * Recognize why digital analytics tools like Google Analytics are important to implement for your business
+
+
 
 
