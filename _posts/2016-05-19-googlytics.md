@@ -32,6 +32,6 @@ Once you get closer to having a working knowledge you will need to have a develo
 
 And then the next step before attempting to become certified will be to sign up and apply for Google Partner status.  
 
-
+May 21st 2016 - [Lesson 1 at Google Analytics Academy](https://analyticsacademy.withgoogle.com/course/1/unit/1/lesson/1)
 
 
