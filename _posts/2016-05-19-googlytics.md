@@ -47,12 +47,30 @@ Starting with Digital Analytics Fundamentals
 May 21st 2016 - [Lesson 1 Digital Analytics Fundamentals](https://analyticsacademy.withgoogle.com/course/1/unit/1/lesson/1)
 
 1. Course Overview:
-The course should take between 4 and 6 hours including the written tests and final assessment for which 80% of higher is required to get a certificate should that concern you. I personally don't worry about the certificate as I am here for the knowledge and to ultimately apply that to earn certification.  
+The course should take between 4 and 6 hours including the tests and final assessment for which 80% of higher is required to get a certificate should that concern you. I personally don't worry about the certificate as I am here for the knowledge and to ultimately apply that to earn certification.  
 
 2. Getting started with digital analytics  
+2.1 **The importance of digital analytics**    
  * Understand what "digital measurement" means
- * Recognize why digital analytics tools like Google Analytics are important to implement for your business
+ "Digital analytics is the analysis of qualitative and quantitative data from your business and the competition to drive a continual improvement of the online experience that your customers and potential customers have which translates to your desired outcomes (both online and offline)".  
+Avinash Kaushik  
 
+An important step of digital analytics is understanding what your desired business objective and outcome is and how you plan to measure them.  
+There are commonly 5 business objectives in the online world:
+ -For ecommerce sites, an obvious objective is selling products or services.
+ -For lead generation sites, the goal is to collect user information for sales teams to connect with potential leads.
+ -For content publishers, the goal is to encourage engagement and frequent visitation.
+ -For online informational or support sites, helping users find the information they need at the right time is of primary importance.
+ -For branding, the main objective is to drive awareness, engagement and loyalty.
+
+ * Recognise why digital analytics tools like Google Analytics are important to implement for your business
+
+ Continual Improvement consists of 5 phases:
+  1. Measure - Collecting data to answers business questions.  
+  2. Report - Produce reports or dashboards to the decision makers so as to empower them to make business decisions.  
+  3. Analyse - Identyfing larger trands or to develop a hypothisis which reflects your expectations and figuring out why the numbers do or do not match.  
+  4. Test - Try different solutions to the problems discovered through analysis.  
+  5. Repeat the process to improve.  
 
 
 
