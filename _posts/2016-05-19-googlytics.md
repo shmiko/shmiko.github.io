@@ -143,7 +143,7 @@ Use campaign tracking and AdWords linking to properly track marketing campaigns.
 Use custom dashboards and custom reports to simplify the reporting process.  
 
 Maintain and Refine  
-The final step isto maintain and refine the plan.  
+The final step is to maintain and refine the plan.  
 
 
 
