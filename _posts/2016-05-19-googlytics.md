@@ -75,22 +75,75 @@ There are commonly 5 business objectives in the online world:
 2.2 Core analysis techniques  
 
 Describe segmentation and why it is an important technique for good analysis.  
-Understand the importance of using internal and external benchmarks to add context to your data.  
 
 Segmentation  
+
 Segmentation allows you to analyse subsets of data. You can segment your data my marketing channel. 
 Understanding this allows you to see which channel is responsible for changes in your data.  
+
+Understand the importance of using internal and external benchmarks to add context to your data.  
 
 Context
 Adding context to your data is very important and allows you to understand if performance is good or bad.  
 Context can be set internally or externally.  
 
 2.3 Conversions and conversion attribution   
+
 Define the term "conversion"  
+
+micro conversions, for example, signups for your email newsletter, account creations, and other activities that often precede a purchase.  
+macro conversions, i.e. sales transactions  
+Example:
+email sign-up (micro conversion) > create account (micro conversion) > purchase.  
+
 Explain how marketing attribution works in Google Analytics and why understanding attribution is important for good analysis.  
-Understand the “last-click” attribution model versus other models.  
+Attribution is assigning credit for a conversion.  
+
+Understand the “last-click” attribution model versus other models.    
+Rather than assign all of the value to the last channel, you might want to assign all of the value to the first channel, the one that started the user on the customer journey. This is called first-click attribution.  
+
+2.4 Creating a measurement plan
+
+Learn the five-step process for creating a measurement plan to track your online performance.
+Define measurement plan  
+Document technical infrastructure  
+Create implementation plan  
+Implement  
+Maintain and refine  
+
+Define meaningful goals, targets and segments
+Step 1. Document business objectives
+Step 2. Identify strategies and tactics  
+Step 3. Choose KPIs  
+Step 4. Choose segments  
+Step 5. Choose targets  
 
 
+Understand how your business objectives will influence what you track in Google Analytics
+Define Business Objective - Eg. Help people enjoy the outdoors through innovative products and cultivate their love of the outdoors.  
+Strategy - A) Sell Products  B) Engage Users  
+Tactics - A1) Sell Online A2) Drive Store Visits  B1)Drive Blog Engagement  
+KPIs - A1) Revenue $ A1) Average Order Value $  A2) Find Store Location A2) Printed Coupon  B1) Recency/Frequency B1) Social Share  
+Segments - Marketing Channel, New vs Returning Customers, Geography  
+Targets - Set Targets  
+
+Implementation Plan  
+Website Technologies to consider:  
+Query string parameters  
+Server redirects  
+Flash and AJAX events  
+Multiple domains and subdomains  
+Responsive web design  
+
+Common features are:  
+Implement the standard Analytics tracking snippet. This gives you the bulk of the data you need.  
+Determine how to track your KPIs. You can do this using goal tracking and the ecommerce module if you are an ecommerce business.  
+Use filters to normalise your data so that your reports are accurate and useful.  
+Use campaign tracking and AdWords linking to properly track marketing campaigns.  
+Use custom dashboards and custom reports to simplify the reporting process.  
+
+Maintain and Refine  
+The final step isto maintain and refine the plan.  
 
 
 
