@@ -57,11 +57,11 @@ Avinash Kaushik
 
 An important step of digital analytics is understanding what your desired business objective and outcome is and how you plan to measure them.  
 There are commonly 5 business objectives in the online world:
- -For ecommerce sites, an obvious objective is selling products or services.
- -For lead generation sites, the goal is to collect user information for sales teams to connect with potential leads.
- -For content publishers, the goal is to encourage engagement and frequent visitation.
- -For online informational or support sites, helping users find the information they need at the right time is of primary importance.
- -For branding, the main objective is to drive awareness, engagement and loyalty.
+ - For ecommerce sites, an obvious objective is selling products or services.
+ - For lead generation sites, the goal is to collect user information for sales teams to connect with potential leads.
+ - For content publishers, the goal is to encourage engagement and frequent visitation.
+ - For online informational or support sites, helping users find the information they need at the right time is of primary importance.
+ - For branding, the main objective is to drive awareness, engagement and loyalty.
 
  * Recognise why digital analytics tools like Google Analytics are important to implement for your business
 
@@ -105,11 +105,11 @@ Rather than assign all of the value to the last channel, you might want to assig
 2.4 Creating a measurement plan
 
 Learn the five-step process for creating a measurement plan to track your online performance.
-Define measurement plan  
-Document technical infrastructure  
-Create implementation plan  
-Implement  
-Maintain and refine  
+ - Define measurement plan  
+ - Document technical infrastructure  
+ - Create implementation plan  
+ - Implement  
+ - Maintain and refine  
 
 Define meaningful goals, targets and segments
 Step 1. Document business objectives
@@ -128,12 +128,12 @@ Segments - Marketing Channel, New vs Returning Customers, Geography
 Targets - Set Targets  
 
 Implementation Plan  
-Website Technologies to consider:  
-Query string parameters  
-Server redirects  
-Flash and AJAX events  
-Multiple domains and subdomains  
-Responsive web design  
+ - Website Technologies to consider:  
+ - Query string parameters  
+ - Server redirects  
+ - Flash and AJAX events  
+ - Multiple domains and subdomains  
+ - Responsive web design  
 
 Common features are:  
 Implement the standard Analytics tracking snippet. This gives you the bulk of the data you need.  
