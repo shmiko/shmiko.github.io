@@ -120,12 +120,12 @@ Step 5. Choose targets
 
 
 Understand how your business objectives will influence what you track in Google Analytics
-Define Business Objective - Eg. Help people enjoy the outdoors through innovative products and cultivate their love of the outdoors.  
-Strategy - A) Sell Products  B) Engage Users  
-Tactics - A1) Sell Online A2) Drive Store Visits  B1)Drive Blog Engagement  
-KPIs - A1) Revenue $ A1) Average Order Value $  A2) Find Store Location A2) Printed Coupon  B1) Recency/Frequency B1) Social Share  
-Segments - Marketing Channel, New vs Returning Customers, Geography  
-Targets - Set Targets  
+ - Define Business Objective - Eg. Help people enjoy the outdoors through innovative products and cultivate their love of the outdoors.  
+ - Strategy - A) Sell Products  B) Engage Users  
+ - Tactics - A1) Sell Online A2) Drive Store Visits  B1)Drive Blog Engagement  
+ - KPIs - A1) Revenue $ A1) Average Order Value $  A2) Find Store Location A2) Printed Coupon  B1) Recency/Frequency B1) Social Share  
+ - Segments - Marketing Channel, New vs Returning Customers, Geography  
+ - Targets - Set Targets  
 
 Implementation Plan  
  - Website Technologies to consider:  
