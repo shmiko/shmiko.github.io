@@ -46,11 +46,11 @@ Starting with Digital Analytics Fundamentals
 
 May 21st 2016 - [Lesson 1 Digital Analytics Fundamentals](https://analyticsacademy.withgoogle.com/course/1/unit/1/lesson/1)
 
-1. Course Overview:
+## 1. Course Overview:
 The course should take between 4 and 6 hours including the tests and final assessment for which 80% of higher is required to get a certificate should that concern you. I personally don't worry about the certificate as I am here for the knowledge and to ultimately apply that to earn certification.  
 
-2. Getting started with digital analytics  
-2.1 **The importance of digital analytics**    
+## 2. Getting started with digital analytics  
+### 2.1 **The importance of digital analytics**    
  * Understand what "digital measurement" means
  "Digital analytics is the analysis of qualitative and quantitative data from your business and the competition to drive a continual improvement of the online experience that your customers and potential customers have which translates to your desired outcomes (both online and offline)".  
 Avinash Kaushik  
@@ -72,7 +72,7 @@ There are commonly 5 business objectives in the online world:
   4. Test - Try different solutions to the problems discovered through analysis.  
   5. Repeat the process to improve.  
 
-2.2 Core analysis techniques  
+### 2.2 Core analysis techniques  
 
 Describe segmentation and why it is an important technique for good analysis.  
 
@@ -87,7 +87,7 @@ Context
 Adding context to your data is very important and allows you to understand if performance is good or bad.  
 Context can be set internally or externally.  
 
-2.3 Conversions and conversion attribution   
+### 2.3 Conversions and conversion attribution   
 
 Define the term "conversion"  
 
@@ -102,7 +102,7 @@ Attribution is assigning credit for a conversion.
 Understand the “last-click” attribution model versus other models.    
 Rather than assign all of the value to the last channel, you might want to assign all of the value to the first channel, the one that started the user on the customer journey. This is called first-click attribution.  
 
-2.4 Creating a measurement plan
+### 2.4 Creating a measurement plan
 
 Learn the five-step process for creating a measurement plan to track your online performance.
  - Define measurement plan  
@@ -145,5 +145,9 @@ Use custom dashboards and custom reports to simplify the reporting process.
 Maintain and Refine  
 The final step is to maintain and refine the plan.  
 
+## 3 Understanding and Using Google Analytics data  
+### 3.1 How Google Analytics works
 
+
+### 3.2 Key Metrics and dimensions defined  
 
