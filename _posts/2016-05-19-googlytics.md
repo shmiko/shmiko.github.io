@@ -147,7 +147,16 @@ The final step is to maintain and refine the plan.
 
 ## 3 Understanding and Using Google Analytics data  
 ### 3.1 How Google Analytics works
-
+Google Analytics works based on 4 foundations:  
+ - Collection  
+	Collects user-interaction data.  
+ - Configuration  
+	Allows you to manage how the data is processed.  
+ - Processing  
+	Processes the user-interaction data, with the configuration data.  
+ - Reporting  
+	Provides access to all the processed data.  
+![Google Analytics](/img/googlytics.png "Google Analytics")  
 
 ### 3.2 Key Metrics and dimensions defined  
 
