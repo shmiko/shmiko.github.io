@@ -171,3 +171,58 @@ Check out this link to explore all the Google Analytics Metrics and Dimensions
 
 And see this link to understand how to customise session and campaign timeout length  
 [Session and Campaigns Timeouts](https://support.google.com/analytics/answer/2795871)  
+
+## 4 Collectiong actionable data with Google Analytics     
+
+### 4.1 Creating an account  
+ - Practice the steps to create a Google Analytics account
+ - Learn where to implement your Google Analytics code
+
+When you first set up your Analytics account, you’ll be asked to choose whether you want to track a website or a mobile application. Depending on your choice, Analytics will display instructions to add the correct code to collect your data.    
+If you’re tracking a website, then you will receive a piece of JavaScript code that you must add to every page of the site you want to track. It’s best to add this code to the top of the page, before the closing head tag. If your website uses a template, then you can add the code directly to that site template.  
+If you’re tracking a mobile application you will download a mobile software development kit, or SDK, and share it with your development team. There’s an SDK for the Android platform as well as iOS.  
+Once you add the code to your site, you should start to see data immediately in the Real-Time reports.  
+Another way to add the Analytics tracking code to a site is by using a tag management tool, such as Google Tag Manager.  
+
+### 4.2 Understanding your account  
+Understand the hierarchy of a Google Analytics account and the meaning of the terms “Account," “Property” and “View”  
+Practice creating new properties and new views  
+Recognize how account structure affects which data can be viewed together in Google Analytics  
+
+An Analytics account is simply a logical way for a business to group data from all of its digital assets together. There are also certain configuration settings that you apply to your entire account, like managing the users who have access.  
+
+Within each account, you can have one or more properties that independently collect data. Each property is assigned a unique tracking ID that tells Analytics exactly which data should be collected, stored and reported together. Typically you create separate accounts for unique businesses or distinct business units. Then you can create unique properties within that account for the different websites, mobile applications, or other digital assets that belong to the business.  
+
+For each property, you have the option to create different views of your data. A view lets you define a unique perspective of the data from a parent property. You use the configuration settings in your account to define each view. You should have at least three views for each property.  
+
+By default, you have one unfiltered view that is automatically generated when you create a property. Don’t apply any settings or configurations to this view since it is the backup for your data. Once you delete a view it’s gone forever. So having a backup view, like the unfiltered data view, is very useful.  
+You should have a master view. This view should have all of the settings needed to transform your data into useful information.
+You should have a test view. If you need to make changes to your configuration test them using this view first. Once you know the impact to the data you can then apply the same change to your master view.  
+When you create a new view, Analytics does not automatically copy any of the historical data in the original view to the new view. You’ll only have data starting from the date you created the view.  
+
+
+### 4.3 Setting up basic filters  
+You can use filters to:
+
+exclude data  
+include data  
+change how the data looks in your reports  
+Filters help you transform the data so it’s better aligned with your business needs.  
+
+During processing, Analytics applies your filters to the raw data collected from your website or app. This transformed data is what you see in the reports for each view.  
+
+For example, you can use a filter to exclude traffic from your internal employees. The easiest way to do this is to create a filter that excludes all of the data from the IP address for your business. As Analytics processes your data it will ignore any data coming from that IP address.  
+
+You can also use a filter to clean up your data. For example, sometimes a website will show the same page regardless of the case of the URL uppercase, lowercase or mixed case. Since Analytics treats data as case sensitive, this can result in the same page showing up multiple times, based on case, in your reports. To prevent this separation and see the page data in aggregate, you can set up a lowercase filter to force all of the URLs to a single case.  
+
+
+
+
+### 4.4 Setting up goals and ecommerce  
+
+
+
+### 4.5 Collecting campaign data  
+
+
+
