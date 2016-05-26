@@ -147,15 +147,13 @@ The final step is to maintain and refine the plan.
 
 ## 3 Understanding and Using Google Analytics data  
 ### 3.1 How Google Analytics works
-Google Analytics works based on 4 foundations:  
- - Collection  
-	Collects user-interaction data.  
- - Configuration  
-	Allows you to manage how the data is processed.  
- - Processing  
-	Processes the user-interaction data, with the configuration data.  
- - Reporting  
-	Provides access to all the processed data.  
+There are four main components to the Analytics system: data collection, configuration, data processing and reporting.  
+
+ - Collection: You can use Analytics to collect user interaction data from websites, mobile apps, and digitally connected environments like kiosks or point of sale systems. For websites, Analytics uses JavaScript code to collect information. One package of information is referred to as a “hit” or an “interaction.” A “hit” is sent every time a user views a page tagged with Analytics. 
+For mobile apps, you must add extra code to each "activity" you want to track. Note that since mobile devices are not always connected to the internet, data can not always be sent to the collection server in real time. To handle this situation, Analytics can store the “hits” and dispatch them to the server when the device reconnects to the internet. 
+ - Processing: Once the hits from a user have been collected on Google’s servers, the next step is data processing. This is the “transformation” step that turns your raw data to something useful. 
+ - Configuration: In this step, Analytics applies your configuration settings, such as filters, to the raw data. Once your data is processed, the data is stored in a database. Once the data has been processed and inserted into the database, it can’t be changed. 
+ - Reporting: Typically, you will use the web interface at www.google.com/analytics to access your data. However, it is also possibly to systematically retrieve data from your Analytics account using your own application code and the Core Reporting API.  
 ![Google Analytics](/img/googlytics.png "Google Analytics")  
 
 ### 3.2 Key Metrics and dimensions defined  
