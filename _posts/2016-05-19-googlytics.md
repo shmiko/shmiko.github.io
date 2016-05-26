@@ -168,3 +168,6 @@ Metrics are the quantitative measurements of users,sessions and actions. Metrics
 
 Check out this link to explore all the Google Analytics Metrics and Dimensions  
 [Google Analytics Metrics and Dimensions](https://developers.google.com/analytics/devguides/reporting/core/dimsmets)
+
+And see this link to understand how to customise session and campaign timeout length  
+[Session and Campaigns Timeouts](https://support.google.com/analytics/answer/2795871)  
