@@ -157,4 +157,7 @@ For mobile apps, you must add extra code to each "activity" you want to track. N
 ![Google Analytics](/img/googlytics.png "Google Analytics")  
 
 ### 3.2 Key Metrics and dimensions defined  
-
+ - Define the terms "metrics" and "dimensions" and identify examples of each in Google Analytics.  
+ - Understand how key metrics like "users," "sessions," "bounce rate" and other interaction metrics are calculated.  
+ - Understand how time metrics are calculated.  
+ 
