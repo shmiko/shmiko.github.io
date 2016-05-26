@@ -166,3 +166,5 @@ Reports in Analytics contain dimensions and metrics. Most commonly, you’ll see
 Dimensions describe characteristics of your users, their sessions and actions.  
 Metrics are the quantitative measurements of users,sessions and actions. Metrics are numerical data.  
 
+Check out this link to explore all the Google Analytics Metrics and Dimensions  
+[Google Analytics Metrics and Dimensions](https://developers.google.com/analytics/devguides/reporting/core/dimsmets)
