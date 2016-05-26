@@ -146,6 +146,7 @@ Maintain and Refine
 The final step is to maintain and refine the plan.  
 
 ## 3 Understanding and Using Google Analytics data  
+
 ### 3.1 How Google Analytics works
 There are four main components to the Analytics system: data collection, configuration, data processing and reporting.  
 
