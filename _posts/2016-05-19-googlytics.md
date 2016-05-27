@@ -280,8 +280,9 @@ There is an important difference between Goal conversions and ecommerce transact
 As a best practice, you should only add a Goal value for nonecommerce Goals. The reason is that Goal value is cumulative. If you add a Goal value and you track transactions with the ecommerce tracking code, Analytics will add the value of the transaction to the value of the Goal.  
 
 
-
 ### 4.5 Collecting campaign data  
-
+ - Recognize standard acquisition dimensions and understand how traffic sources are categorized in Google Analytics by default.  
+ - Understand the importance of correctly categorizing your acquisition sources in Google Analytics.  
+ - Become familiar with custom campaign link tagging and practice using the URL builder to create manual tags for an example campaign.  
 
 
