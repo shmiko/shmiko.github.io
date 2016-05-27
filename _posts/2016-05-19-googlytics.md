@@ -46,12 +46,41 @@ Starting with Digital Analytics Fundamentals
 
 May 21st 2016 - [Lesson 1 Digital Analytics Fundamentals](https://analyticsacademy.withgoogle.com/course/1/unit/1/lesson/1)
 
+ - Unit 1: Course overview
+	Lesson 1: Course overview
+ - Unit 2: Getting started with digital analytics
+	Lesson 1: The importance of digital analytics
+	Lesson 2: Core analysis techniques
+	Lesson 3: Conversions and conversion attribution
+	Lesson 4: Creating a measurement plan
+ - Unit 3: Understanding and using Google Analytics data
+	Lesson 1: How Google Analytics works
+	Lesson 2: Key metrics and dimensions defined
+ - Unit 4: Collecting actionable data with Google Analytics
+	Lesson 1: Creating an account
+	Lesson 2: Understanding your account structure
+	Lesson 3: Setting up basic filters
+	Lesson 4: Setting up goals and ecommerce
+	Lesson 5: Collecting campaign data
+ - Unit 5: Navigating Google Analytics reports
+	Lesson 1: Reporting overview
+	Lesson 2: Audience reports
+	Lesson 3: Acquisition reports
+	Lesson 4: AdWords reports
+	Lesson 5: Behavior reports
+	Lesson 6: Custom reports and dashboards
+ - Unit 6: Navigating Conversions reports
+	Lesson 1: Goal Flow report
+	Lesson 2: Ecommerce reports
+	Lesson 3: Multi-Channel Funnels reports
+	Lesson 4: Attribution reports
+
 ## 1. Course Overview:
 The course should take between 4 and 6 hours including the tests and final assessment for which 80% of higher is required to get a certificate should that concern you. I personally don't worry about the certificate as I am here for the knowledge and to ultimately apply that to earn certification.  
 
-## 2. Getting started with digital analytics  
+## 2 Getting started with digital analytics  
 ### 2.1 **The importance of digital analytics**    
- * Understand what "digital measurement" means
+ - Understand what "digital measurement" means.  
  "Digital analytics is the analysis of qualitative and quantitative data from your business and the competition to drive a continual improvement of the online experience that your customers and potential customers have which translates to your desired outcomes (both online and offline)".  
 Avinash Kaushik  
 
@@ -73,8 +102,7 @@ There are commonly 5 business objectives in the online world:
   5. Repeat the process to improve.  
 
 ### 2.2 Core analysis techniques  
-
-Describe segmentation and why it is an important technique for good analysis.  
+ - Describe segmentation and why it is an important technique for good analysis.  
 
 Segmentation  
 
@@ -88,8 +116,7 @@ Adding context to your data is very important and allows you to understand if pe
 Context can be set internally or externally.  
 
 ### 2.3 Conversions and conversion attribution   
-
-Define the term "conversion"  
+ - Define the term "conversion"  
 
 micro conversions, for example, signups for your email newsletter, account creations, and other activities that often precede a purchase.  
 macro conversions, i.e. sales transactions  
@@ -148,7 +175,7 @@ The final step is to maintain and refine the plan.
 ## 3 Understanding and Using Google Analytics data   
 
 ### 3.1 How Google Analytics works
-There are four main components to the Analytics system: data collection, configuration, data processing and reporting.  
+ - There are four main components to the Analytics system: data collection, configuration, data processing and reporting.  
 
  - Collection: You can use Analytics to collect user interaction data from websites, mobile apps, and digitally connected environments like kiosks or point of sale systems. For websites, Analytics uses JavaScript code to collect information. One package of information is referred to as a “hit” or an “interaction.” A “hit” is sent every time a user views a page tagged with Analytics. 
 For mobile apps, you must add extra code to each "activity" you want to track. Note that since mobile devices are not always connected to the internet, data can not always be sent to the collection server in real time. To handle this situation, Analytics can store the “hits” and dispatch them to the server when the device reconnects to the internet. 
@@ -185,9 +212,9 @@ Once you add the code to your site, you should start to see data immediately in 
 Another way to add the Analytics tracking code to a site is by using a tag management tool, such as Google Tag Manager.  
 
 ### 4.2 Understanding your account  
-Understand the hierarchy of a Google Analytics account and the meaning of the terms “Account," “Property” and “View”  
-Practice creating new properties and new views  
-Recognize how account structure affects which data can be viewed together in Google Analytics  
+ - Understand the hierarchy of a Google Analytics account and the meaning of the terms “Account," “Property” and “View”.  
+ - Practice creating new properties and new views.  
+ - Recognize how account structure affects which data can be viewed together in Google Analytics.  
 
 An Analytics account is simply a logical way for a business to group data from all of its digital assets together. There are also certain configuration settings that you apply to your entire account, like managing the users who have access.  
 
@@ -202,7 +229,10 @@ When you create a new view, Analytics does not automatically copy any of the his
 
 
 ### 4.3 Setting up basic filters  
-You can use filters to:
+ - Understand how filters act on data.  
+ - Practice creating a basic filter to exclude internal traffic from your business.  
+ - Become familiar with other basic examples of using filters for GA.  
+You can use filters to:  
 
 exclude data  
 include data  
@@ -215,10 +245,39 @@ For example, you can use a filter to exclude traffic from your internal employee
 
 You can also use a filter to clean up your data. For example, sometimes a website will show the same page regardless of the case of the URL uppercase, lowercase or mixed case. Since Analytics treats data as case sensitive, this can result in the same page showing up multiple times, based on case, in your reports. To prevent this separation and see the page data in aggregate, you can set up a lowercase filter to force all of the URLs to a single case.  
 
-
+#### Create an IP address filter
+ - To prevent internal traffic from affecting your data, you can use a filter to filter out traffic by IP address.  
+ - You can find the public IP address you are currently using by searching "what is my ip address" on google.com. You can find out what IP addresses and subnets your company uses by asking your network administrator.  
+To create an IP address filter:  
+  
+Follow the instructions to create a new filter for your view.  
+Leave the Filter Type as  Predefined.  
+Click the Select filter type drop-down menu and select Exclude.  
+Click the Select source or destination drop-down menu and select traffic from the IP addresses.  
+Click the Select expression drop-down menu and select the appropriate expression.  
+Enter the IP address or a regular expression. See the examples below.  
 
 
 ### 4.4 Setting up goals and ecommerce  
+ - Understand how to set up goals once you’ve put together your measurement plan.  
+ - Recognize which types of actions can be tracked as goals.  
+ - Understand how funnels can be used to analyze the path to conversion.  
+ - Recall the steps to set up ecommerce tracking.  
+ - Identify the difference between goal tracking and ecommerce tracking with Google Analytics.  
+
+Setting up Goals in Analytics is one of the most important parts of implementation. Once you enable Goals, you get metrics like the number of conversions and the conversion rate. Goals are the way that we map the data in Analytics to the key performance indicators that you defined in your measurement plan. These metrics are always available in the Conversion section of your standard reports. But you can also find these metrics in almost every other report in Analytics. This is useful because the reports allow you to segment your conversion data.  
+
+Anytime you think of conversions, you should think about “macro conversions” and “micro conversions.” Macro conversions are your primary business objectives. Micro conversions are the relationship building activities that lead up to a macro conversion.  
+
+Goals are configured at the view level. That means you can create different Goals for each view. There are four types of Goals.  
+
+A Destination Goal is a page on your website that users see when they complete an activity. For an account signup, this might be the “thank you for signing up” page. For a purchase this might be the receipt page. A destination Goal triggers a conversion when a user views the page you’ve specified. If you’re setting up a Goal for an app, you’d set up a screen view Goal rather than a destination Goal.  
+An Event Goal is triggered when a user does something specific like downloading a PDF or starting a video. You need to have Event Tracking implemented on your website in order to use this type of Goal.  
+A Pages per Visit Goal is triggered when a user sees more or fewer pages than a threshold that you specify.  
+A Duration Goal is triggered when a user’s visit exceeds or falls below a threshold that you set.  
+There is an important difference between Goal conversions and ecommerce transactions. A Goal conversion can only be counted once during a visit, but an ecommerce transaction can be counted multiple times during a visit. Here’s an example. Let’s say that you set one of your Goals to be a PDF download and you define it such that any PDF download is a valid Goal conversion. And let’s also say that the Goal is worth $5. In this case, if a user comes to your site and downloads five PDF files during a single session, you’ll only get one conversion worth $5. However, if you were to track each of these downloads as a $5 ecommerce transaction, you would see five transactions and $25 in ecommerce revenue.  
+
+As a best practice, you should only add a Goal value for nonecommerce Goals. The reason is that Goal value is cumulative. If you add a Goal value and you track transactions with the ecommerce tracking code, Analytics will add the value of the transaction to the value of the Goal.  
 
 
 
