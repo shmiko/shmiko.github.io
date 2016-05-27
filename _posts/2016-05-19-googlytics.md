@@ -286,3 +286,9 @@ As a best practice, you should only add a Goal value for nonecommerce Goals. The
  - Become familiar with custom campaign link tagging and practice using the URL builder to create manual tags for an example campaign.  
 
 
+## 5 Navigating Google Analytics Reports  
+
+### 5.1 Reporting Overview  
+Become familiar with the standard report layout and report organization.  
+Perform common reporting tasks like setting date ranges, graphing data and filtering and sorting tables.  
+
