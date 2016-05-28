@@ -305,3 +305,7 @@ As a best practice, you should only add a Goal value for nonecommerce Goals. The
  - Understand how key metrics in the Audience reports are calculated.  
  - Recognize how to use the Audience reports to identify new audience targeting opportunities.  
 
+## 5.3 Acquisition Reports  
+ - Practice navigating the Acquisition reports.  
+ - Understand how key dimensions in the Acquisition reports are collected and reported.  
+ - Recognize how to use the Acquisition reports to find basic campaign optimization opportunities.  
