@@ -325,3 +325,16 @@ As a best practice, you should only add a Goal value for nonecommerce Goals. The
 ## 5.5 Custom Reports and Dashboards  
  - Practice building custom reports that include exactly the dimensions and metrics you need to tie your reports back to your measurement plan.  
  - Practice creating custom dashboards to save time and improve your workflow.  
+
+### 6 Navigating Conversion Reports  
+
+## 6.1 Goal Flow Report  
+ - Practice navigating the Goal Flow report.  
+
+## 6.2 Ecommerce Reports  
+
+
+## 6.3  Multi-Channel Funnels Reports  
+
+
+## 6.4 Attribution Reports  
