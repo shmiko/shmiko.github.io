@@ -296,6 +296,12 @@ As a best practice, you should only add a Goal value for nonecommerce Goals. The
 ## 5 Navigating Google Analytics Reports  
 
 ### 5.1 Reporting Overview  
-Become familiar with the standard report layout and report organization.  
-Perform common reporting tasks like setting date ranges, graphing data and filtering and sorting tables.  
+ - Become familiar with the standard report layout and report organization.  
+ - Perform common reporting tasks like setting date ranges, graphing data and filtering and sorting tables.  
+
+## 5.2 Audience Reports  
+
+ - Practice navigating the Audience reports.  
+ - Understand how key metrics in the Audience reports are calculated.  
+ - Recognize how to use the Audience reports to identify new audience targeting opportunities.  
 
