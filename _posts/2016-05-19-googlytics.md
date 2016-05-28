@@ -309,3 +309,19 @@ As a best practice, you should only add a Goal value for nonecommerce Goals. The
  - Practice navigating the Acquisition reports.  
  - Understand how key dimensions in the Acquisition reports are collected and reported.  
  - Recognize how to use the Acquisition reports to find basic campaign optimization opportunities.  
+
+## 5.4 Adwords Reports 
+ - Practice navigating the AdWords reports.  
+ - Understand what additional metrics and dimensions are collected and reported in the AdWords reports.  
+ - Recognize how to use the AdWords reports to find basic campaign optimization opportunities.  
+
+
+## 5.5 Behaviour Reports  
+ - Practice navigating the Behavior reports.  
+ - Understand how key metrics in the Behavior reports are calculated.  
+ - Recognize how to use the Behavior reports to find optimization opportunities.  
+
+
+
+## 5.5 Custom Reports and Dashboards  
+
