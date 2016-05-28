@@ -78,6 +78,8 @@ May 21st 2016 - [Lesson 1 Digital Analytics Fundamentals](https://analyticsacade
 ## 1. Course Overview:
 The course should take between 4 and 6 hours including the tests and final assessment for which 80% of higher is required to get a certificate should that concern you. I personally don't worry about the certificate as I am here for the knowledge and to ultimately apply that to earn certification.  
 
+---  
+
 ## 2 Getting started with digital analytics  
 ### 2.1 **The importance of digital analytics**    
  - Understand what "digital measurement" means.  
@@ -172,6 +174,8 @@ Use custom dashboards and custom reports to simplify the reporting process.
 Maintain and Refine  
 The final step is to maintain and refine the plan.  
 
+---  
+
 ## 3 Understanding and Using Google Analytics data   
 
 ### 3.1 How Google Analytics works
@@ -198,6 +202,8 @@ Check out this link to explore all the Google Analytics Metrics and Dimensions
 
 And see this link to understand how to customise session and campaign timeout length  
 [Session and Campaigns Timeouts](https://support.google.com/analytics/answer/2795871)  
+
+---  
 
 ## 4 Collectiong actionable data with Google Analytics     
 
@@ -285,6 +291,7 @@ As a best practice, you should only add a Goal value for nonecommerce Goals. The
  - Understand the importance of correctly categorizing your acquisition sources in Google Analytics.  
  - Become familiar with custom campaign link tagging and practice using the URL builder to create manual tags for an example campaign.  
 
+---  
 
 ## 5 Navigating Google Analytics Reports  
 
