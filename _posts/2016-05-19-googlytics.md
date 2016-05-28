@@ -332,9 +332,10 @@ As a best practice, you should only add a Goal value for nonecommerce Goals. The
  - Practice navigating the Goal Flow report.  
 
 ## 6.2 Ecommerce Reports  
-
+ - Practice navigating the Ecommerce reports.  
 
 ## 6.3  Multi-Channel Funnels Reports  
-
+ - Understand the difference between the basic Goal reports and the Multi-Channel Funnel reports.  
+ - Practice navigating the Multi-Channel Funnels reports.  
 
 ## 6.4 Attribution Reports  
