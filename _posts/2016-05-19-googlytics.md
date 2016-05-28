@@ -322,6 +322,6 @@ As a best practice, you should only add a Goal value for nonecommerce Goals. The
  - Recognize how to use the Behavior reports to find optimization opportunities.  
 
 
-
 ## 5.5 Custom Reports and Dashboards  
-
+ - Practice building custom reports that include exactly the dimensions and metrics you need to tie your reports back to your measurement plan.  
+ - Practice creating custom dashboards to save time and improve your workflow.  
