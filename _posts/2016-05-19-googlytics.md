@@ -338,4 +338,24 @@ As a best practice, you should only add a Goal value for nonecommerce Goals. The
  - Understand the difference between the basic Goal reports and the Multi-Channel Funnel reports.  
  - Practice navigating the Multi-Channel Funnels reports.  
 
+The Multi-Channel Funnels reports are generated from conversion paths, which contain the sequences of visits that lead up to each conversion and transaction. By default, only interactions within the last 30 days are included in conversion paths, but you can adjust this time period from 1 to 90 days using the “Lookback Window” selector at the top of each Multi-Channel Funnels report.  
+
+The Assisted Conversions report summarizes the roles and contributions of your channels.  
+
+The Assist metrics summarize the number and monetary value of sales and conversions that a channel assisted.  
+The Last Click metrics show conversions and revenue that the channel closed or completed.  
+The First Click metrics show the number and value of sales and conversions a channel initiated.  
+In the Assisted Conversions report, you’ll see a ratio of assisted conversions to last click or direct conversions for each channel. This ratio summarizes a channel’s overall role in the conversion process.  
+
+A value close to 0 indicates that a channel completed more sales and conversions than it assisted or initiated.  
+A value close to 1 indicates that the channel equally assisted and completed sales and conversions.  
+The more this value exceeds 1, the more the channel assisted sales and conversions.  
+The Top Conversion Paths report shows all of the unique sequences of channel interactions that led to conversions, as well as the number of conversions from each path, and the value of those conversions. The Time Lag report shows how many days pass between the first interaction and last interaction for your users’ conversion paths. This can give you insight into the length of your online sales cycle.  
+
+The Path Length report breaks out your conversions by the number of channel interactions contained in your users’ conversion paths. This can tell you how many times a user typically returns to your site before converting.  
+
 ## 6.4 Attribution Reports  
+ - Understand common attribution models.  
+ - Become familiar with the Attribution Model Comparison Tool.  
+
+The Attribution reports allow you to compare different attribution models to understand the return on your advertising investment. Over time, this enables better budget allocation across your marketing channels. An attribution model is a rule, or set of rules, that determines how credit for sales and conversions is assigned to a channel within a conversion path. The attribution model that Analytics uses in most reports, is the “lastclick” attribution model, but there are many other types of models available in Analytics through the Model Comparison tool.  
