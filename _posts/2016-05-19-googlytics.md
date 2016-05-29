@@ -46,41 +46,41 @@ Starting with Digital Analytics Fundamentals
 
 May 21st 2016 - [Lesson 1 Digital Analytics Fundamentals](https://analyticsacademy.withgoogle.com/course/1/unit/1/lesson/1)
 
- - Unit 1: Course overview
-	Lesson 1: Course overview
- - Unit 2: Getting started with digital analytics
-	Lesson 1: The importance of digital analytics
-	Lesson 2: Core analysis techniques
-	Lesson 3: Conversions and conversion attribution
-	Lesson 4: Creating a measurement plan
- - Unit 3: Understanding and using Google Analytics data
-	Lesson 1: How Google Analytics works
-	Lesson 2: Key metrics and dimensions defined
- - Unit 4: Collecting actionable data with Google Analytics
-	Lesson 1: Creating an account
-	Lesson 2: Understanding your account structure
-	Lesson 3: Setting up basic filters
-	Lesson 4: Setting up goals and ecommerce
-	Lesson 5: Collecting campaign data
- - Unit 5: Navigating Google Analytics reports
-	Lesson 1: Reporting overview
-	Lesson 2: Audience reports
-	Lesson 3: Acquisition reports
-	Lesson 4: AdWords reports
-	Lesson 5: Behavior reports
-	Lesson 6: Custom reports and dashboards
- - Unit 6: Navigating Conversions reports
-	Lesson 1: Goal Flow report
-	Lesson 2: Ecommerce reports
-	Lesson 3: Multi-Channel Funnels reports
-	Lesson 4: Attribution reports
+ - Unit 1: Course overview  
+	Lesson 1: Course overview  
+ - Unit 2: Getting started with digital analytics  
+	Lesson 1: The importance of digital analytics  
+	Lesson 2: Core analysis techniques  
+	Lesson 3: Conversions and conversion attribution  
+	Lesson 4: Creating a measurement plan  
+ - Unit 3: Understanding and using Google Analytics data  
+	Lesson 1: How Google Analytics works  
+	Lesson 2: Key metrics and dimensions defined  
+ - Unit 4: Collecting actionable data with Google Analytics  
+	Lesson 1: Creating an account  
+	Lesson 2: Understanding your account structure  
+	Lesson 3: Setting up basic filters  
+	Lesson 4: Setting up goals and ecommerce  
+	Lesson 5: Collecting campaign data  
+ - Unit 5: Navigating Google Analytics reports  
+	Lesson 1: Reporting overview  
+	Lesson 2: Audience reports  
+	Lesson 3: Acquisition reports  
+	Lesson 4: AdWords reports  
+	Lesson 5: Behavior reports  
+	Lesson 6: Custom reports and dashboards  
+ - Unit 6: Navigating Conversions reports  
+	Lesson 1: Goal Flow report  
+	Lesson 2: Ecommerce reports  
+	Lesson 3: Multi-Channel Funnels reports  
+	Lesson 4: Attribution reports  
 
-## 1. Course Overview:
+#### 1. Course Overview:
 The course should take between 4 and 6 hours including the tests and final assessment for which 80% of higher is required to get a certificate should that concern you. I personally don't worry about the certificate as I am here for the knowledge and to ultimately apply that to earn certification.  
 
 ---  
 
-## 2 Getting started with digital analytics  
+#### 2 Getting started with digital analytics  
 ### 2.1 **The importance of digital analytics**    
  - Understand what "digital measurement" means.  
  "Digital analytics is the analysis of qualitative and quantitative data from your business and the competition to drive a continual improvement of the online experience that your customers and potential customers have which translates to your desired outcomes (both online and offline)".  
@@ -176,7 +176,7 @@ The final step is to maintain and refine the plan.
 
 ---  
 
-## 3 Understanding and Using Google Analytics data   
+#### 3 Understanding and Using Google Analytics data   
 
 ### 3.1 How Google Analytics works
  - There are four main components to the Analytics system: data collection, configuration, data processing and reporting.  
@@ -205,7 +205,7 @@ And see this link to understand how to customise session and campaign timeout le
 
 ---  
 
-## 4 Collectiong actionable data with Google Analytics     
+#### 4 Collectiong actionable data with Google Analytics     
 
 ### 4.1 Creating an account  
  - Practice the steps to create a Google Analytics account
@@ -251,7 +251,7 @@ For example, you can use a filter to exclude traffic from your internal employee
 
 You can also use a filter to clean up your data. For example, sometimes a website will show the same page regardless of the case of the URL uppercase, lowercase or mixed case. Since Analytics treats data as case sensitive, this can result in the same page showing up multiple times, based on case, in your reports. To prevent this separation and see the page data in aggregate, you can set up a lowercase filter to force all of the URLs to a single case.  
 
-#### Create an IP address filter
+### Create an IP address filter
  - To prevent internal traffic from affecting your data, you can use a filter to filter out traffic by IP address.  
  - You can find the public IP address you are currently using by searching "what is my ip address" on google.com. You can find out what IP addresses and subnets your company uses by asking your network administrator.  
 To create an IP address filter:  
@@ -293,7 +293,7 @@ As a best practice, you should only add a Goal value for nonecommerce Goals. The
 
 ---  
 
-## 5 Navigating Google Analytics Reports  
+#### 5 Navigating Google Analytics Reports  
 
 ### 5.1 Reporting Overview  
  - Become familiar with the standard report layout and report organization.  
@@ -326,7 +326,7 @@ As a best practice, you should only add a Goal value for nonecommerce Goals. The
  - Practice building custom reports that include exactly the dimensions and metrics you need to tie your reports back to your measurement plan.  
  - Practice creating custom dashboards to save time and improve your workflow.  
 
-### 6 Navigating Conversion Reports  
+#### 6 Navigating Conversion Reports  
 
 ## 6.1 Goal Flow Report  
  - Practice navigating the Goal Flow report.  
