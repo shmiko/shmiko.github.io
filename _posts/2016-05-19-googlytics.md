@@ -359,3 +359,7 @@ The Path Length report breaks out your conversions by the number of channel inte
  - Become familiar with the Attribution Model Comparison Tool.  
 
 The Attribution reports allow you to compare different attribution models to understand the return on your advertising investment. Over time, this enables better budget allocation across your marketing channels. An attribution model is a rule, or set of rules, that determines how credit for sales and conversions is assigned to a channel within a conversion path. The attribution model that Analytics uses in most reports, is the “lastclick” attribution model, but there are many other types of models available in Analytics through the Model Comparison tool.  
+
+---  
+
+
