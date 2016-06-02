@@ -226,9 +226,6 @@ We should not be surprised, and the fact that we are says more about us than it 
 
 Re Published from the original at [Hawking is Famous for?](http://www.bbc.com/earth/story/20160107-these-are-the-discoveries-that-made-stephen-hawking-famous)  
 
-
-
-
-
+---  
 
 
