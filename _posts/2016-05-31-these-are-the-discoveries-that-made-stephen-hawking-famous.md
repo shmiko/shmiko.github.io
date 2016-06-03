@@ -197,7 +197,9 @@ He is bold and brilliant, but not always rigorous enough to fully persuade, and 
 The melange of general relativity, quantum theory, thermodynamics and information theory in Hawking's work on black holes is innovative and remarkable.  
 Nothing else he has done has equalled it.  
 
-*"The very concept of an "origin" in time vanishes into the quantum foam"*  
+
+*"The very concept of an "origin" in time vanishes into the quantum foam"*   
+
 
 In the 1980s he tried to describe the Big Bang in quantum mechanical terms. Working with James Hartle, he [developed a simple quantum equation that supposedly describes the entire universe](http://dx.doi.org/10.1103/PhysRevD.28.2960	) in its early stages.  
 But it does so in such general terms that, for many physicists, it doesn't say anything very meaningful.  
