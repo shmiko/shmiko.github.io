@@ -16,7 +16,7 @@ Is a complete rewrite the correct approach or it is better to slowly transition 
 
 We need to be mindful of minimising risk and enabling migration whilst maintaining application written in Angular 1.  
 
-First up you will need to prepare code following a style guide - see John Pappa's Angular Style Guide here. []()  
+First up you will need to prepare code following a style guide - see John Pappa's Angular Style Guide here. [Angular 2 Style Guide](https://github.com/johnpapa/angular-styleguide/blob/master/a2/README.md)  
 
 Next you will need to understand and be prepared for Typescript and ES6, and whilst this is not mandatory it is highly recommended as they will add significant benfit to the ongoing success of next generation Angular apps.  
 
