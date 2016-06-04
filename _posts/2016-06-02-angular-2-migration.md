@@ -22,4 +22,6 @@ Next you will need to understand and be prepared for Typescript and ES6, and whi
 
 Finally understanding how to incorperate Angular 2 to current Angular 1 codebase will enable a staged migration path, knowing what to migrate and knowing how to migrate services and components.  
 
+Visual Representation of Angular 1 mapping to Angular 2  
 
+![Migration](/img/angulation.png "Angular 1 to Angular 2") 
