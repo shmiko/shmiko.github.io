@@ -28,7 +28,7 @@ Visual Representation of Angular 1 mapping to Angular 2
 
 Some preliminary steps to consider would be:  
 
-From Jose Eames' Pluralsight Course [Preparing for and Migrating Applications to Angular 2](https://app.pluralsight.com/library/courses/migrating-applications-angular-2/table-of-contents)
+From Joe Eames' Pluralsight Course [Preparing for and Migrating Applications to Angular 2](https://app.pluralsight.com/library/courses/migrating-applications-angular-2/table-of-contents)
 
   1. Follow the style guide  
   2. Update app to latest Angular 1 version  
