@@ -10,7 +10,7 @@ tags: [ 'angularjs','migration']
 #### AngularJS Migration to version 2.0 
 
 Angular 2 is amost here, well it is here in theory but not quite production ready.  
-Despite this it is near enough to production ready that we need to start seriousley considering the migration path for Angular 1 based Applications.  
+Despite that it is near enough to having a production status, we need to start considering the migration path for Angular 1 based Applications.  
 
 Is a complete rewrite the correct approach or it is better to slowly transition to Angular 2?
 
