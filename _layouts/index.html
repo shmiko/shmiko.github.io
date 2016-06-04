@@ -25,17 +25,18 @@
           {% elsif page.section-type == "latrchive" %}
 
               {% include latrchive.html %}
+           {% elsif page.section-type == "lcategories" %}
+
+            {% include lcategories.html %}
+            {% elsif page.section-type == "lctags" %}
+
+            {% include lctags.html %}
           {% elsif page.section-type == "timeline" %}
             {% include timeline.html %}
           {% elsif page.section-type == "projects-p" %}
 
             {% include projects-p.html %}
-            {% elsif page.section-type == "categories-p" %}
-
-            {% include categories-p.html %}
-            {% elsif page.section-type == "tags-p" %}
-
-            {% include tags-p.html %}
+            
           {% elsif page.section-type == "zontact" %}
               {% include zontact.html %}
             {% endif %}
