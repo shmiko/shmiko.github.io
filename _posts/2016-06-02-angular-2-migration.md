@@ -31,7 +31,7 @@ Some preliminary steps to consider would be:
 From Joe Eames' Pluralsight Course [Preparing for and Migrating Applications to Angular 2](https://app.pluralsight.com/library/courses/migrating-applications-angular-2/table-of-contents)
 
   1. Follow the style guide  
-  2. Update app to latest Angular 1 version  
+  2. Update app to latest Angular 1 version - as of this post the latest version is 1.5.6
   3. New development using components  
   4. Switch controllers to components  
   5. Remove incompatible features from directives  
@@ -41,3 +41,5 @@ From Joe Eames' Pluralsight Course [Preparing for and Migrating Applications to 
   9. Start using ES6  
   10. Switch controllers to ES6 classes  
   11. Switch services to ES6 classes  
+
+
