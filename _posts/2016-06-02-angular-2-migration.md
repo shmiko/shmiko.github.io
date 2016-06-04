@@ -25,3 +25,18 @@ Finally understanding how to incorperate Angular 2 to current Angular 1 codebase
 Visual Representation of Angular 1 mapping to Angular 2  
 
 ![Migration](/img/angulation.png "Angular 1 to Angular 2") 
+
+Some preliminary steps to consider would be: 
+From Jose Eames' Pluralsight Course [Preparing for and Migrating Applications to Angular 2](https://app.pluralsight.com/library/courses/migrating-applications-angular-2/table-of-contents)
+
+  1. Follow the style guide  
+  2. Update app to latest Angular 1 version  
+  3. New development using components  
+  4. Switch controllers to components  
+  5. Remove incompatible features from directives  
+  6. Switch component directives to components  
+  7. Implement manual bootstrapping  
+  8. Add Typescript  
+  9. Start using ES6  
+  10. Switch controllers to ES6 classes  
+  11. Switch services to ES6 classes  
