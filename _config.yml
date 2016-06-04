@@ -163,10 +163,10 @@ pages_list:
   About: 'about'
   Blog: 'latest-post'
   Archive: 'latrchive'
+  Categories: 'lcategories'
+  Tags: 'lctags'
   Projects: 'projects'
   Timeline: 'timeline'
-  Categories: 'categories'
-  Tags: 'tags'
   Contact: 'zontact'
 
 # Exclusion list from the generated _site
