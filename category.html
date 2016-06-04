@@ -4,128 +4,68 @@ section-type: Category-p
 title:    Category
 ---
 
-<html lang="{{ site.lang }}">
-
-  <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
-
-    <section id="{{ page.title }}" class="container content-section text-center" style="
-    padding-top: 0px;">
-      <div class="row" id='projects' style="padding-top: 100px;">
-        <div class="col-lg-8 col-lg-offset-2">
-
-          <h1><strong>Projects</strong></h1>
-          </div>
-
-
-
-{% comment%}
-Here we generate all the categories.
-{% endcomment%}
-
-{% assign rawcats = "" %}
-{% for post in site.posts %}
-{% assign tcats = post.categories | join:'|' | append:'|' %}
-{% assign rawcats = rawcats | append:tcats %}
-{% endfor %}
-
-{% assign rawcats = rawcats | split:'|' | sort %}
-
-{% assign cats = "" %}
-
-{% for cat in rawcats %}
-{% if cat != "" %}
-
-{% if cats == "" %}
-{% assign cats = cat | split:'|' %}
-{% endif %}
-
-{% unless cats contains cat %}
-{% assign cats = cats | join:'|' | append:'|' | append:cat | split:'|' %}
-{% endunless %}
-{% endif %}
-{% endfor %}
+<!-- Categories Layout Start -->
 
 
 <html lang="{{ site.lang }}">
-  {% include head.html %}
   <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
-
     <section id="{{ page.title }}" class="container content-section text-center" style="
     padding-top: 0px;">
-      <div class="row" id='projects' style="padding-top: 100px;">
+      <div class="row" id='categoriess' style="padding-top: 100px;">
         <div class="col-lg-8 col-lg-offset-2">
-
-          <h1><strong>Categories!</strong></h1>
-          </div>
-
-
-<h1 class="page-title">
-  <a href="/blog">Blog</a> | {{ page.title }}
-</h1>
-<br/>
-
-<div class="posts">
-<p>
-{% for ct in cats %}
-<a href="#{{ ct | slugify }}" class="category-mark" style="color:#999;text-decoration: none;"> {{ ct }} </a> &nbsp;&nbsp;
-{% endfor %}
-<a href="#no-category" class="category-mark" style="color:#999;text-decoration: none;"> No Category </a> &nbsp;&nbsp;
-</p>
-
-{% for ct in cats %}
-<h2 id="{{ ct | slugify }}">{{ ct }}</h2>
-<ul class="category-list">
-  {% for post in site.posts %}
-  {% if post.categories contains ct %}
-  <li>
-    <h3>
-      <a href="{{ post.url }}">
-        {{ post.title }}
-        <h4>{{ post.date | date_to_string }}</h4>
-      </a>
-      {% for tag in post.tags %}
-      <a class="tag-mark" href="/blog/tag/#{{ tag | slugify }}">{{ tag }}</a>
-      {% endfor %}
-    </h3>
-  </li>
-  {% endif %}
-  {% endfor %}
-</ul>
-{% endfor %}
-
-<h2 id="no-category">No Category</h2>
-<ul class="category-list">
-  {% for post in site.posts %}
-  {% unless post.categories %}
-  <li>
-    <h3>
-      <a href="{{ post.url }}">
-        {{ post.title }}
-        <h4>{{ post.date | date_to_string }}</h4>
-      </a>
-      {% for tag in post.tags %}
-      <a class="tag-mark" href="/blog/tag/#{{ tag | slugify }}">{{ tag }}</a>
-      {% endfor %}
-    </h3>
-  </li>
-  {% endunless %}
-  {% endfor %}
-</ul>
-{% include social-buttons.html %}
-</div>
-
-
-
-<br>
-<br>
-<br>
-
-
-
+          <h1><strong>Categories</strong></h1>
+        </div>
+        <div class="posts">
+          <p>
+            {% for ct in cats %}
+              <a href="#{{ ct | slugify }}" class="category-mark" style="color:#999;text-decoration: none;"> {{ ct }} </a> &nbsp;&nbsp;
+            {% endfor %}
+            <a href="#no-category" class="category-mark" style="color:#999;text-decoration: none;"> No Category </a> &nbsp;&nbsp;
+          </p>
+          {% for ct in cats %}
+          <h2 id="{{ ct | slugify }}">{{ ct }}</h2>
+          <ul class="category-list">
+            {% for post in site.posts %}
+            {% if post.categories contains ct %}
+            <li>
+              <h3>
+                <a href="{{ post.url }}">
+                  {{ post.title }}
+                  <h4>{{ post.date | date_to_string }}</h4>
+                </a>
+                {% for tag in post.tags %}
+                <a class="tag-mark" href="/blog/tag/#{{ tag | slugify }}">{{ tag }}</a>
+                {% endfor %}
+              </h3>
+            </li>
+            {% endif %}
+            {% endfor %}
+          </ul>
+          {% endfor %}
+          <h2 id="no-category">No Category</h2>
+          <ul class="category-list">
+            {% for post in site.posts %}
+            {% unless post.categories %}
+            <li>
+              <h3>
+                <a href="{{ post.url }}">
+                  {{ post.title }}
+                  <h4>{{ post.date | date_to_string }}</h4>
+                </a>
+                {% for tag in post.tags %}
+                <a class="tag-mark" href="/blog/tag/#{{ tag | slugify }}">{{ tag }}</a>
+                {% endfor %}
+              </h3>
+            </li>
+            {% endunless %}
+            {% endfor %}
+          </ul>
+          {% include social-buttons.html %}
+        </div>
+        <br>
+        <br>
+        <br>
       </div>
     </section>
-    {% include footer.html %}
-
-    {% include js.html %}
   </body>
 </html>

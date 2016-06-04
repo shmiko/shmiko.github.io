@@ -165,6 +165,7 @@ pages_list:
   Archive: 'latrchive'
   Projects: 'projects'
   Timeline: 'timeline'
+  # Categories: 'categories'
   Contact: 'zontact'
 
 # Exclusion list from the generated _site
