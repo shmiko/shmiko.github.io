@@ -32,7 +32,7 @@ From Joe Eames' Pluralsight Course [Preparing for and Migrating Applications to 
 
   1. Follow the style guide  
   2. Update app to latest Angular 1 version - as of this post the latest version is 1.5.6  
-  3. New development using components -  As of 1.5 new component functionality is available, shims are available shold you be running older versions but wish to use components.   
+  3. New development using components -  As of 1.5 new component functionality is available, shims are available should you be running older versions but wish to use components.   
   4. Switch controllers to components  
   5. Remove incompatible features from directives  
   6. Switch component directives to components  
