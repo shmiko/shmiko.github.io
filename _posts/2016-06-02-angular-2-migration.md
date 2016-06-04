@@ -24,7 +24,7 @@ Finally understanding how to incorperate Angular 2 to current Angular 1 codebase
 
 Visual Representation of Angular 1 mapping to Angular 2  
 
-![Migration](/img/angulation.png "Angular 1 to Angular 2") 
+![Migration](/img/angularmigration.png "Angular 1 to Angular 2") 
 
 Some preliminary steps to consider would be:  
 
