@@ -166,6 +166,7 @@ pages_list:
   Projects: 'projects'
   Timeline: 'timeline'
   Categories: 'categories'
+  Tags: 'tags'
   Contact: 'zontact'
 
 # Exclusion list from the generated _site
