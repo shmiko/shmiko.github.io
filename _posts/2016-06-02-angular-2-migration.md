@@ -37,7 +37,7 @@ From Joe Eames' Pluralsight Course [Preparing for and Migrating Applications to 
   5. Remove incompatible features from directives  
   6. Switch component directives to components  
   7. Implement manual bootstrapping  
-  8. Add Typescript  
+  8. Add Typescript and a build
   9. Start using ES6  
   10. Switch controllers to ES6 classes  
   11. Switch services to ES6 classes  
