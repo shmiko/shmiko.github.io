@@ -34,7 +34,8 @@ Here we generate all the tags.
 
 <div class="posts">
 <p>
-<li>
+
+<li style="display: inline;">        
 {% for tag in tags %}
 <h4><a href="#{{ tag | slugify }}" class="tag-mark"> {{ tag }} </a> &nbsp;&nbsp;</h4>
 {% endfor %}
