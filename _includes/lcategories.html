@@ -32,11 +32,11 @@ Here we generate all the tags.
 {% endfor %}
 			<h3>Categories</h3>
 
-        <li style="display: inline;">
+        <div style="display: inline;">
 				{% for category in categories %}
               <h4><a href="#{{ category | slugify }}" class="category-mark" style="color:#999;text-decoration: none;"> {{ category }} </a> &nbsp;&nbsp;</h4>
             {% endfor %}
-            </li>
+            </div>
            {% for category in categories %}
           <h2 id="{{ category | slugify }}">{{ category }}</h2>
           <ul class="category-list">
