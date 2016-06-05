@@ -32,12 +32,13 @@ Here we generate all the tags.
 {% endfor %}
 			<h3>Tags</h3>
 
-<div class="posts">
+<!-- <div class="posts"> -->
 
 	<div style="display: inline;">
 		     
 		{% for tag in tags %}
-			<h5><a href="#{{ tag | slugify }}" class="tag-mark" style="color:#999;text-decoration: none;"> {{ tag }} </a> &nbsp;&nbsp;</h5>
+			<!-- <h5><a href="#{{ tag | slugify }}" class="tag-mark" style="color:#999;text-decoration: none;"> {{ tag }} </a> &nbsp;&nbsp;</h5> -->
+			<h5><a href="{{site.baseurl}}/tags/{{tag}}.html" class="tag-mark" style="color:#999;text-decoration: none;">{{ tag }}</a>&nbsp;&nbsp;</h5>
 		{% endfor %}
 
 	</div>
@@ -62,6 +63,6 @@ Here we generate all the tags.
 	</ul>
 	{% endfor %}
 
-</div>
+<!-- </div> -->
 
 <!-- Lctags End -->
