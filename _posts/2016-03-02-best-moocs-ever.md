@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: Best MOOC Courses Ever!
 categories: ['learning']
-tags: [ 'self learning','courses']
+tags: [ 'self_learning','courses']
 ---
 
 

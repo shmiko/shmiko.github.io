@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: Hotel Distribution Metrics
 categories: ['tourism']
-tags: [ 'tourism','hotel distribution']
+tags: [ 'tourism','hotel_distribution']
 ---
 
 

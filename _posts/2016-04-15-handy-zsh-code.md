@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: Handly Little ZShell Time Savers
 categories: ['zshell']
-tags: [ 'zshell','time savers']
+tags: [ 'zshell','time_savers']
 ---
 
 

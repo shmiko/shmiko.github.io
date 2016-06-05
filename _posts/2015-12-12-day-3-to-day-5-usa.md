@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: USA Day 3 to Day 5
 categories: ['travel']
-tags: [ 'USA 2016 diary' ]
+tags: [ 'USA_2016_diary' ]
 ---
 
 ## Follow on from 12th:  

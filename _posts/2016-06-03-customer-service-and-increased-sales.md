@@ -2,8 +2,8 @@
 layout: post
 section-type: post
 title: Customer Service to Increased Sales
-categories: ['customer service']
-tags: [ 'customer service','sales']
+categories: ['customer_service']
+tags: [ 'customer_service','sales']
 ---
 
 

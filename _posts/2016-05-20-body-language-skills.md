@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: Body Language – You must Learn these skills
 categories: ['people']
-tags: [ 'lie detector']
+tags: [ 'lie_detector']
 ---
 
 

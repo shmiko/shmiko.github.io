@@ -2,8 +2,8 @@
 layout: post
 section-type: post
 title: Ruby Install Gem Behind Proxy
-categories: ['ruby on rails']
-tags: [ 'ruby on rails']
+categories: ['ruby_on_rails']
+tags: [ 'ruby_on_rails']
 ---
 
 
