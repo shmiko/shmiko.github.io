@@ -33,8 +33,9 @@ Here we generate all the tags.
 			<h3>Categories</h3>
 
         <div style="display: inline;">
-				{% for category in categories %}
-              <h5><a href="#{{ category | slugify }}" class="category-mark" style="color:#999;text-decoration: none;"> {{ category }} </a> &nbsp;&nbsp;</h5>
+				    {% for category in categories %}
+              <!-- <h5><a href="#{{ category | slugify }}" class="category-mark" style="color:#999;text-decoration: none;"> {{ category }} </a> &nbsp;&nbsp;</h5> -->
+              <h5><a href="{{site.baseurl}}/categories/{{category}}.html" class="category-mark" style="color:#999;text-decoration: none;">{{ category }}</a> &nbsp;&nbsp;</h5>
             {% endfor %}
             </div>
            {% for category in categories %}
