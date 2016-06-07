@@ -9,7 +9,7 @@ tags: [ 'angularjs','wikipedia']
 
 #### AngulatJS Performance.  
 
-Cache data whenever possible  
+Cache data whenever possible.    
 Use native JavaScript slower functions. Of use Lodash.   
 Using ng-repeat will add to poor performance but it must be weighed. Also using infinite scrolling will help with the use of track by.   
 Use $watchCollection instead of $watch (with a 3rd parameter) - this will force Angular to check first layer only.    
