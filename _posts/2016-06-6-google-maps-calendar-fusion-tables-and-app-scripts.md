@@ -21,7 +21,7 @@ The first part was to add to the event description some specific syntax that cou
 Doing this via the API was not ideal as it was quite slow due to the need for geocoding at the same time as reading via the API.  
 
 What i decided to do next was to write a Google App Script to read the data via the Calendar API and save the data to a google sheet.  
-The using fusion tables I was able to geocode much quicker, but there are quota limits which sometimes offset the benefit especially if I was to reprocess whilst testing.  
+Then using fusion tables I was able to geocode much quicker, but there are quota limits which sometimes offset the benefit especially if I was to reprocess whilst testing.  
 After the fusion table was finished processing the data I was then able to bring the data into my JS script and could use the categories created using the app script code.  
 
 Now it was simply a matter of using a specific map icon for each relevent category.
