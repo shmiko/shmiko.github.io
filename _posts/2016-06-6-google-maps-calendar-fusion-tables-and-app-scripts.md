@@ -28,7 +28,7 @@ Now it was simply a matter of using a specific map icon for each relevent catego
 
 This turned out to be a much better solution than what I originally had planned in using the event colors.  
 
-This was done nearly 2 years ago and still it is my understanding that there is no way to use event colors.  
+This was done nearly 2 years ago and still it is my understanding that there is no way to use event colors via the current API which is still version 3.    
 
 I have not seen any other calendar mapping applicatiosn to use categories so I have nothing to compare my solution with.
 
