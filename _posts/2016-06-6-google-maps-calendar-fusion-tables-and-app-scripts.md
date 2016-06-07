@@ -35,4 +35,5 @@ The solution I came up with was due to the fact that the Version 3 API did not a
  I'll post the app script I wrote to produce the fusion tables soon. Witht he JS solution you need to have an API key for fusion tables, calendar and maps.  
 
 
- The working maps to show this can be seen here [CalMapIt - Holiday Calendar Map](http://calmapit.com/calmapit.html)  
+ The working maps to show this can be seen here [CalMapIt - Holiday Calendar Map](http://calmapit.com/calmapit.html) 
+ PS - There is some really big images which I have yet to optimise so it will take a while to load. This was just a proof of concept though and not a production app.   
