@@ -30,7 +30,7 @@ This turned out to be a much better solution than what I originally had planned 
 
 This was done nearly 2 years ago and still it is my understanding that there is no way to use event colors.  
 
- I have not seen any other calendar mapping applicatiosn to use categories so I have nothing to compare my solution with.
+I have not seen any other calendar mapping applicatiosn to use categories so I have nothing to compare my solution with.
 
  I'll post the app script I wrote to produce the fusion tables soon. Witht he JS solution you need to have an API key for fusion tables, calendar and maps.  
 
