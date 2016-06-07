@@ -35,5 +35,8 @@ I have not seen any other calendar mapping applicatiosn to use categories so I h
 I'll post the app script I wrote to produce the fusion tables soon. Witht he JS solution you need to have an API key for fusion tables, calendar and maps.  
 
 
+![Calmapit](/img/projects/calmapit.html.jpg "Calmapit") 
+
 The working maps to show this can be seen here [CalMapIt - Holiday Calendar Map](http://calmapit.com/calmapit.html) 
+
 P.S. - There is some really big images which I have yet to optimise so it will take a while to load. This was just a proof of concept though and not a production app.   
