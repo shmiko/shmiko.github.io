@@ -15,5 +15,5 @@ Using ng-repeat will add to poor performance but it must be weighed. Also using 
 Use $watchCollection instead of $watch (with a 3rd parameter) - this will force Angular to check first layer only.    
 Avoid repeated filters|pipes if possible especially with one time binding. 
 Try ng-if instead of ng-show but wiegh the decision if you use specific toggles.  
-Try not to use $watchers due to dirty checking, small apps will be ok though    
+Try not to use $watchers due to dirty checking, small apps will be ok though.      
 Batarang will help you benchmark your $watchers.   
