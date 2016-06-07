@@ -9,6 +9,11 @@ tags: [ 'angularjs','wikipedia']
 
 #### AngulatJS Performance.  
 
-We will look at the $digest loop, $rootScope, $scopes, $$watchers, $scope.$watch and $digest loop to help understand how Angular Work internally and by knowing this you can help improve performance.
-
-To Be Continued.... 24th May 2016
+Cache data whenever possible  
+Use native JavaScript slower functions. Of use Lodash.   
+Using ng-repeat will add to poor performance but it must be weighed. Also using infinite scrolling will help with the use of track by.   
+Use $watchCollection instead of $watch (with a 3rd parameter) - this will force Angular to check first layer only.    
+Avoid repeated filters|pipes if possible especially with one time binding. 
+Try ng-if instead of ng-show but wiegh the decision if you use specific toggles.  
+Try not to use $watchers due to dirty checking, small apps will be ok though    
+Batarang will help you benchmark your $watchers.   
