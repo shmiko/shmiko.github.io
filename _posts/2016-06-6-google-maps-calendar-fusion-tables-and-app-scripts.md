@@ -36,4 +36,4 @@ I'll post the app script I wrote to produce the fusion tables soon. Witht he JS 
 
 
 The working maps to show this can be seen here [CalMapIt - Holiday Calendar Map](http://calmapit.com/calmapit.html) 
- PS - There is some really big images which I have yet to optimise so it will take a while to load. This was just a proof of concept though and not a production app.   
+PS - There is some really big images which I have yet to optimise so it will take a while to load. This was just a proof of concept though and not a production app.   
