@@ -24,9 +24,9 @@ What i decided to do next was to write a Google App Script to read the data via 
 The using fusion tables I was able to geocode much quicker, but there are quota limits which sometimes offset the benefit especially if I was to reprocess whilst testing.  
 After the fusion table was finished processing the data I was then able to bring the data into my JS script and could use the categories created using the app script code.  
 
- Now it was simply a matter of using a specific map icon for each relevent category.
+Now it was simply a matter of using a specific map icon for each relevent category.
 
- This turned out to be a much better solution than what I originally had planned in using the event colors.  
+This turned out to be a much better solution than what I originally had planned in using the event colors.  
 
  This was done nearly 2 years ago and still it is my understanding that there is no way to use event colors.  
 
