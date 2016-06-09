@@ -13,8 +13,10 @@ I had an issue where I was pulling in some Google Calendar events and plotting t
 
 What I wanted though was to use event categories to seperate out certain events. 
 
+
 The solution I came up with was due to the fact that the Version 3 API did not allow you to access the event colors so there was no other way to categorise events.
 So anyway what i end up doing was a 2 part solution. 
+
 
 The first part was to add to the event description some specific syntax that could be interpreted by code to add some seperation and apply a category when reading the data.
 
