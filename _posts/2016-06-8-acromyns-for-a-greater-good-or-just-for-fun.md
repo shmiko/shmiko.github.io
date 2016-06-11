@@ -40,4 +40,4 @@ K.I.S.S - Keep it Simple Stupid
 
 I am always making up creative new acronyms for a bit of fun but there is a serious side to using acronyms.
 
-I'd love to know your favorite acronyms whether they be for fun or for a greater good.
+I'd love to know your favorite acronyms whether they be for fun or for a greater good.  
