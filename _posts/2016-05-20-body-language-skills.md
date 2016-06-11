@@ -44,5 +44,5 @@ I cannot speak highly enough of Vanessa and her down to earth approach, I feel p
 
 A great sign of  a great course is when the student walks away and is talking about it to other associates, and in doing so they are actually passing on knowledge from the course in a way to emphasize the lessons learn't, well I have been doing just this and whether or not it has been a conscience thing I don't know but I have been finding opportunities to bring up many topics that I learnt recently. Speaking about them enforces what I learnt and enables me to put into practice those same lessons.  
 
-Thanks Vanessa Van Edwards - you are a truly amazing.  
+Thanks Vanessa Van Edwards - you are truly amazing.  
 
