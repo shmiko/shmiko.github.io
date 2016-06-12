@@ -2,12 +2,14 @@
 layout: post
 section-type: post
 title: Acromyns for a greater good or just for fun
-categories: ['acromyns']
-tags: [ 'acronyms','success']
+categories: ['success']
+tags: [ 'quotes','success']
 ---
 
 
-#### I am always making up creative new acronyms for a bit of fun but there is a serious side to using acronyms.  
+#### Acromyns for a greater good or just for fun
+
+I am always making up creative new acronyms for a bit of fun but there is a serious side to using acronyms.  
 
 ![Acromyns](/img/letters-691842_1280.jpg "Acromyns")
 
