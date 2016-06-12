@@ -67,4 +67,4 @@ There’s a time and place for labels. But they’re few and in between.
 
 What you do communicates the value. Who you are, not as much.  
 
-This article was originally posted on Moveelo.com - see the original post here: [RePosted from](http://moveelo.com/blog/3-reasons-to-stop-calling-yourself-an-entrepreneur-start-getting-real/)  
+This article was originally posted on Moveelo.com - see the original post here: [moveelo.com](http://moveelo.com/blog/3-reasons-to-stop-calling-yourself-an-entrepreneur-start-getting-real/)  
