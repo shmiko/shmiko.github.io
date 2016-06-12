@@ -7,7 +7,9 @@ tags: [ 'angularjs','migration']
 ---
 
 
-#### AngularJS Migration to version 2.0 
+#### AngularJS Migration to version 2.0  
+
+![Angular 2](/img/angular2.jpg)  
 
 Angular 2 is amost here, well it is here in theory but not quite production ready.  
 Despite that it is near enough to having a production status, we need to start considering the migration path for Angular 1 based Applications.  
