@@ -7,7 +7,9 @@ tags: [ 'mindfulness','MBSR']
 ---
 
 
-#### Mindfulness 8 Week MBSR Online Course 
+#### Mindfulness 8 Week MBSR Online Course  
+
+![Mindfulness](/img/mindfulness.jpg)  
 
 Mindfulness-Based-Stress-Reduction - Working towards a better me. 
 
