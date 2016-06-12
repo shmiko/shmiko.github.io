@@ -9,6 +9,8 @@ tags: [ 'analytics']
 
 #### Googlytics 
 
+![Google Analytics](/img/google-1385511_960_720.jpg)  
+
 Google Analytics - Working towards another certification. 
 
 I'm going to write up the steps I am taking to complete another 2 certifications. 
