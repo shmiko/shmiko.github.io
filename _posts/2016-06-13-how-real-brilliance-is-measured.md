@@ -8,7 +8,7 @@ tags: [ 'brilliance','success']
 
 #### How Real Brilliance Is Measured    
 
-![Brilliance](/img/20160503160757-amy-cosper.jpg "Brilliance")
+![Brilliance](/img/20160503160757-amy-cosper.jpg "Brilliance") Image Credit - Adrian Gaut
 
 > "Imagination is everything. It is the preview of life’s coming attractions.”  
 —Albert Einstein  
