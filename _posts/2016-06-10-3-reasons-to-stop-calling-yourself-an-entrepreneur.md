@@ -15,7 +15,7 @@ The label “Entrepreneur” has had it’s time. But I’m sorry to tell you th
 
 Why should you stop calling yourself an entrepreneur?  
 
-1. **Every other Joe & his dog is an entrepreneur**    
+1. Every other Joe & his dog is an entrepreneur     
 
 It’s 2013 and everyone’s an entrepreneur. The guy with a book full of ideas, Bill Gates, the guy selling hot dogs, the mom working two jobs., the 17-year-old, with no job, the drug dealer…are entrepreneurs.  
 
@@ -29,7 +29,7 @@ When you start working on a real brand, there’s no more room for dusty labels.
 
 The word entrepreneur could mean anything under the sun. And really doesn’t help you explain what you do for others.  
 
-2. **“Entrepreneur” means no earnings **   
+2. “Entrepreneur” means no earnings    
 
 You shouldn’t call yourself an entrepreneur until you’ve replaced your 9 to 5 income with your own business.  
 
@@ -43,7 +43,7 @@ What you do or did is more impressive!
 
 Get what I mean?  
 
-3. **Being an entrepreneur is now so cool!**    
+3. Being an entrepreneur is now so cool!      
 
 Probably the biggest reason to avoid the label is because being an entrepreneur is the next “director” or “actor.” Now, it’s really cool to start a business.  
 
