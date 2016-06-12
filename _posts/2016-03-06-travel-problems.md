@@ -10,6 +10,7 @@ tags: [ 'travel' ]
 
 ### ...that don't go away.  
 
+![Travel](/img/travel.jpg)
 
 - ### Problem Number 1.  
 #### Plane seat arm rests.      
