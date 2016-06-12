@@ -3,13 +3,13 @@ layout: post
 section-type: post
 title: 3 Reasons to Stop Calling Yourself an Entrepreneur & Start Getting Real
 categories: ['success']
-tags: [ 'quotes','success']
+tags: [ '“entrepreneur”','success']
 ---
 
 
 #### 3 Reasons to Stop Calling Yourself an Entrepreneur & Start Getting Real  
 
-![Quotes](/img/success.jpg "Quotes")
+![Entrepreneur](/img/entrepreneur.jpg "Entrepreneur")
 
 The label “Entrepreneur” has had it’s time. But I’m sorry to tell you that time has passed. With the growth of new media technologies popular words tend to change meaning. With the internet, that has certainly happened.  
 
