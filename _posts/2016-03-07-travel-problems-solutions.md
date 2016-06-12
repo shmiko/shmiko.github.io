@@ -10,7 +10,7 @@ tags: [ 'travel' ]
 
 ### Problems that we can fix.  
 
-
+![Travel](/img/travel.jpg)  
 
 #### Plane boarding, Departing the plane & Collecting Baggage.    
 
