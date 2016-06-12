@@ -9,7 +9,10 @@ tags: [ 'agile','teams']
 
 #### Agile Teams. 
 
+![Agile](/img/Iterative_development_model.svg.png)
+
 Building an Agile Team. 
+
 
 Getting a Team together.  
 A great acronym to remember is:  
