@@ -9,6 +9,8 @@ tags: [ 'lie_detector']
 
 #### Body Language Skills you just have to learn.  
 
+![Body Language](/img/body-language.jpg)  
+
 I recently sat through 2 courses taught by none other that the amazing Vanessa Van Edwards who is the principle behavioral investigator at [scienceofpeople.org](scienceofpeople.org). 
 
 I have since signed up for 2 more of her courses and can't wait to sit them.   
