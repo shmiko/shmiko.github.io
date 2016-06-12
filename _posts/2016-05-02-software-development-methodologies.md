@@ -11,6 +11,8 @@ The Start
 
 ## Software Developments Methodologies!  
 
+![Software Development](/img/Three_software_development_patterns_mashed_together.png)
+
 So what's all the HooHa about Software Development Methodologies, lets see what the differences are between the major methods.    
 
 
