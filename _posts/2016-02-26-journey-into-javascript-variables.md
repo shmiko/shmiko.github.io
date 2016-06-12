@@ -6,6 +6,9 @@ categories: ['programming']
 tags: [ 'javascript']
 ---
 
+# Javascript 
+
+![Javascript](/img/javascript.png)  
 
 # Journey Into Javascript
 

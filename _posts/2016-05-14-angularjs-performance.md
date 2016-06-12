@@ -9,6 +9,8 @@ tags: [ 'angularjs','wikipedia']
 
 #### AngulatJS Performance.  
 
+![AngularJS Performance](/img/angularperformance.jpg)  
+
 Cache data whenever possible.    
 Use native JavaScript slower functions. Of use Lodash.   
 Using ng-repeat will add to poor performance but it must be weighed. Also using infinite scrolling will help with the use of track by.   

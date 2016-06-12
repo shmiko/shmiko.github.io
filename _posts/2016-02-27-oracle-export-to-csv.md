@@ -7,7 +7,9 @@ tags: [ 'oracle']
 ---
 
 
-** Oracle PL/SQL Procedure to Export to CSV
+## Oracle PL/SQL Procedure to Export to CSV
+
+![Oracle](/img/OracleLogo.png)  
 
 <pre><code>
     PROCEDURE Z2_TMP_FEES_TO_CSV( p_filename in varchar2, p_in_table in varchar2 )

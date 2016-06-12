@@ -9,6 +9,8 @@ tags: [ 'tourism','hotel_distribution']
 
 ## Hotel Distribution Metrics!  
 
+![Hotel Distribution](/img/hotel-distribution.jpg) Image Credit - Dr. Stan McGahey
+
 Hotel Distribution is a demanding and highly competitive field and with the introduction of metasearch sites all the more competitive it has become.  
 There is a critical need to understand the following performance metrics in order to understand and track hotel performance.   
 

@@ -7,7 +7,9 @@ tags: [ 'ruby_on_rails']
 ---
 
 
-** How to Install Ruby Gem behind a corperate proxy sepecially when your password contains special characters  
+## How to Install Ruby Gem behind a corperate proxy sepecially when your password contains special characters  
+
+![Ruby on Rails](/img/ruby-on-rails.jpg)  
 
 <pre><code>
   gem install --http-proxy http://johnsmith:F%40o%3Ao%21B%23ar%24@corperatefirewall.com.au:8080 rails --no-ri --no-rdoc

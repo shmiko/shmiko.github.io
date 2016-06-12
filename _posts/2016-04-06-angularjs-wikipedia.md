@@ -7,7 +7,9 @@ tags: [ 'angularjs','wikipedia']
 ---
 
 
-## Adding a Wikipedia Voice Enabled Search to your AngularJS App!  
+## Adding a Wikipedia Voice Enabled Search to your AngularJS App! 
+
+![Wikipedia](/img/wikipedia.png)   
 
 What I like most about AngularJS is how modular it is. You can very easily add new functionality to your site without too much heavy lifting.
 I'm going to list the steps involved in adding a Wikipedia Search to your AngularJS App.

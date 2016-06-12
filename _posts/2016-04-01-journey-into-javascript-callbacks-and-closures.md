@@ -6,6 +6,9 @@ categories: ['programming']
 tags: [ 'javascript']
 ---
 
+# Javascript 
+
+![Javascript](/img/javascript.png)  
 
 ## Javascript Callbacks(HOF), Anonymous Function Params And Closures  
 

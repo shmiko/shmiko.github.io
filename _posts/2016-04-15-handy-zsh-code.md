@@ -9,6 +9,8 @@ tags: [ 'zshell','time_savers']
 
 ## Handy Little Terminal Time Savers!  
 
+![Shell](/img/shell.png)  
+
 When I first started to use ZSH - Zshell with iTerm on Mac I noticed that many common comands were far too repetitive.  
 I'm used to the DRY ( Don't Repeat Yourself ) principle and figured out that you can add some scripting to your  bash or shell file to automate many common tasks.  
 I use the file .zshrc to control my terminal commands, but you might be using the bash shell where things are different but still possible.   

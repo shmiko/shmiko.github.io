@@ -6,6 +6,9 @@ categories: ['programming']
 tags: [ 'javascript']
 ---
 
+# Javascript 
+
+![Javascript](/img/javascript.png)  
 
 ## Objects
 Objects store information (properties) about a given entity.  

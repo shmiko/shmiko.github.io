@@ -9,6 +9,8 @@ tags: [ 'maths']
 
 ## Mathematics Vectors and Points
 
+![Vectors and Points](/img/Vector.svg.png)  
+
 
 1. A point is a location in space represented by coordinates in space or the location.  
 Written as (x,y) in a 2D environment or as (x,y,z) in a 3D environment.      
