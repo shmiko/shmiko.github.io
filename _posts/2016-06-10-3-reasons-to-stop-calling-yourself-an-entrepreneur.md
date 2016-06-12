@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: 3 Reasons to Stop Calling Yourself an Entrepreneur & Start Getting Real
 categories: ['success']
-tags: [ '“entrepreneur”','success']
+tags: [ 'entrepreneur','success']
 ---
 
 
