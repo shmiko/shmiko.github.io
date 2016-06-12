@@ -9,6 +9,9 @@ tags: [ 'google_maps','google_calendar','google_app_script']
 
 #### How to use Google Calendar Events on Google Maps and using App Scripts to work some magic  
 
+![Google Maps](/img/google-maps.png "Google Maps")
+
+
 I had an issue where I was pulling in some Google Calendar events and plotting them to a Google Map.  
 
 What I wanted though was to use event categories to seperate out certain events. 
