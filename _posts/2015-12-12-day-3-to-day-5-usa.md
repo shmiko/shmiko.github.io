@@ -8,6 +8,9 @@ tags: [ 'USA_2016_diary' ]
 
 ## Follow on from 12th:  
 
+![USA](/img/travel.jpg)
+
+
 To Do: Death Valley – badwater salt flats, artists drive – pallette, golden canyon, Lunch at Pioneer Village, drive to Pasadena, late night looking for food, went to Hausdog. Went to vromans bookstore.
 
 In Death Valley there are some pretty amazing facts such as it being the hottest place on earth and the lowest point on earth also. Not far from where we stayed at Furnace Creek was a place called Badwater, this was named after pioneers noticed that their horses wouldn't drink the water, this being due to the saline content. There are massive salt flats which you can walk onto for miles and miles of white, this was a different kind of experience but despite there being so many warnings about not to touch and especially not to eat the salt there were families who just didn;t care that their kids were placing the salt covered hands into their mouths, seems so stupid to me and confirms that they are definitely not the smartest bunch of people.
