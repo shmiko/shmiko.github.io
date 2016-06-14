@@ -7,6 +7,8 @@ tags: [ 'USA_2016_diary']
 ---
 ## Wednesday 16th 2015  
 
+![USA](/img/travel.jpg)
+
 Today is out Alcatraz Island tour which departs at 8am.
 Alcatraz was a short boat ride of about 15 minutes max and upon arrival we were given a short introduction to the island and the various parts we were allowed to explore freely.
 This place has an amazing amount of history and perhaps the most amazing this is that as part of the Alcatraz staff is an ex convict called William Baker who served time here as prisoner #1249 in 1957, he is now 85 years old and says as part of his introduction that this is the first time he makes money by getting paid legally for selling his story as a book published last year. He was offering photos and signatures when you bought his book, which we did. He readily admits that he now forgets where he puts his teeth at night but has full recollection of his time spent at the rock.
