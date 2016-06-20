@@ -31,7 +31,8 @@ So what's all the HooHa about Software Development Methodologies, lets see what 
 * [5s](#5s)      
 * [Kaizen](#Kaizen)        
 * [Six Sigma](#Six Sigma)        
-* [KaiKaku](#Kaikaku)      
+* [KaiKaku](#Kaikaku)
+* [Misc](#Misc)      
 * [Tools](#Tools) - Trello, KanbanFlow & KanbanNote  
 
 These methodologies are taught through numerous courses, but most notable are 1.Lean Software Development Fundamantals taught by Stephen Haunts from Puralsight and also Software Project Management Specialisation taught by University of Alberta through Coursera both of which I absolutley recommend.  
@@ -430,14 +431,32 @@ eg. the introduction of new and innovative production solutions that are new to 
 
 See more at wikipedia:  [Kaikaku](https://en.wikipedia.org/wiki/Kaikaku)    
 [Top](#top)   
+<a id="Misc"></a>  
+  
+
+---
+---
+  
+  
+**Misc**  
+
+#### Miscellaneous methodologies include the following but not limited to.  
+
+Agile Unified Process - AgileUP  
+Dynamic Systems Development Method  
+Feature-Driven Development  
+Behaviour-Driven Development  
+Scrumban  
+
+
+
+[Top](#top)   
 <a id="Tools"></a>  
   
 
 ---
 ---
   
-  
-
 
 **Tools** to help:  
 
