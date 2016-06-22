@@ -442,11 +442,11 @@ See more at wikipedia:  [Kaikaku](https://en.wikipedia.org/wiki/Kaikaku)
 
 #### Miscellaneous methodologies include the following but not limited to.  
 
-Agile Unified Process - AgileUP  -    
-Dynamic Systems Development Method  -  
-Feature-Driven Development  -  
-Behaviour-Driven Development  - 
-Scrumban  - 
+Agile Unified Process - AgileUP    
+Dynamic Systems Development Method  
+Feature-Driven Development  
+Behaviour-Driven Development   
+Scrumban  
 
 
 
