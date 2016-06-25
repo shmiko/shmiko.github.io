@@ -13,12 +13,14 @@
 				{% if post.author.name %}
 					<dc:creator>{{post.author.name | xml_escape}}</dc:creator>
 				{% endif %}
-				{% for category in post.categories %}
-					<category>{{ post.category }}</category>
-				{% endfor %}
-				{% for tag in post.tags %}
-					<tag>{{ post.tag }}</tag>
-				{% endfor %}
+				{% if post.category %}
+					{% for category in post.categories %}
+						<category>{{ post.category }}</category>
+					{% endfor %}
+					{% for tag in post.tags %}
+						<tag>{{ post.tag }}</tag>
+					{% endfor %}
+				{% endif %}
 				<description>{{post.content | xml_escape}}</description>
 				<pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
 				<link>{{site.url}}{{site.baseurl}}{{post.url}}</link>
