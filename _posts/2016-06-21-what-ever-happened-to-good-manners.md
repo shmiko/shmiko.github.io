@@ -40,10 +40,10 @@ but it is so simple to be courteous and to offer little things that go along way
 How often do children fail to stand up on public transport for elderly or pregnant women, all too often. It is very disrespectful and show bad manners, 
 and worse to see that their parents make no effort to suggest otherwise.  
 I'm sure there will be a people who think why should you bother, but really it is just showing some respect, especially showing respect to your elders, 
-it is important. And it doesn't take much effort to extend that kinf of courtesy. 
+it is important. And it doesn't take much effort to extend that kind of courtesy. 
 
 How often do you see people driving in the lane beside you that just dart in front of you without a single gesture of thanks, 
-surely that is just being ignorant to common courtesy and being lazy.  
+surely that is just being rude lazy.  
 
 ### Workplace Manners and Respect  
 
