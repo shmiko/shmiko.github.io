@@ -23,7 +23,7 @@ How many times do you wish someone well or for them to have a nice day, and what
 
 What is so hard about reciprocating courtesy or politeness or to show some etiquette or to offer a polite gesture?
 
-It isn't just me, there are a few articles around that suggest others too have recognised that manners are no longer a concern.  
+It isn't just me, there are a few articles around that suggest others have also recognised that manners are no longer a concern.  
 See this article written by Sarah Stealey Reed... [Emily Post is pissed enough with the bad manners](https://relate.zendesk.com/articles/emily-post-enough-with-the-bad-manners/).
 
 I wonder how can kids will learn good manners when those who should be leading by example fail to show good manners?
@@ -66,7 +66,7 @@ Here are some more thoughts about workplace etiquette..written by Maureen Mackey
 
 ### Have you wondered about online etiquette?
 
-There are many articles about which suggest the do's and don'ts..like this one for example written by the Jomer Gregorio at [cjgdigitalmarketing](http://cjgdigitalmarketing.com/top-8-social-media-etiquette-for-business-infographic/) or this one written by Outbound Engine [Social Media Etiquette for Business: 25 Do's & Don'ts](http://www.outboundengine.com/blog/social-media-etiquette-for-business-25-dos-donts/).  
+There are many articles about which suggest the do's and don'ts. Like this one for example written by the Jomer Gregorio at [cjgdigitalmarketing](http://cjgdigitalmarketing.com/top-8-social-media-etiquette-for-business-infographic/) or this one written by Outbound Engine [Social Media Etiquette for Business: 25 Do's & Don'ts](http://www.outboundengine.com/blog/social-media-etiquette-for-business-25-dos-donts/).  
 
 Have you offered an endorsement on linkedin for a known and warranted skill? Yet did you get the favor returned, I suspect not.  
 Really, people should realise that LinkedIn is all about networking and people rely on having those positive reinforcements made though respected peers. Networking is about increasing business, or reaching out for new opportunities and simply ignoring justified acknowledgments of capabilities or skills is potentially harmful to others. 
