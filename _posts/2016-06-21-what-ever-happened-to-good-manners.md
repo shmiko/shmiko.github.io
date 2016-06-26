@@ -57,9 +57,9 @@ instead you run the very real risk that they will soon be looking for a job else
 Would it be too much to ask that company executives look people in the eye and just acknowledge them, instead they shun them like they are a 2nd class 
 citizen. At that executive level, if you don't have the people skills to interact on all levels then why are you in that role??? It is just rude and impolite. 
 
-Ever thought that it might be appropriate to offer some positive reinforcement about a colleagues job or task that they are doing well? 
+Have you ever thought that it might be appropriate to offer some positive reinforcement about a colleagues job or task that they are doing well? 
 It doesn't take much and you can be absolutely sure it will make them feel good. 
-It doesn't take much to lead by example even if you are not in a leadership role, 
+Furthermore it doesn't take much to lead by example even if you are not in a leadership role, 
 and don't stop doing it if you already do, and additionally don't get disheartened because no-one reciprocates the favor or show you the same level of respect.
 Think about showing the lame level of respect next time someone takes the time to compliment you or offer some encouragement, wait for the opportunity to respond accordingly. 
 You will feel better for doing so.
@@ -67,7 +67,7 @@ You will feel better for doing so.
 If you have a bad day and end up having a dummy spit or saying something wrong to someone, or if you know you have been rude or were disrespectful then dig deep and apologise. 
 No one should ever respond negatively to a sincere apology if it is said with sincerity and confidence. 
 
-If you think it is ok to just ignore emails from colleagues requesting information then you are wrong, always respond within a couple of days, any longer is showing a non caring attitude and is certainly not conducive to a good working environment. You are potentially impacting on their ability to do their job properly and it leads to everyone using the blame game to explain and justify why things don't get done. Be in control and organise yourself properly so as you can answer all non junk emails.  
+When you think it is ok to just ignore emails from colleagues requesting information then you are wrong, always respond within a couple of days, any longer is showing a non caring attitude and is certainly not conducive to a good working environment. You are potentially impacting on their ability to do their job properly and it leads to everyone using the blame game to explain and justify why things don't get done. Be in control and organise yourself properly so as you can answer all non junk emails.  
 Even if it is a quick acknowledgement that you will respond at a later time, but if you do say that then make sure you follow up, it is just good manners to do so and shows respect for others.  
 
 Many people are looking for work, and having spent a lot of time refining their CV they apply in response to an advertised position. 
