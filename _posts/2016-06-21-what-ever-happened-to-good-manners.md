@@ -106,7 +106,7 @@ I know I am far from perfect but I know with absolute confidence that I have goo
 Having lived in Japan, a lot of these traits are instilled into you through the Japanese culture. 
 This is evident in how there society acts as a whole, and how they respond to the customers need as well as how younger generations have the utmost respect to senior people. 
 I have noticed similar instances of courtesy and respect throughout the US, although unfortunately this has been in steady decline over the last 15 years. 
-This is a real shame as I have always considered that the US lead by example and I have on many occasions let my children learn by their society.
+This is a real shame as I have always considered the US leaders, I have on many occasions let my children learn from their society and how respectful and courteous people are.
 
 I'd like to see what people have to say, but remember, be respectful when leaving comments. 
 You can still tell it how is and how you see it, but still offer constructive input without having to resort to being rude and showing bad manners.
