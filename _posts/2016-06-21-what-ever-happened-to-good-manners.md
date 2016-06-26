@@ -41,7 +41,7 @@ I know there will be a lot of people who think why should you bother, but really
 
 How often do you see people driving in the lane beside you that just dart in front of you without a single gesture of thanks, is it because they are afraid of causing road rage and getting shot, surely that is just being ignorant to common courtesy and being lazy.  
 
-## Workplace Manners and Respect  
+### Workplace Manners and Respect  
 
 In the workplace so many things could be done to improve how people perform and yet the simplest of things just get completely forgotten?  
 Have you had a 10th anniversary at work? You would think it warrants a thank you or a note or some kind of mention wouldn't you. To have that milestone ignored is the height of rudeness and disrespect and will do nothing to help your staff feel like it was worthwhile for them to stay supporting the company for so long, it will instill a feeling of regret.  
@@ -62,9 +62,9 @@ As for etiquette in the workplace and not wanting to repeat what has been said i
 
 Just be nice, have some manners and show some courtesy and a little respect for you co-workers, who knows it might just catch on?
 
-Here are some more thoughts about workplace etiquette..written by Maureen Mackey [5 Outrageous Workplace Etiquette Mistakes](http://www.thefiscaltimes.com/Articles/2014/08/11/5-Outrageous-Workplace-Etiquette-Mistakes)
+Here are some more thoughts about workplace etiquette..written by Maureen Mackey. [5 Outrageous Workplace Etiquette Mistakes](http://www.thefiscaltimes.com/Articles/2014/08/11/5-Outrageous-Workplace-Etiquette-Mistakes)
 
-## Have you wondered about online etiquette?
+### Have you wondered about online etiquette?
 
 There are many articles about which suggest the do's and don'ts..like this one for example written by the Jomer Gregorio at [cjgdigitalmarketing](http://cjgdigitalmarketing.com/top-8-social-media-etiquette-for-business-infographic/) or this one written by Outbound Engine [Social Media Etiquette for Business: 25 Do's & Don'ts](http://www.outboundengine.com/blog/social-media-etiquette-for-business-25-dos-donts/).  
 
