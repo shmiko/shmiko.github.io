@@ -29,28 +29,43 @@ See this article written by Sarah Stealey Reed... [Emily Post is pissed enough w
 I wonder how can kids will learn good manners when those who should be leading by example fail to show good manners?
 
 You have probably opened the door for someone recently and had them not even thank you? 
-Or perhaps the person in front walks through the door and doesn't bother to hold the door open for you. That is just rude.  
+Or perhaps the person in front of you walks through the door and doesn't bother to hold the door open for you. That is simply bad manners.  
 
-When was the last time you offered to help someone in need, perhaps someone has dropped something, did you pick it up or help them?  
+When was the last time you offered to help someone in need, perhaps someone has dropped something, did you pick it up or offer help them?  
 When did you last help someone who was looking at a map obviously lost?  
 Even if you don't speak their language offering to help is better than just leaving them to struggle. 
-No it isn't the rule that you should help those less fortunate that us or to offer some assistance to someone who obviously needs it, but it is so simple to be courteous and to offer little things that go along way to improve humanity through kindness and politeness.  
+No it isn't the rule that you should help those less fortunate that us or to offer some assistance to someone who obviously needs it, 
+but it is so simple to be courteous and to offer little things that go along way to improve humanity through kindness and politeness.  
 
-How often do children fail to stand up on public transport for elderly or pregnant women, not very often, it is very disrespectful and rude, and worse to see that their parent make no effort to suggest otherwise.  
-I know there will be a lot of people who think why should you bother, but really it is just showing some respect, especially showing respect to your elders, it is important that you show that respect.  
+How often do children fail to stand up on public transport for elderly or pregnant women, all too often. It is very disrespectful and show bad manners, 
+and worse to see that their parents make no effort to suggest otherwise.  
+I'm sure there will be a people who think why should you bother, but really it is just showing some respect, especially showing respect to your elders, 
+it is important. And it doesn't take much effort to extend that kinf of courtesy. 
 
-How often do you see people driving in the lane beside you that just dart in front of you without a single gesture of thanks, is it because they are afraid of causing road rage and getting shot, surely that is just being ignorant to common courtesy and being lazy.  
+How often do you see people driving in the lane beside you that just dart in front of you without a single gesture of thanks, 
+surely that is just being ignorant to common courtesy and being lazy.  
 
 ### Workplace Manners and Respect  
 
 In the workplace so many things could be done to improve how people perform and yet the simplest of things just get completely forgotten?  
-Have you had a 10th anniversary at work? You would think it warrants a thank you or a note or some kind of mention wouldn't you. To have that milestone ignored is the height of rudeness and disrespect and will do nothing to help your staff feel like it was worthwhile for them to stay supporting the company for so long, it will instill a feeling of regret.  
-It certainly would go to along way improve employee relations by acknowledging such an achievement and make people feel proud of themselves, instead you run the very real risk that they will soon be looking for a job elsewhere.  
+Have you had a 10th anniversary at work? You would think it warrants a thank you or a note or some kind of mention wouldn't you. 
+To have that milestone ignored is the height of rudeness and disrespect and will do nothing to help your staff feel like it was 
+worthwhile for them to stay supporting the company for so long, it will instill a feeling of regret.  
+It certainly would go to along way improve employee relations by acknowledging such an achievement and make people feel proud of themselves, 
+instead you run the very real risk that they will soon be looking for a job elsewhere.  Doesn't common sense prevail?
 
-Would it be too much to ask that company executives look people in the eye and just acknowledge them, instead they shun them like they are a 2nd class citizen. At that level if you don't have the people skills to interact on all levels then why are you in that role??? It is just rude and impolite. 
+Would it be too much to ask that company executives look people in the eye and just acknowledge them, instead they shun them like they are a 2nd class 
+citizen. At that executive level, if you don't have the people skills to interact on all levels then why are you in that role??? It is just rude and impolite. 
 
-Ever thought that it might be appropriate to offer some positive reinforcement about a colleagues job or task that they are doing well, it doesn't take much and you can be absolutely sure it will make them feel good. It doesn't take much to lead by example even if you are not in a leadership role, and don't stop doing it if you already do, and additionally don't get disheartened because no-one reciprocates the favor or show you the same level of respect.
+Ever thought that it might be appropriate to offer some positive reinforcement about a colleagues job or task that they are doing well? 
+It doesn't take much and you can be absolutely sure it will make them feel good. 
+It doesn't take much to lead by example even if you are not in a leadership role, 
+and don't stop doing it if you already do, and additionally don't get disheartened because no-one reciprocates the favor or show you the same level of respect.
+Think about showing the lame level of respect next time someone takes the time to compliment you or offer some encouragement, wait for the opportunity to respond accordingly. 
+You will feel better for doing so.
 
+If you have a bad day and end up having a dummy spit or saying something wrong to someone, or if you know you have been rude or were disrespectful then dig deep and apologise. 
+No one should ever respond negatively to a sincere apology if it is said with sincerity and confidence. 
 
 If you think it is ok to just ignore emails from colleagues requesting information then you are wrong, always respond within a couple of days, any longer is showing a non caring attitude and is certainly not conducive to a good working environment. You are potentially impacting on their ability to do their job properly and it leads to everyone using the blame game to explain and justify why things don't get done. Be in control and organise yourself properly so as you can answer all non junk emails.  
 Even if it is a quick acknowledgement that you will respond at a later time, but if you do say that then make sure you follow up, it is just good manners to do so and shows respect for others.  
@@ -66,10 +81,10 @@ Here are some more thoughts about workplace etiquette..written by Maureen Mackey
 
 ### Have you wondered about online etiquette?
 
-There are many articles about which suggest the do's and don'ts. Like this one for example written by the Jomer Gregorio at [cjgdigitalmarketing](http://cjgdigitalmarketing.com/top-8-social-media-etiquette-for-business-infographic/) or this one written by Outbound Engine [Social Media Etiquette for Business: 25 Do's & Don'ts](http://www.outboundengine.com/blog/social-media-etiquette-for-business-25-dos-donts/).  
+There are many articles about which suggest the do's and do not's. Like this one for example written by the Jomer Gregorio at [cjgdigitalmarketing](http://cjgdigitalmarketing.com/top-8-social-media-etiquette-for-business-infographic/) or this article written by Outbound Engine [Social Media Etiquette for Business: 25 Do's & Don'ts](http://www.outboundengine.com/blog/social-media-etiquette-for-business-25-dos-donts/).  
 
-Have you offered an endorsement on linkedin for a known and warranted skill? Yet did you get the favor returned, I suspect not.  
-Really, people should realise that LinkedIn is all about networking and people rely on having those positive reinforcements made though respected peers. Networking is about increasing business, or reaching out for new opportunities and simply ignoring justified acknowledgments of capabilities or skills is potentially harmful to others. 
+Have you offered an endorsement on linkedin for a friend or co-worker to confirm a known and warranted skill? Yet did you get the favor returned, I suspect not. It may not be of any concern to you but ask yourself why the feature exists?
+People should realise that LinkedIn is all about networking and networked connections often rely on having those positive reinforcements made though respected peers. Networking is about increasing business, or reaching out for new opportunities and simply ignoring justified acknowledgments of skills is not right. 
 
 Unless it is really not justified to offer an endorsement or reciprocate the recommendation you may have received, then just do the right thing. 
    
@@ -81,4 +96,3 @@ Similarly if you do get a personalised message to connect to someone then it rea
 It's all too easy to respond and accept a meeting invite, but just take a minute to think about it first and if you really have no intention of going then do not accept it.  That is common courtesy and sets the expectation for people for the event.  
 
 If you get an email from a friend asking about how you have been, don't just ignore it, take a minute to respond and reciprocate the favor, it's good manners. 
-
