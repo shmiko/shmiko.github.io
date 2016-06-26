@@ -24,8 +24,7 @@ How many times do you wish someone well or for them to have a nice day, and what
 What is so hard about reciprocating courtesy or politeness or to show some etiquette or to offer a polite gesture?
 
 It isn't just me, there are a few articles around that suggest others too have recognised that manners are no longer a concern.  
-See this article written by Sarah Stealey Reed [Emily Post is pissed; enough with the bad manners
-](https://relate.zendesk.com/articles/emily-post-enough-with-the-bad-manners/).
+See this article written by Sarah Stealey Reed... [Emily Post is pissed enough with the bad manners](https://relate.zendesk.com/articles/emily-post-enough-with-the-bad-manners/).
 
 I wonder how can kids will learn good manners when those who should be leading by example fail to show good manners?
 
