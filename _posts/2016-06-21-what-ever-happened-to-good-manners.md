@@ -96,3 +96,17 @@ Similarly if you do get a personalised message to connect to someone then it rea
 It's all too easy to respond and accept a meeting invite, but just take a minute to think about it first and if you really have no intention of going then do not accept it.  That is common courtesy and sets the expectation for people for the event.  
 
 If you get an email from a friend asking about how you have been, don't just ignore it, take a minute to respond and reciprocate the favor, it's good manners. 
+
+I know I am far from perfect but I know with absolute confidence that I have good manners, I show respect, I am polite and courteous. This post is a good reminder for me to continue being mindful of such things.  
+
+Having lived in Japan, a lot of these traits are instilled into you through the Japanese culture. 
+This is evident in how there society acts as a whole, and how they respond to the customers need as well as how younger generations have the utmost respect to senior people. 
+I have noticed similar instances of courtesy and respect throughout the US, although unfortunately this has been in steady decline over the last 15 years. 
+This is a real shame as I have always considered that the US lead by example and I have on many occasions let my children learn by their society.
+
+I'd like to see what people have to say, but remember, be respectful when leaving comments. 
+You can still tell it how is and how you see it, but still offer constructive input without having to resort to being rude and showing bad manners.
+
+
+
+
