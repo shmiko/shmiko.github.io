@@ -48,11 +48,15 @@ surely that is just being ignorant to common courtesy and being lazy.
 ### Workplace Manners and Respect  
 
 In the workplace so many things could be done to improve how people perform and yet the simplest of things just get completely forgotten?  
-Have you had a 10th anniversary at work? You would think it warrants a thank you or a note or some kind of mention wouldn't you. 
-To have that milestone ignored is the height of rudeness and disrespect and will do nothing to help your staff feel like it was 
-worthwhile for them to stay supporting the company for so long, it will instill a feeling of regret.  
+Is it really that hard to be nice to the people who are working fo you?  
+
+Have you had a 10th anniversary at work or reach a milestone? Perhaps you have taken on some external studies in your own time to benefit your role. 
+You would think it warrants a thank you or a note or some kind of mention wouldn't you. 
+To have that moment or occasion ignored is the height of rudeness and disrespect and will do nothing to help your staff feel like it was 
+worthwhile.  
 It certainly would go to along way improve employee relations by acknowledging such an achievement and make people feel proud of themselves, 
-instead you run the very real risk that they will soon be looking for a job elsewhere.  Doesn't common sense prevail?
+instead you run the very real risk that they will soon be looking for a job elsewhere.  Doesn't common sense prevail? 
+No one would be expecting a gold watch, perhaps just a thank you note wouldn't be too much to ask. 
 
 Would it be too much to ask that company executives look people in the eye and just acknowledge them, instead they shun them like they are a 2nd class 
 citizen. At that executive level, if you don't have the people skills to interact on all levels then why are you in that role??? It is just rude and impolite. 
