@@ -29,13 +29,15 @@ See this article written by Sarah Stealey Reed [Emily Post is pissed; enough wit
 
 I wonder how can kids will learn good manners when those who should be leading by example fail to show good manners?
 
-You have probably opened the door for someone recently and had then not even thank you? 
+You have probably opened the door for someone recently and had them not even thank you? 
 Or perhaps the person in front walks through the door and doesn't bother to hold the door open for you. That is just rude.  
 
-When was the last time you offered to help someone in need, perhaps someone has dropped something, did you pick it up or help them? When did you last help someone who was looking at a map obviously lost, even if you don't speak their language offering to help is better than just leaving them to struggle. 
-No it isn't the rule that you should help those less fortunate that us or to offer some assistance to someone who obviously need it but it is so simple to be courteous and to offer little things that go along way to kindness and politeness.  
+When was the last time you offered to help someone in need, perhaps someone has dropped something, did you pick it up or help them?  
+When did you last help someone who was looking at a map obviously lost?  
+Even if you don't speak their language offering to help is better than just leaving them to struggle. 
+No it isn't the rule that you should help those less fortunate that us or to offer some assistance to someone who obviously needs it, but it is so simple to be courteous and to offer little things that go along way to improve humanity through kindness and politeness.  
 
-How often do children fail to stand up on public transport for elderly or pregnant ladies, not very often, it is very disrespectful and rude.
+How often do children fail to stand up on public transport for elderly or pregnant women, not very often, it is very disrespectful and rude, and worse to see that their parent make no effort to suggest otherwise.  
 I know there will be a lot of people who think why should you bother, but really it is just showing some respect, especially showing respect to your elders, it is important that you show that respect.  
 
 How often do you see people driving in the lane beside you that just dart in front of you without a single gesture of thanks, is it because they are afraid of causing road rage and getting shot, surely that is just being ignorant to common courtesy and being lazy.  
