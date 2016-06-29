@@ -70,7 +70,9 @@ Even if it is a quick acknowledgement that you will respond at a later time, but
 
 As for etiquette in the workplace....
 
-Clean up after yourself, keep your work area from affecting others and keep things off the floor. An untidy desk is fine as it often suggests creativity at play but impacting on others is bad manners.  
+Clean up after yourself.  
+Keep your work area from affecting others and keep things off the floor.  
+An untidy desk is fine as it often suggests creativity at play but impacting on others is...well it's bad manners.  
 
 Just be nice, have some manners and show some courtesy and a little respect for you co-workers, who knows it might just catch on?
 
@@ -78,11 +80,13 @@ Here are some more thoughts about workplace etiquette..written by Maureen Mackey
 
 ### Have you wondered about online etiquette?
 
-There are many articles about which suggest the do's and do not's. Like this one for example written by the Jomer Gregorio at [cjgdigitalmarketing](http://cjgdigitalmarketing.com/top-8-social-media-etiquette-for-business-infographic/) or this article written by Outbound Engine [Social Media Etiquette for Business: 25 Do's & Don'ts](http://www.outboundengine.com/blog/social-media-etiquette-for-business-25-dos-donts/).  
+There are many articles about which suggest the do's and do not's.  
+Like this one for example written by the Jomer Gregorio at [cjgdigitalmarketing](http://cjgdigitalmarketing.com/top-8-social-media-etiquette-for-business-infographic/) or this article written by Outbound Engine [Social Media Etiquette for Business: 25 Do's & Don'ts](http://www.outboundengine.com/blog/social-media-etiquette-for-business-25-dos-donts/).  
    
 
-I know I am far from perfect but I know with absolute confidence that I have good manners, I show respect, I am polite and courteous. This post is a good reminder for me to continue being mindful of such things and acknowledge those times I fail to do so.  
+### Final thoughts   
+I know I am far from perfect but I know with absolute confidence that I have good manners, I always try to show respect, I am polite and courteous. 
+However this post is a good reminder for me to continue being mindful of such things and acknowledge those times I fail to do so.  
 
+Can you honestly say the same?
 
-I'd like to see what people have to say, but remember, be respectful when leaving comments. 
-You can still tell it how is and how you see it, but still offer constructive input without having to resort to being rude and showing bad manners.
