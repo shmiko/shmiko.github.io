@@ -92,5 +92,9 @@ But being around rude, arrogant, bad mannered and inconsiderate people just bugs
 
 However this post is a good reminder for me to continue being mindful of such things and acknowledge those times I fail to do so.  
 
+The above thoughts are mine and is just me having a rant, but I'm fairly certain that I'm not totally wrong?
+
+If you think I am or want to add to the rant, I'd love to hear what you have to say.
+
 
 
