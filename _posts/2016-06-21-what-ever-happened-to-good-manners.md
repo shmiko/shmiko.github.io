@@ -33,13 +33,11 @@ Or perhaps the person in front of you walked through the door and didn't bother 
 Bad manners.  
 
 When was the last time you offered to help someone in need, perhaps someone has dropped something, did you pick it up or offer to help them?  
-Even if you don't speak their language offering to help is better than just leaving them to struggle. 
-Bad manners.
+Even if you don't speak their language, offering to help is better than just leaving them to struggle. 
 
 How often do children fail to stand up on public transport for elderly or pregnant women, all too often.  
 It is very disrespectful, and worse is when their parents make no effort to suggest otherwise.  
 It doesn't take much effort to extend that kind of courtesy. 
-Bad manners.
 
 How often do you see people driving in the lane beside you that just dart in front of you without a single gesture of thanks, that is just being rude lazy.  And yes it is bad manners.
 
@@ -57,25 +55,23 @@ Most importantly it is good manners and shows respect.
 Not to do so is bad manners.
 
 It doesn't take much to say something nice or compliment someone of the work they have done, you can be absolutely sure it will make them feel good. 
-You will feel better for doing so. It is being courteous and it is good manners to do so.
+You will feel better for doing so.  
+It is being courteous and it is good manners to do so.
 
 If you have had a bad day and end up having a momentary lapse of reason or saying something wrong to someone, then dig deep and apologise. 
 No one will ever respond negatively to an apology if it is said with sincerity and meaning. 
 It is bad manners not to.
 
-Do not ignore emails from colleagues requesting information, always respond within a couple of days, any longer is showing a disrespectful attitude and is certainly not conducive to a good working environment. You are potentially impacting on their ability to do their job properly and it leads to everyone using the blame game to explain and justify why things don't get done. 
-Even if it is a quick acknowledgement that you will respond at a later time, but when you do then make sure you follow up, it is just good manners to do so and shows respect for others.  
+Do not ignore emails from colleagues requesting information, always respond within a couple of days, any longer is sdisrespectful and is certainly not conducive to a good working environment.  
+You are potentially impacting on their ability to do their job properly and it leads to everyone using the blame game to explain and justify why things don't get done. 
+Even if it is a quick acknowledgement that you will respond to properly at a later time, that is fine but when you do then make sure you follow up, it is just good manners to do so and shows respect for others.  
 
 Can you be a leader without being in a position of leadership?
 Take the time to acknowledge co-workers or staff for their efforts, if you recognise such efforts it will go along way to building a relationship and always lead to better performance.  
 Even if you are not in a position as a leader, Lead!  
-Lead by example.  
+Lead by example. Show good manners.   
 
 As for etiquette in the workplace....
-
-Clean up after yourself.  
-Keep your work area from affecting others and keep things off the floor.  
-An untidy desk is fine as it often suggests creativity at play but impacting on others is...well it's bad manners.  
 
 Just be nice, have some manners and show some courtesy and a little respect for you co-workers, who knows it might just catch on?
 
@@ -88,8 +84,17 @@ Like this one for example written by the Jomer Gregorio at [cjgdigitalmarketing]
    
 
 ### Final thoughts   
-I know I am far from perfect but I know with absolute confidence that I have good manners, I always try to show respect, I am polite and courteous. 
+
+I know I am far from perfect, but I know with absolute confidence that I have good manners, I always try to show respect, I am polite and courteous. 
+I am always happy to accept when I am wrong and the first to offer a sincere apology.
+
+I'm also willing to help others to change for the better. Self improvement never stops, it is a continual learning process.
+
+I'm not afraid to stand my ground when I know that I am right, and I'm happy to be surrounded by people better than me that I can learn from.  
+
+But being around rude, arrogant, bad mannered and inconsiderate people just bugs me and I do not have time for them.  
+
 However this post is a good reminder for me to continue being mindful of such things and acknowledge those times I fail to do so.  
 
-Can you honestly say the same?
+
 
