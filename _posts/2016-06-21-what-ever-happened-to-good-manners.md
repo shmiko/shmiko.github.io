@@ -17,8 +17,6 @@ Bad Manners seem to be more common and poor etiquette similarly seems to be just
 
 So is it that common sense has fallen by the wayside? Seriously what is going on with people today?  
 
-I scoured the net to see what the consensus was, here are some thoughts that seems to be common topics.
-
 How many times do you wish someone well or for them to have a nice day, and what is there response, nothing at all, not even a thank you, let-alone a "You Have a nice day too"?  
 
 What is so hard about reciprocating courtesy or politeness or to show some etiquette or perhaps just a polite gesture?
