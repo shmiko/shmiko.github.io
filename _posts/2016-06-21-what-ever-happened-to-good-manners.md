@@ -9,32 +9,33 @@ tags: [ 'manners','leadership']
 
 #### What Ever Happened to Good Manners
 
-I am just amazed at how people have lost good manners.  
+I am just amazed at how people seem to have lost good manners.  
 
 ![Good Manners](/img/goodmanners.jpg "Good Manners")
 
 Bad Manners seem to be more common and poor etiquette similarly seems to be just as common. 
 
-So is it that common sense has fallen by the wayside? Seriously what is going on with people today?
+So is it that common sense has fallen by the wayside? Seriously what is going on with people today?  
 
-I scoured the net to see what the consensus was and here are some thoughts that seems to be common topics.
+I scoured the net to see what the consensus was, here are some thoughts that seems to be common topics.
 
-How many times do you wish someone well or for them to have a nice day, and what is there response, nothing at all, not even a thank you let-alone a "You Have a nice day too"?  
+How many times do you wish someone well or for them to have a nice day, and what is there response, nothing at all, not even a thank you, let-alone a "You Have a nice day too"?  
 
-What is so hard about reciprocating courtesy or politeness or to show some etiquette or to offer a polite gesture?
+What is so hard about reciprocating courtesy or politeness or to show some etiquette or perhaps just a polite gesture?
 
 It isn't just me, there are a few articles around that suggest others have also recognised that manners are no longer a concern.  
 See this article written by Sarah Stealey Reed... [Emily Post is pissed enough with the bad manners](https://relate.zendesk.com/articles/emily-post-enough-with-the-bad-manners/).
 
 I wonder how can kids will learn good manners when those who should be leading by example fail to show good manners?
 
-Have you opened the door for someone recently and had them not even thank you or acknowledge you? 
-Or perhaps the person in front of you walked through the door and didn't bother to hold the door open for you. That is bad manners.  
+Have you opened the door for someone recently and had them forget to acknowledge you? 
+Or perhaps the person in front of you walked through the door and didn't bother to hold the door open for you. 
+Bad manners.  
 
 When was the last time you offered to help someone in need, perhaps someone has dropped something, did you pick it up or offer help them?  
 When did you last help someone who was obviously lost?  
 Even if you don't speak their language offering to help is better than just leaving them to struggle. 
-Not to help is bad manners.
+Bad manners.
 
 How often do children fail to stand up on public transport for elderly or pregnant women, all too often.  
 It is very disrespectful, and worse is when their parents make no effort to suggest otherwise.  
