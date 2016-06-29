@@ -69,11 +69,9 @@ Even if it is a quick acknowledgement that you will respond to properly at a lat
 Can you be a leader without being in a position of leadership?
 Take the time to acknowledge co-workers or staff for their efforts, if you recognise such efforts it will go along way to building a relationship and always lead to better performance.  
 Even if you are not in a position as a leader, Lead!  
-Lead by example. Show good manners.   
+Lead by example. Show good manners and show some respect.   
 
 As for etiquette in the workplace....
-
-Just be nice, have some manners and show some courtesy and a little respect for you co-workers, who knows it might just catch on?
 
 Here are some more thoughts about workplace etiquette..written by Maureen Mackey. [5 Outrageous Workplace Etiquette Mistakes](http://www.thefiscaltimes.com/Articles/2014/08/11/5-Outrageous-Workplace-Etiquette-Mistakes)
 
