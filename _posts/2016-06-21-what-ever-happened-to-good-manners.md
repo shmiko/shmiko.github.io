@@ -32,8 +32,7 @@ Have you opened the door for someone recently and had them forget to acknowledge
 Or perhaps the person in front of you walked through the door and didn't bother to hold the door open for you. 
 Bad manners.  
 
-When was the last time you offered to help someone in need, perhaps someone has dropped something, did you pick it up or offer help them?  
-When did you last help someone who was obviously lost?  
+When was the last time you offered to help someone in need, perhaps someone has dropped something, did you pick it up or offer to help them?  
 Even if you don't speak their language offering to help is better than just leaving them to struggle. 
 Bad manners.
 
@@ -46,20 +45,19 @@ How often do you see people driving in the lane beside you that just dart in fro
 
 ### Workplace Manners and Respect  
 
-In the workplace so many things could be done to improve how people feel and ultimately how they perform and yet the simplest of things get completely ignored?  
+In the workplace so many things could be done to improve how people feel and ultimately how they perform, and yet the simplest of things get completely ignored?  
 Is it really that hard to be nice to the people who are working for or with you?  
-
-Can you be a leader without being in a position of leadership?
-Take the time to acknowledge co-workers or staff for their efforts, if you recognise their work or extra efforts it will go along way to building a relationship and always lead to better performance.  
-Even if you are not a leader, Lead! Lead by example, do the right thing by other people all the time regardless of the outcome and despite the fact that you might not get anything in return.
 
 Have you had a special work anniversary or reached a milestone?  
 Perhaps you have taken on some external studies in your own time to benefit your role. 
 It warrants a thank you or some kind of mention and yet many companies take these extra curricular activities or achievements for granted. 
-Don't let these acts go unnoticed, it is critically important that you recognise the staff members appropriately. It will empower the staff member or co worker to continue to be a high achiever and even better will make them feel good. Most importantly it is good manners and shows respect.
+Don't let these acts go un-noticed, it is critically important that you recognise people appropriately.  
+It will empower them to continue to be a high achiever and even better will make them feel good.  
+Most importantly it is good manners and shows respect.
+Not to do so is bad manners.
 
 It doesn't take much to say something nice or compliment someone of the work they have done, you can be absolutely sure it will make them feel good. 
-You will feel better for doing so. It is being courteous and is good manners to do so.
+You will feel better for doing so. It is being courteous and it is good manners to do so.
 
 If you have had a bad day and end up having a momentary lapse of reason or saying something wrong to someone, then dig deep and apologise. 
 No one will ever respond negatively to an apology if it is said with sincerity and meaning. 
@@ -67,6 +65,11 @@ It is bad manners not to.
 
 Do not ignore emails from colleagues requesting information, always respond within a couple of days, any longer is showing a disrespectful attitude and is certainly not conducive to a good working environment. You are potentially impacting on their ability to do their job properly and it leads to everyone using the blame game to explain and justify why things don't get done. 
 Even if it is a quick acknowledgement that you will respond at a later time, but when you do then make sure you follow up, it is just good manners to do so and shows respect for others.  
+
+Can you be a leader without being in a position of leadership?
+Take the time to acknowledge co-workers or staff for their efforts, if you recognise such efforts it will go along way to building a relationship and always lead to better performance.  
+Even if you are not in a position as a leader, Lead!  
+Lead by example.  
 
 As for etiquette in the workplace....
 
