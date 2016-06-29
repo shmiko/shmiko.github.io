@@ -57,8 +57,6 @@ Perhaps you have taken on some external studies in your own time to benefit your
 It warrants a thank you or some kind of mention and yet many companies take these extra curricular activities or achievements for granted. 
 Don't let these acts go unnoticed, it is critically important that you recognise the staff members appropriately. It will empower the staff member or co worker to continue to be a high achiever and even better will make them feel good. Most importantly it is good manners and shows respect.
 
-Doesn't common sense prevail? 
-
 It doesn't take much to say something nice or compliment someone of the work they have done, you can be absolutely sure it will make them feel good. 
 You will feel better for doing so. It is being courteous and is good manners to do so.
 
@@ -70,6 +68,8 @@ Do not ignore emails from colleagues requesting information, always respond with
 Even if it is a quick acknowledgement that you will respond at a later time, but when you do then make sure you follow up, it is just good manners to do so and shows respect for others.  
 
 As for etiquette in the workplace....
+
+Clean up after yourself, keep your work area from affecting others and keep things off the floor. An untidy desk is fine as it often suggests creativity at play but impacting on others is bad manners.  
 
 Just be nice, have some manners and show some courtesy and a little respect for you co-workers, who knows it might just catch on?
 
