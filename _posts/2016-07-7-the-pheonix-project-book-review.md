@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: The Phoenix Project A novel approach to DevOps
+title: The Phoenix Project - A novel approach to DevOps
 categories: ['agile']
 tags: [ 'books','agile']
 ---
