@@ -8,7 +8,7 @@ tags: [ 'javascript','algorithms']
 
 # Javascript 
 
-![Javascript](/img/javascript.png)  
+![Javascript](/img/js.png)  
 
 ## Javascript Algorithms - Stacks
 
