@@ -46,58 +46,36 @@ queueOfShoppers.prototype.enqueue = function(data){
     this.data.push(data);
 }
 
-//building the dequeue function
-queueOfShoppers.prototype.pop = function(){
-    if (this.top < 0){
+//building the dequeue function - there will be some memory leak associated with this function, we will discuss this shortly.  
+queueOfShoppers.prototype.dequeue = function(){
+    if (this.head < 0 || this.head >= this.data.length){
         return null;
     }
-    var topBook = this.value[this.top];
-    this.top--;
+    var dequeuedItem = this.data[this.head];
+    this.head++;
 
-    this.value.length--;
-
-    return topBook;
+    return dequeuedItem;
 }
 
-//Having a look at which is the top book
+//Having a look at which is the item at the front of the queue, similar to the dequeue function but the head doesn't move to the enxt item.  
 queueOfShoppers.prototype.look = function(){
-    if (this.top < 0){
+    if (this.head < 0 || this.head >= this.data.length){
         return null;
     }
-    return this.value[this.top];
+    return this.data[this.head];
 }
 
 //testing the above functions
-var stack = new queueOfShoppers();
+var queue = new queueOfShoppers();
+console.log("enqueue 100");
+queue.enqueue(100);
 
-for (var i = 0; i <= 20; i++){
-    console.log('Push ', i);
-    queueOfShoppers.push(i);
-}
+console.log("enqueue 200");
+queue.enqueue(200);
 
-
-//Looking looking looking...
-console.log('Last book is ', stack.look());
-
-//Poping last book added
-console.log('Pop last book', stack.pop());
-
-//Looking looking looking...
-console.log('Last book is ', stack.look());
-
-//Poping last book added
-console.log('Pop last book', stack.pop());
-
-//Looking looking looking...
-console.log('Last book is ', stack.look());
-
-
-//pushing another book
-console.log('New book is 100 ');
-stack.push(100);
-
-//Looking looking looking...
-console.log('Last book is now ', stack.look());
+console.log('Dequeue: ' + queue.dequeue());
+console.log('Dequeue: ' + queue.dequeue());
+console.log('Dequeue: ' + queue.dequeue());
 
 
 ```
