@@ -22,7 +22,7 @@ With the clock ticking, Bill must organize work flow streamline interdepartmenta
 In a fast-paced and entertaining style, three luminaries of the DevOps movement deliver a story that anyone who works in IT will recognize.  
 Readers will not only learn how to improve their own IT organizations, they'll never view IT the same way again.
 
-My review....
+My review....  
 A great read to say the least.  
 Highly relevant insights how a dysfunctional company takes on challenges to solve the problems facing IT departments within the organisation.  
 Through dealing with bureaucracy from upper management the author illustrates real-world examples and suggests practical ways of dealing with and combating the problems faced in making a lean mean IT team.  
