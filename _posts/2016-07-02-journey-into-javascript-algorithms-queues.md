@@ -14,7 +14,7 @@ tags: [ 'javascript','algorithms']
 
 -- Queues are a FIFO, First In First Out list type data structure.  
 A queue is a linear collection, items are added at the end and are removed from the front.  
-Queues support three basic operations, insert, remove and look. 
+Queues support three basic operations; insert, remove and look. 
 
 ### Queues:  
 
@@ -28,21 +28,25 @@ The native JS operations supported are
 Push is used to insert an element into the queue.  
 Shift is used to extract an element form the queue.  
 
-Keeping track of the top most element is important, when we push an element the top is updated to reflect the most recent element added, likewise when we shift an element the top is also updated to reflect the next most recently added element.  
+Writing your own functions can overcome some speed issues inherint with the shift function as it changes the array each time a change is made.  
+Implementing your own cleanup up unused array space at regular intervals is a more performant way to work with javascript queues.  
+
+Queue items will be stored in an array, head will be used to track the top or head of the queue, for every element removal we will return the element referenced by the head and then increment the head to point to the next item in the queue.  
+
+We will have a enqueue and dequeue function for each operation.
 
 ```javascript
 function queueOfShoppers{
-    this.top = -1; //Initialised to -1 to indicate no elements
-    this.value = []; //Initialised as an empty array.
+    this.head = 0; //Initialised to 0 to indicate the position of the first item, assuming the array contains 1 item.  
+    this.data = []; //Initialised as an empty array.
 }
 
-//not using the array push function yet
-queueOfShoppers.prototype.push = function(book){
-    this.top++;
-    this.value[this.top] = book;
+//building the enqueue function
+queueOfShoppers.prototype.enqueue = function(data){
+    this.data.push(data);
 }
 
-//not using the array pop function yet
+//building the dequeue function
 queueOfShoppers.prototype.pop = function(){
     if (this.top < 0){
         return null;
