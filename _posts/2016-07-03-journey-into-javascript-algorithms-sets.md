@@ -57,16 +57,34 @@ jsSet.prototype.add = function(data){
 
 #### Removing items from the set  
 
+First we check that the data to be removed exists in the set by using the same hasOwnProperty as when adding.  
+If the property exists then we simply delete the data from the set, when doing this the size is decremented also.  
+
 ```javascript
-jsSet.prototype.add = function(data){
-    if (!(this.set.hasOwnProperty(data))){
-        this.set[data] = 'true';
-        this.size++;
+jsSet.prototype.remove = function(data){
+    if (this.set.hasOwnProperty(data)){
+        delete this.set[data];
+        this.size--;
     }
 }
 
 ```  
 
+
+#### Testing  
+
+```javascript
+
+    var testMySet = new jsSet();
+    testMySet.add(1);
+    testMySet.add(2);
+    testMySet.add(3);
+    testMySet.print();
+    console.log('removing 2');
+    testMySet.remove(2);
+    testMySet.print();
+
+```  
 
 ES6 - includes a native set object. It is now being used in browsers and will soon have full support.  
 It would be a best practise to start using the ES6 set structure.  
