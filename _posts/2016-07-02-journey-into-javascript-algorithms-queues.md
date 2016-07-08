@@ -8,7 +8,7 @@ tags: [ 'javascript','algorithms']
 
 # Javascript 
 
-![Javascript](/img/js.png)  
+![Javascript](/img/javascript.png)  
 
 ## Javascript Algorithms - Queues
 
