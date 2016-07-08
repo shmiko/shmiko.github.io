@@ -86,9 +86,62 @@ jsSet.prototype.remove = function(data){
 
 ```  
 
+#### Checking if data exists in the set  
+
+To determine if a value exists in the set we continuey using the same hasOwnProperty as when adding and removing.  
+
+```javascript
+jsSet.prototype.exists = function(data){
+    if (this.set.hasOwnProperty(data)){
+        return true;
+    } else {
+        return false;
+    }
+}
+
+```  
+
+#### Union of two sets    
+
+The union of two sets returns a new set with all elements from each of the original sets.    
+
+```javascript
+jsSet.prototype.union = function(setTwo){
+    var unionSet = new jsSet();
+    for (var key in this.set){
+        if (this.set.hasOwnProperty(key)){
+            unionSet.add(key);
+        }
+    }
+    for (var key in setTwo.set){
+        if (!unionSet.set.hasOwnProperty(key)){
+            unionSet.add(key);
+        }
+    }
+    return unionSet;
+}
+
+```  
+
+#### Intersection of two sets    
+
+The intersection of two sets returns a new set with elements that exist in both of the original sets.    
+
+```javascript
+jsSet.prototype.intesect = function(setTwo){
+    var interSet = new jsSet();
+    for (var key in this.set){
+        if (setTwo.set.hasOwnProperty(key)){
+            interSet.add(key);
+        }
+    }
+    return interSet;
+}
+
+```  
 ES6 - includes a native set object. It is now being used in browsers and will soon have full support.  
 It would be a best practise to start using the ES6 set structure.  
 An advantage of this set object is that it force all keys to be a string like the object does, so keys of 10 and "10" act as seperate keys.  
 
 
-Next we will look at Javascript sets.
+Next we will look at Javascript dictionaries.
