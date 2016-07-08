@@ -13,7 +13,7 @@ tags: [ 'javascript','algorithms']
 ## Javascript Algorithms - Stacks
 
 -- Stacks are a LIFO, Last In First Out list type data structure.  
-Think of a stack of books in terms of accessing the first book in a stack of 10 books, you would need to remove the first 9 to get to the first book.  
+Think of a stack of books in terms of accessing the first book in a stack of 10 books, you would need to remove the last 9 to get to the first book.  
 
 ### Stacks:  
 
