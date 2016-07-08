@@ -29,7 +29,7 @@ Keeping track of the top most element is important, when we push an element the 
 ```javascript
 function stackOfBooks{
     this.top = -1; //Initialised to -1 to indicate no elements
-    this.values = []; //Initialised as an empty array.
+    this.value = []; //Initialised as an empty array.
 }
 
 //not using the array push function yet
@@ -43,10 +43,10 @@ stackOfBooks.prototype.pop = function(){
     if (this.top < 0){
         return null;
     }
-    var topBook = this.values = this.values[this.top];
+    var topBook = this.value = this.value[this.top];
     this.top--;
 
-    this.values.length--;
+    this.value.length--;
 
     return topBook;
 }
@@ -56,7 +56,7 @@ stackOfBooks.prototype.look = function(){
     if (this.top < 0){
         return null;
     }
-    return this.values[this.top];
+    return this.value[this.top];
 }
 
 //testing the above functions
