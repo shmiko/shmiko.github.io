@@ -9,7 +9,7 @@ tags: [ 'books','agile']
 
 #### The Phoenix Project: A novel approach to DevOps
 
-![The Pheonix Project](/img/pheonix.png "Pheonix Project")
+![The Pheonix Project](/img/pheonix.png "The Pheonix Project")
 
 The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win
 by Gene Kim, Kevin Behr, George Spafford - 
