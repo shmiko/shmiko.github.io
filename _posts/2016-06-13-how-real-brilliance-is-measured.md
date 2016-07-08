@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: 3 Reasons to Stop Calling Yourself an Entrepreneur & Start Getting Real
+title: How Real Brilliance Is Measured 
 categories: ['success']
 tags: [ 'brilliance','success']
 ---
