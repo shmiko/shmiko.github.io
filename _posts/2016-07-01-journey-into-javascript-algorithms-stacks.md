@@ -93,3 +93,4 @@ console.log('Last book is now ', stack.look());
 
 
 ```
+Next we will look at Javascript queues
