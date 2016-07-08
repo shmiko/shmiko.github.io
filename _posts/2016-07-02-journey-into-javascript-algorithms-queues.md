@@ -22,7 +22,7 @@ Queues support three basic operations; insert, remove and look.
 
 The two most common methods for basic stack operations are insert and remove.  
 
-The push operation is exactly the same native function used for adding an element into a stack.    
+The push operation is exactly the same native function used for adding an element into a queue.    
 
 The native JS operations supported are
 Push is used to insert an element into the queue.  
