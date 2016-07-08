@@ -32,13 +32,13 @@ function stackOfBooks{
     this.value = []; //Initialised as an empty array.
 }
 
-//not using the array push function yet
+//not using the native array push function yet
 stackOfBooks.prototype.push = function(book){
     this.top++;
     this.value[this.top] = book;
 }
 
-//not using the array pop function yet
+//not using the native array pop function yet
 stackOfBooks.prototype.pop = function(){
     if (this.top < 0){
         return null;
