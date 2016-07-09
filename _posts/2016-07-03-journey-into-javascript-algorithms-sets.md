@@ -84,6 +84,10 @@ jsSet.prototype.remove = function(data){
     testMySet.remove(2);
     console.log('print testMySet ',testMySet);
 
+    // print testMySet  jsSet { set: { '1': 'true', '2': 'true', '3': 'true' }, size: 3 }
+    // removing 2
+    // print testMySet  jsSet { set: { '1': 'true', '3': 'true' }, size: 2 }
+
 ```  
 
 #### Checking if data exists in the set  
