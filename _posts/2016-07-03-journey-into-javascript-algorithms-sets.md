@@ -79,10 +79,10 @@ jsSet.prototype.remove = function(data){
     testMySet.add(1);
     testMySet.add(2);
     testMySet.add(3);
-    testMySet.print();
+    console.log('print testMySet ',testMySet);
     console.log('removing 2');
     testMySet.remove(2);
-    testMySet.print();
+    console.log('print testMySet ',testMySet);
 
 ```  
 
