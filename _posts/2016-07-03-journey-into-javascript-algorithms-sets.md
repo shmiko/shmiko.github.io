@@ -34,6 +34,16 @@ This is just one way of implementing sets via javascript, but there are other wa
 You could use an array but we will be using an object represent out set.  
 Using an object also enforces uniqueness as object in javascript do not allow different properties on the same key.  
 
+The set class in ES6 includes the following methods:  
+add(value). Adds the value to the set.  
+remove(value). Removes the values from the set.  
+has(value) Returns true if the value exists otherwise false.  
+clear(). Removes all items from the set.  
+size(). Returns how many items the set contains.  
+values(). Returns an array of all items in the set.  
+
+
+
 ```javascript
 function jsSet(){
     this.set = {}; //initialise an empty object
