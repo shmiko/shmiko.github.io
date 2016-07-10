@@ -29,7 +29,10 @@ The difference operation is when a new set is created by adding all elements of 
 
 The javascript set is represented by using an object whilst the values are object properties. Size is kept as a seperate variable.  
 
-This is just one way of implementing sets via javascript, but there are other ways too.  
+This is just one way of implementing sets via javascript, but there are other ways too. 
+
+You could use an array but we will be using an object represent out set.  
+Using an object also enforces uniqueness as object in javascript do not allow different properties on the same key.  
 
 ```javascript
 function jsSet(){
