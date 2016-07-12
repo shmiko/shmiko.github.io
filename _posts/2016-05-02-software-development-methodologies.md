@@ -175,17 +175,18 @@ The Agile Manifesto is based on 12 principles:
 12. Regularly, the team reflects on how to become more effective, and adjusts accordingly   
 
 
-Agile Manifesto Values:
+Agile Manifesto Values:  
 1. Individuals and interactions over processes and tools  
 2. Working software over comprehensive documentation  
-3. Customer colaboration over contract negotiation. 
+3. Customer colaboration over contract negotiation  
 4. Responding to change over folowing a plan  
+
 
 Sourced from [Principles behind the Agile Manifesto](http://www.agilemanifesto.org/principles.html)     
 [Top](#top)   
 <a id="Scrum"></a>   
   
-  
+
 
 
 ---
