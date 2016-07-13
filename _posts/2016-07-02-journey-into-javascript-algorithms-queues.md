@@ -101,4 +101,5 @@ queueOfShoppers.prototype.dequeue = function(){
 
 ```
 
-Next we will look at Javascript sets.
+Next we will look at Javascript sets.  
+
