@@ -181,7 +181,6 @@ Agile Manifesto Values:
 3. Customer colaboration over contract negotiation  
 4. Responding to change over folowing a plan  
 
-
 Sourced from [Principles behind the Agile Manifesto](http://www.agilemanifesto.org/principles.html)     
 [Top](#top)   
 <a id="Scrum"></a>   
