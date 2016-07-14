@@ -157,6 +157,7 @@ jsSet.prototype.intesect = function(setTwo){
 }
 
 ```  
+
 ES6 - includes a native set object. It is now being used in browsers and will soon have full support.  
 It would be a best practise to start using the ES6 set structure.  
 An advantage of this set object is that it force all keys to be a string like the object does, so keys of 10 and "10" act as seperate keys.  
