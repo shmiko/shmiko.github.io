@@ -99,6 +99,7 @@ queueOfShoppers.prototype.dequeue = function(){
     return dequeuedItem;
 };
 
+
 ```
 
 Next we will look at Javascript sets.  
