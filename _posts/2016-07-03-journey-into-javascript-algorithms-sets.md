@@ -119,6 +119,8 @@ jsSet.prototype.exists = function(data){
 
 ```  
 
+//tests
+
 #### Union of two sets    
 
 The union of two sets returns a new set with all elements from each of the original sets.    
