@@ -119,7 +119,7 @@ jsSet.prototype.exists = function(data){
 
 ```  
 
-//tests
+
 
 #### Union of two sets    
 
