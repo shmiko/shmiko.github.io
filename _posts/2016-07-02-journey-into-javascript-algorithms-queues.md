@@ -89,8 +89,8 @@ queueOfShoppers.prototype.dequeue = function(){
 
     var dequeuedItem = this.data[this.head];
     this.head++;
-    //clean out the garbage at 100 items
-    if (this.head === 100){
+    //clean out the garbage at 1000 items
+    if (this.head === 1000){
         this.data.splice(0,100);
 
         //reset the head
