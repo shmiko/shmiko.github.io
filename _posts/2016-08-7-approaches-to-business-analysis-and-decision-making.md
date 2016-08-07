@@ -36,17 +36,17 @@ tags: [ 'business analysis', 'reporting', 'decision making']
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Physical Evidence:  
 &nbsp;Strategy Based
 &nbsp;&nbsp;&nbsp;**SWOT**
-			Strengths:
-			Weaknesses:  
-			Opportunities:  
-			Threats:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Strengths:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Weaknesses:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Opportunities:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Threats:  
 &nbsp;Situational Based
 &nbsp;&nbsp;&nbsp;**5Cs**
-			Company:  
-			Competitors:  
-			Customers:  
-			Collaborators:  
-			Climate:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Company:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Competitors:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Customers:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Collaborators:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Climate:  
 &nbsp;Industry Based
 &nbsp;&nbsp;&nbsp;**Porter's 5 Forces**
 			Rivalry among existing competitors:  
