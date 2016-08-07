@@ -57,7 +57,7 @@ tags: [ 'business analysis', 'reporting', 'decision making']
 - Metrics
 &nbsp;**User Acquisition**  
 &nbsp;&nbsp;&nbsp;How Many Users?  
-&nbsp;&nbsp;&nbsp;How has the user base grown over time?
+&nbsp;&nbsp;&nbsp;How has the user base grown over time?  
 &nbsp;&nbsp;&nbsp;How many users are active?  
 &nbsp;&nbsp;&nbsp;Definition of an active user.  
 &nbsp;&nbsp;&nbsp;Where are the users from?  
