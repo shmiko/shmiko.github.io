@@ -62,18 +62,18 @@ tags: [ 'business analysis', 'reporting', 'decision making']
 &nbsp;&nbsp;&nbsp;Definition of an active user.  
 &nbsp;&nbsp;&nbsp;Where are the users from?  
 &nbsp;&nbsp;&nbsp;Where did the users go?  
-&nbsp;&nbsp;&nbsp;Wheer are the referrals from?
-&nbsp;&nbsp;&nbsp;Are the users referring others?
-&nbsp;&nbsp;&nbsp;Which channels are most effective?  
+&nbsp;&nbsp;&nbsp;Wheer are the referrals from?  
+&nbsp;&nbsp;&nbsp;Are the users referring others?  
+&nbsp;&nbsp;&nbsp;Which channels are most effective?   
 &nbsp;**Activity**  
-&nbsp;&nbsp;&nbsp;How many users are using specific features?
+&nbsp;&nbsp;&nbsp;How many users are using specific features?  
 &nbsp;&nbsp;&nbsp;What percentage have completed a particular workflow?  
 &nbsp;&nbsp;&nbsp;Is there feedback about the product?  
 &nbsp;&nbsp;&nbsp;What is the feedback like?  
 &nbsp;&nbsp;&nbsp;Can the feedback be measured?  
 &nbsp;**Conversion and Retention**  
-&nbsp;&nbsp;&nbsp;What is the conversion rate?
-&nbsp;&nbsp;&nbsp;What is the Free to Paid conversion rate?
+&nbsp;&nbsp;&nbsp;What is the conversion rate?  
+&nbsp;&nbsp;&nbsp;What is the Free to Paid conversion rate?  
 &nbsp;&nbsp;&nbsp;What is the Visiting to Signup conversion rate?  
 &nbsp;&nbsp;&nbsp;What is the churn rate?  
 &nbsp;**Costs**  
