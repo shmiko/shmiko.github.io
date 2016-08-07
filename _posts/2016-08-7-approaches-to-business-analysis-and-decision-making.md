@@ -55,33 +55,33 @@ tags: [ 'business analysis', 'reporting', 'decision making']
 			Threat of substitutes:  
 			Threat of new entrants:  
 - Metrics
-		**User Acquisition**  
-			How Many Users?  
-			How has the user base grown over time?
-			How many users are active?  
-			Definition of an active user.  
-			Where are the users from?  
-			Where did the users go?  
-			Wheer are the referrals from?
-			Are the users referring others?
-			Which channels are most effective?  
-		**Activity**  
-			How many users are using specific features?
-			What percentage have completed a particular workflow?  
-			Is there feedback about the product?  
-			What is the feedback like?  
-			Can the feedback be measured?  
-		**Conversion and Retention**  
-			What is the conversion rate?
-			What is the Free to Paid conversion rate?
-			What is the Visiting to Signup conversion rate?  
-			What is the churn rate?  
-		**Costs**  
-			What is the acquisition cost?  
-			What is the cost of supporting a customer?  
-			What is the average income from the customers?  
-			What is the lifetime values of the customers?  
-			What is the revenue growth rate?  
+	**User Acquisition**  
+		How Many Users?  
+		How has the user base grown over time?
+		How many users are active?  
+		Definition of an active user.  
+		Where are the users from?  
+		Where did the users go?  
+		Wheer are the referrals from?
+		Are the users referring others?
+		Which channels are most effective?  
+	**Activity**  
+		How many users are using specific features?
+		What percentage have completed a particular workflow?  
+		Is there feedback about the product?  
+		What is the feedback like?  
+		Can the feedback be measured?  
+	**Conversion and Retention**  
+		What is the conversion rate?
+		What is the Free to Paid conversion rate?
+		What is the Visiting to Signup conversion rate?  
+		What is the churn rate?  
+	**Costs**  
+		What is the acquisition cost?  
+		What is the cost of supporting a customer?  
+		What is the average income from the customers?  
+		What is the lifetime values of the customers?  
+		What is the revenue growth rate?  
 - Reports  
 	Feasibility Study:  
 	Strategic Requirements Specification (SRS):  
