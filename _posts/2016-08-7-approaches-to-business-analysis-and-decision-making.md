@@ -11,7 +11,7 @@ tags: [ 'business analysis', 'reporting', 'decision making']
 
 ![Decisions](/img/decisions.jpg "Decision Making")
 
-##### Explanations coming tomorrow!
+##### Explanations coming soon!
 
 **Analytical Reports and Frameworks**  
 
