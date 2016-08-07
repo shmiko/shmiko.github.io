@@ -118,6 +118,7 @@ tags: [ 'business analysis', 'reporting', 'decision making']
 
 
 - Decision Frameworks  
+
 &nbsp;**OODA**  
 &nbsp;&nbsp;&nbsp;Observe:  
 &nbsp;&nbsp;&nbsp;Orient:  
