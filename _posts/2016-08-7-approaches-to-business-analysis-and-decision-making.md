@@ -13,19 +13,19 @@ tags: [ 'business analysis', 'reporting', 'decision making']
 
 **Analytical Reports and Frameworks**  
 - Frameworks   
- - Customer Based  
-  - **AIDA**  
-   - Attention:  
-   - Interest:  
-   - Desire:  
-   - Action:  
- - **REAN**  
-   - Reach:  
-   - Engage:  
-   - Activate:  
-   - Nurture:  
-	Product Based  
-		**4Ps** or **7Ps**
+&nbsp;Customer Based  
+&nbsp;&nbsp;&nbsp;**AIDA**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Attention:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Interest:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Desire:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Action:  
+&nbsp;&nbsp;&nbsp;**REAN**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Reach:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Engage:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Activate:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nurture:  
+&nbsp;Product Based  
+&nbsp;&nbsp;&nbsp;**4Ps** or **7Ps**
 			Product:  
 			Price:  
 			Promotion:  
