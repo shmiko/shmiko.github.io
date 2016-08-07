@@ -35,12 +35,15 @@ tags: [ 'business analysis', 'reporting', 'decision making']
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;People:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Process:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Physical Evidence:  
-&nbsp;Strategy Based
+
+&nbsp;Strategy Based  
 &nbsp;&nbsp;&nbsp;**SWOT**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Strengths:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Weaknesses:   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Opportunities:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Threats:  
+
+
 &nbsp;Situational Based  
 &nbsp;&nbsp;&nbsp;**5Cs**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Company:  
@@ -48,6 +51,8 @@ tags: [ 'business analysis', 'reporting', 'decision making']
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Customers:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Collaborators:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Climate:  
+
+
 &nbsp;Industry Based  
 &nbsp;&nbsp;&nbsp;**Porter's 5 Forces**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rivalry among existing competitors:  
@@ -58,6 +63,7 @@ tags: [ 'business analysis', 'reporting', 'decision making']
 
 
 - Metrics
+
 &nbsp;**User Acquisition**  
 &nbsp;&nbsp;&nbsp;How Many Users?  
 &nbsp;&nbsp;&nbsp;How has the user base grown over time?  
@@ -68,17 +74,20 @@ tags: [ 'business analysis', 'reporting', 'decision making']
 &nbsp;&nbsp;&nbsp;Wheer are the referrals from?  
 &nbsp;&nbsp;&nbsp;Are the users referring others?  
 &nbsp;&nbsp;&nbsp;Which channels are most effective?   
+
 &nbsp;**Activity**  
 &nbsp;&nbsp;&nbsp;How many users are using specific features?  
 &nbsp;&nbsp;&nbsp;What percentage have completed a particular workflow?  
 &nbsp;&nbsp;&nbsp;Is there feedback about the product?  
 &nbsp;&nbsp;&nbsp;What is the feedback like?  
 &nbsp;&nbsp;&nbsp;Can the feedback be measured?  
+
 &nbsp;**Conversion and Retention**  
 &nbsp;&nbsp;&nbsp;What is the conversion rate?  
 &nbsp;&nbsp;&nbsp;What is the Free to Paid conversion rate?  
 &nbsp;&nbsp;&nbsp;What is the Visiting to Signup conversion rate?  
 &nbsp;&nbsp;&nbsp;What is the churn rate?  
+
 &nbsp;**Costs**  
 &nbsp;&nbsp;&nbsp;What is the acquisition cost?  
 &nbsp;&nbsp;&nbsp;What is the cost of supporting a customer?  
