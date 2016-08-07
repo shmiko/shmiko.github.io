@@ -26,14 +26,14 @@ tags: [ 'business analysis', 'reporting', 'decision making']
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nurture:  
 &nbsp;Product Based  
 &nbsp;&nbsp;&nbsp;**4Ps** or **7Ps**
-			Product:  
-			Price:  
-			Promotion:  
-			Place:  
-			---  
-			People:  
-			Process:  
-			Physical Evidence:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Product:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Price:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Promotion:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Place:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;---  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;People:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Process:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Physical Evidence:  
 &nbsp;Strategy Based
 &nbsp;&nbsp;&nbsp;**SWOT**
 			Strengths:
