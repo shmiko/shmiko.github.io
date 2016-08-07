@@ -40,8 +40,8 @@ tags: [ 'business analysis', 'reporting', 'decision making']
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Weaknesses:   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Opportunities:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Threats:  
-&nbsp;Situational Based
-&nbsp;&nbsp;&nbsp;**5Cs**
+&nbsp;Situational Based  
+&nbsp;&nbsp;&nbsp;**5Cs**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Company:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Competitors:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Customers:  
