@@ -13,6 +13,7 @@ tags: [ 'business analysis', 'reporting', 'decision making']
 
 **Analytical Reports and Frameworks**  
 
+
 - Frameworks   
 
 &nbsp;Customer Based  
