@@ -90,13 +90,13 @@ tags: [ 'business analysis', 'reporting', 'decision making']
 &nbsp;Product Requirements Document (PRD):  
 &nbsp;Framework:  
 &nbsp;&nbsp;&nbsp;**PIECES**  
-			Performance:  
-			Information:  
-			Economy:  
-			Control:  
-			Efficiency:  
-			Information:  
-			Service:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Performance:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Information:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Economy:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Control:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Efficiency:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Information:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Service:  
 - Decision Frameworks  
 &nbsp;**OODA**  
 &nbsp;&nbsp;&nbsp;Observe:  
