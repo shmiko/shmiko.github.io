@@ -35,9 +35,9 @@ tags: [ 'business analysis', 'reporting', 'decision making']
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Process:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Physical Evidence:  
 &nbsp;Strategy Based
-&nbsp;&nbsp;&nbsp;**SWOT**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Strengths:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Weaknesses:  
+&nbsp;&nbsp;&nbsp;**SWOT**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Strengths:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Weaknesses:   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Opportunities:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Threats:  
 &nbsp;Situational Based
