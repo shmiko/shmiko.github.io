@@ -14,7 +14,7 @@ tags: [ 'business analysis', 'reporting', 'decision making']
 **Analytical Reports and Frameworks**  
 
 
-### Frameworks   
+#### Frameworks   
 
 &nbsp;Customer Based  
 &nbsp;&nbsp;&nbsp;**AIDA**  
@@ -66,7 +66,7 @@ tags: [ 'business analysis', 'reporting', 'decision making']
 
 
 
-### Metrics
+##### Metrics
 
 &nbsp;**User Acquisition**  
 &nbsp;&nbsp;&nbsp;How Many Users?  
