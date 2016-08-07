@@ -34,28 +34,28 @@ tags: [ 'business analysis', 'reporting', 'decision making']
 			People:  
 			Process:  
 			Physical Evidence:  
-	Strategy Based
-		**SWOT**
+&nbsp;Strategy Based
+&nbsp;&nbsp;&nbsp;**SWOT**
 			Strengths:
 			Weaknesses:  
 			Opportunities:  
 			Threats:  
-	Situational Based
-		**5Cs**
+&nbsp;Situational Based
+&nbsp;&nbsp;&nbsp;**5Cs**
 			Company:  
 			Competitors:  
 			Customers:  
 			Collaborators:  
 			Climate:  
-	Industry Based
-		**Porter's 5 Forces**
+&nbsp;Industry Based
+&nbsp;&nbsp;&nbsp;**Porter's 5 Forces**
 			Rivalry among existing competitors:  
 			Buyer Power:  
 			Supplier Power:  
 			Threat of substitutes:  
 			Threat of new entrants:  
 - Metrics
-	**User Acquisition**  
+&nbsp;**User Acquisition**  
 		How Many Users?  
 		How has the user base grown over time?
 		How many users are active?  
@@ -65,30 +65,30 @@ tags: [ 'business analysis', 'reporting', 'decision making']
 		Wheer are the referrals from?
 		Are the users referring others?
 		Which channels are most effective?  
-	**Activity**  
+&nbsp;**Activity**  
 		How many users are using specific features?
 		What percentage have completed a particular workflow?  
 		Is there feedback about the product?  
 		What is the feedback like?  
 		Can the feedback be measured?  
-	**Conversion and Retention**  
+&nbsp;**Conversion and Retention**  
 		What is the conversion rate?
 		What is the Free to Paid conversion rate?
 		What is the Visiting to Signup conversion rate?  
 		What is the churn rate?  
-	**Costs**  
+&nbsp;**Costs**  
 		What is the acquisition cost?  
 		What is the cost of supporting a customer?  
 		What is the average income from the customers?  
 		What is the lifetime values of the customers?  
 		What is the revenue growth rate?  
 - Reports  
-	Feasibility Study:  
-	Strategic Requirements Specification (SRS):  
-	Business Requirements Document (BRD):  
-	Requirements Analysis and Design Flow:  
-	Product Requirements Document (PRD):  
-	Framework:  
+&nbsp;Feasibility Study:  
+&nbsp;Strategic Requirements Specification (SRS):  
+&nbsp;Business Requirements Document (BRD):  
+&nbsp;Requirements Analysis and Design Flow:  
+&nbsp;Product Requirements Document (PRD):  
+&nbsp;Framework:  
 		**PIECES**  
 			Performance:  
 			Information:  
@@ -98,20 +98,20 @@ tags: [ 'business analysis', 'reporting', 'decision making']
 			Information:  
 			Service:  
 - Decision Frameworks  
-	**OODA**  
+&nbsp;**OODA**  
 		Observe:  
 		Orient:  
 		Decide:  
 		Act:  
-	**Analytic Hierarchy Process (AHP)**  
-	**Conjoint Analysis**  
-	**Pareto 80:20**  
-	*8Decision Trees**  
-	**Project Expected Outcomes**  
-	**Quantitive Strategic Planning Matrix (QSPM)**  
-	**The Futures Wheel**  
-	**Go/No Go Decisions**  
-	**TELOS**  
+&nbsp;**Analytic Hierarchy Process (AHP)**  
+&nbsp;**Conjoint Analysis**  
+&nbsp;**Pareto 80:20**  
+&nbsp;*8Decision Trees**  
+&nbsp;**Project Expected Outcomes**  
+&nbsp;**Quantitive Strategic Planning Matrix (QSPM)**  
+&nbsp;**The Futures Wheel**  
+&nbsp;**Go/No Go Decisions**  
+&nbsp;**TELOS**  
 		Technological:  
 		Economics:  
 		Legal:  
