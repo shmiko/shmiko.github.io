@@ -55,7 +55,6 @@ tags: [ 'business analysis', 'reporting', 'decision making']
 			Threat of substitutes:  
 			Threat of new entrants:  
 - Metrics
-	Product Metrics  
 		**User Acquisition**  
 			How Many Users?  
 			How has the user base grown over time?
