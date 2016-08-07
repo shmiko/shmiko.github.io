@@ -30,7 +30,7 @@ tags: [ 'business analysis', 'reporting', 'decision making']
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nurture:  
 
 &nbsp;Product Based  
-&nbsp;&nbsp;&nbsp;**7Ps**
+&nbsp;&nbsp;&nbsp;**7Ps**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Product:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Price:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Promotion:  
