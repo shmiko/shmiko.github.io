@@ -56,15 +56,15 @@ tags: [ 'business analysis', 'reporting', 'decision making']
 			Threat of new entrants:  
 - Metrics
 &nbsp;**User Acquisition**  
-		How Many Users?  
-		How has the user base grown over time?
-		How many users are active?  
-		Definition of an active user.  
-		Where are the users from?  
-		Where did the users go?  
-		Wheer are the referrals from?
-		Are the users referring others?
-		Which channels are most effective?  
+&nbsp;&nbsp;&nbsp;How Many Users?  
+&nbsp;&nbsp;&nbsp;How has the user base grown over time?
+&nbsp;&nbsp;&nbsp;How many users are active?  
+&nbsp;&nbsp;&nbsp;Definition of an active user.  
+&nbsp;&nbsp;&nbsp;Where are the users from?  
+&nbsp;&nbsp;&nbsp;Where did the users go?  
+&nbsp;&nbsp;&nbsp;Wheer are the referrals from?
+&nbsp;&nbsp;&nbsp;Are the users referring others?
+&nbsp;&nbsp;&nbsp;Which channels are most effective?  
 &nbsp;**Activity**  
 		How many users are using specific features?
 		What percentage have completed a particular workflow?  
