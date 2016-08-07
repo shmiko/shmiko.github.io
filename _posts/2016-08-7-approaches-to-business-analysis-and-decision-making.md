@@ -87,6 +87,7 @@ tags: [ 'business analysis', 'reporting', 'decision making']
 	Strategic Requirements Specification (SRS):  
 	Business Requirements Document (BRD):  
 	Requirements Analysis and Design Flow:  
+	Product Requirements Document (PRD):  
 	Framework:  
 		**PIECES**  
 			Performance:  
