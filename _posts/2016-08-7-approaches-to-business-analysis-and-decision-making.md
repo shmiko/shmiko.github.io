@@ -14,7 +14,7 @@ tags: [ 'business analysis', 'reporting', 'decision making']
 **Analytical Reports and Frameworks**  
 
 
-#### Frameworks   
+##### Frameworks   
 
 &nbsp;Customer Based  
 &nbsp;&nbsp;&nbsp;**AIDA**  
@@ -100,7 +100,7 @@ tags: [ 'business analysis', 'reporting', 'decision making']
 &nbsp;&nbsp;&nbsp;What is the revenue growth rate?  
 
 
-### Reports  
+##### Reports  
 
 &nbsp;Feasibility Study:  
 &nbsp;Strategic Requirements Specification (SRS):  
@@ -119,7 +119,7 @@ tags: [ 'business analysis', 'reporting', 'decision making']
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Service:  
 
 
-### Decision Frameworks  
+##### Decision Frameworks  
 
 &nbsp;**OODA**  
 &nbsp;&nbsp;&nbsp;Observe:  
