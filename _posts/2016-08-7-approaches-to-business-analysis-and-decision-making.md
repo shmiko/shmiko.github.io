@@ -12,9 +12,9 @@ tags: [ 'business analysis', 'reporting', 'decision making']
 ![Decisions](/img/decisions.jpg "Decision Making")
 
 **Analytical Reports and Frameworks**  
-* Frameworks   
-...   Customer Based  
-		**AIDA**  
+1. Frameworks   
+ A. Customer Based  
+  * **AIDA**  
 			Attention:  
 			Interest:  
 			Desire:  
