@@ -12,6 +12,7 @@ tags: [ 'business analysis', 'reporting', 'decision making']
 ![Decisions](/img/decisions.jpg "Decision Making")
 
 **Analytical Reports and Frameworks**  
+
 - Frameworks   
 &nbsp;Customer Based  
 &nbsp;&nbsp;&nbsp;**AIDA**  
@@ -54,6 +55,8 @@ tags: [ 'business analysis', 'reporting', 'decision making']
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Supplier Power:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Threat of substitutes:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Threat of new entrants:  
+
+
 - Metrics
 &nbsp;**User Acquisition**  
 &nbsp;&nbsp;&nbsp;How Many Users?  
@@ -82,6 +85,8 @@ tags: [ 'business analysis', 'reporting', 'decision making']
 &nbsp;&nbsp;&nbsp;What is the average income from the customers?  
 &nbsp;&nbsp;&nbsp;What is the lifetime values of the customers?  
 &nbsp;&nbsp;&nbsp;What is the revenue growth rate?  
+
+
 - Reports  
 &nbsp;Feasibility Study:  
 &nbsp;Strategic Requirements Specification (SRS):  
@@ -97,33 +102,52 @@ tags: [ 'business analysis', 'reporting', 'decision making']
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Efficiency:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Information:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Service:  
+
+
 - Decision Frameworks  
 &nbsp;**OODA**  
 &nbsp;&nbsp;&nbsp;Observe:  
 &nbsp;&nbsp;&nbsp;Orient:  
 &nbsp;&nbsp;&nbsp;Decide:  
 &nbsp;&nbsp;&nbsp;Act:  
+
 &nbsp;**Analytic Hierarchy Process (AHP)**  
+
 &nbsp;**Conjoint Analysis**  
+
 &nbsp;**Pareto 80:20**  
-&nbsp;*8Decision Trees**  
+
+&nbsp;**8Decision Trees**  
+
 &nbsp;**Project Expected Outcomes**  
+
 &nbsp;**Quantitive Strategic Planning Matrix (QSPM)**  
+
 &nbsp;**The Futures Wheel**  
+
 &nbsp;**Go/No Go Decisions**  
+
 &nbsp;**TELOS**  
 &nbsp;&nbsp;&nbsp;Technological:  
 &nbsp;&nbsp;&nbsp;Economics:  
 &nbsp;&nbsp;&nbsp;Legal:  
 &nbsp;&nbsp;&nbsp;Organisational:  
 &nbsp;&nbsp;&nbsp;Scheduling:  
+
 &nbsp;**Vroom-Yetton-Jago Decision Model**  
+
 &nbsp;**Risk Analysis/Risk Management**  
+
 &nbsp;**Quantitive Pros and Cons**  
+
 &nbsp;**Force Field Analysis**  
+
 &nbsp;**What If Analysis**  
+
 &nbsp;**Impact Analysis**  
+
 &nbsp;**Cost/Benefit Analysis (CBA)**  
+
 &nbsp;**Scenario Analysis**  
 
 
