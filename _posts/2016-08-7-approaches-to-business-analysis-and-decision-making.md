@@ -7,9 +7,9 @@ tags: [ 'business analysis']
 ---
 
 
-#### Approaches to Business Analysis and Decision Making
+#### Approaches to Business Analysis, Reporting and Decision Making
 
-![The Phoenix Project](/img/phoenix.png "The Phoenix Project")
+![Decisions](/img/decisions.png "Decision Making")
 
 **Analytical Reports and Frameworks:**  
 - Frameworks   
