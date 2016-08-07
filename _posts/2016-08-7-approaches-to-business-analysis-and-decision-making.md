@@ -117,13 +117,13 @@ tags: [ 'business analysis', 'reporting', 'decision making']
 		Legal:  
 		Organisational:  
 		Scheduling:  
-	**Vroom-Yetton-Jago Decision Model**  
-	**Risk Analysis/Risk Management**  
-	**Quantitive Pros and Cons**  
-	**Force Field Analysis**  
-	**What If Analysis**  
-	**Impact Analysis**  
-	**Cost/Benefit Analysis (CBA)**  
-	**Scenario Analysis**  
+&nbsp;**Vroom-Yetton-Jago Decision Model**  
+&nbsp;**Risk Analysis/Risk Management**  
+&nbsp;**Quantitive Pros and Cons**  
+&nbsp;**Force Field Analysis**  
+&nbsp;**What If Analysis**  
+&nbsp;**Impact Analysis**  
+&nbsp;**Cost/Benefit Analysis (CBA)**  
+&nbsp;**Scenario Analysis**  
 
 
