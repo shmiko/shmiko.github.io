@@ -66,16 +66,16 @@ tags: [ 'business analysis', 'reporting', 'decision making']
 &nbsp;&nbsp;&nbsp;Are the users referring others?
 &nbsp;&nbsp;&nbsp;Which channels are most effective?  
 &nbsp;**Activity**  
-		How many users are using specific features?
-		What percentage have completed a particular workflow?  
-		Is there feedback about the product?  
-		What is the feedback like?  
-		Can the feedback be measured?  
+&nbsp;&nbsp;&nbsp;How many users are using specific features?
+&nbsp;&nbsp;&nbsp;What percentage have completed a particular workflow?  
+&nbsp;&nbsp;&nbsp;Is there feedback about the product?  
+&nbsp;&nbsp;&nbsp;What is the feedback like?  
+&nbsp;&nbsp;&nbsp;Can the feedback be measured?  
 &nbsp;**Conversion and Retention**  
-		What is the conversion rate?
-		What is the Free to Paid conversion rate?
-		What is the Visiting to Signup conversion rate?  
-		What is the churn rate?  
+&nbsp;&nbsp;&nbsp;What is the conversion rate?
+&nbsp;&nbsp;&nbsp;What is the Free to Paid conversion rate?
+&nbsp;&nbsp;&nbsp;What is the Visiting to Signup conversion rate?  
+&nbsp;&nbsp;&nbsp;What is the churn rate?  
 &nbsp;**Costs**  
 		What is the acquisition cost?  
 		What is the cost of supporting a customer?  
