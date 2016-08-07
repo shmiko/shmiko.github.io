@@ -14,24 +14,26 @@ tags: [ 'business analysis', 'reporting', 'decision making']
 **Analytical Reports and Frameworks**  
 
 - Frameworks   
+
 &nbsp;Customer Based  
 &nbsp;&nbsp;&nbsp;**AIDA**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Attention:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Interest:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Desire:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Action:  
+
 &nbsp;&nbsp;&nbsp;**REAN**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Reach:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Engage:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Activate:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nurture:  
+
 &nbsp;Product Based  
-&nbsp;&nbsp;&nbsp;**4Ps** or **7Ps**
+&nbsp;&nbsp;&nbsp;**7Ps**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Product:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Price:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Promotion:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Place:  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;---  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;People:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Process:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Physical Evidence:  
@@ -97,11 +99,13 @@ tags: [ 'business analysis', 'reporting', 'decision making']
 
 
 - Reports  
+
 &nbsp;Feasibility Study:  
 &nbsp;Strategic Requirements Specification (SRS):  
 &nbsp;Business Requirements Document (BRD):  
 &nbsp;Requirements Analysis and Design Flow:  
 &nbsp;Product Requirements Document (PRD):  
+
 &nbsp;Framework:  
 &nbsp;&nbsp;&nbsp;**PIECES**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Performance:  
