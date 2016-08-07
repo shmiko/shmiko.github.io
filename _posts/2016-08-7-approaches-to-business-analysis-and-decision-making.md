@@ -77,11 +77,11 @@ tags: [ 'business analysis', 'reporting', 'decision making']
 &nbsp;&nbsp;&nbsp;What is the Visiting to Signup conversion rate?  
 &nbsp;&nbsp;&nbsp;What is the churn rate?  
 &nbsp;**Costs**  
-		What is the acquisition cost?  
-		What is the cost of supporting a customer?  
-		What is the average income from the customers?  
-		What is the lifetime values of the customers?  
-		What is the revenue growth rate?  
+&nbsp;&nbsp;&nbsp;What is the acquisition cost?  
+&nbsp;&nbsp;&nbsp;What is the cost of supporting a customer?  
+&nbsp;&nbsp;&nbsp;What is the average income from the customers?  
+&nbsp;&nbsp;&nbsp;What is the lifetime values of the customers?  
+&nbsp;&nbsp;&nbsp;What is the revenue growth rate?  
 - Reports  
 &nbsp;Feasibility Study:  
 &nbsp;Strategic Requirements Specification (SRS):  
@@ -89,7 +89,7 @@ tags: [ 'business analysis', 'reporting', 'decision making']
 &nbsp;Requirements Analysis and Design Flow:  
 &nbsp;Product Requirements Document (PRD):  
 &nbsp;Framework:  
-		**PIECES**  
+&nbsp;&nbsp;&nbsp;**PIECES**  
 			Performance:  
 			Information:  
 			Economy:  
@@ -99,10 +99,10 @@ tags: [ 'business analysis', 'reporting', 'decision making']
 			Service:  
 - Decision Frameworks  
 &nbsp;**OODA**  
-		Observe:  
-		Orient:  
-		Decide:  
-		Act:  
+&nbsp;&nbsp;&nbsp;Observe:  
+&nbsp;&nbsp;&nbsp;Orient:  
+&nbsp;&nbsp;&nbsp;Decide:  
+&nbsp;&nbsp;&nbsp;Act:  
 &nbsp;**Analytic Hierarchy Process (AHP)**  
 &nbsp;**Conjoint Analysis**  
 &nbsp;**Pareto 80:20**  
@@ -112,11 +112,11 @@ tags: [ 'business analysis', 'reporting', 'decision making']
 &nbsp;**The Futures Wheel**  
 &nbsp;**Go/No Go Decisions**  
 &nbsp;**TELOS**  
-		Technological:  
-		Economics:  
-		Legal:  
-		Organisational:  
-		Scheduling:  
+&nbsp;&nbsp;&nbsp;Technological:  
+&nbsp;&nbsp;&nbsp;Economics:  
+&nbsp;&nbsp;&nbsp;Legal:  
+&nbsp;&nbsp;&nbsp;Organisational:  
+&nbsp;&nbsp;&nbsp;Scheduling:  
 &nbsp;**Vroom-Yetton-Jago Decision Model**  
 &nbsp;**Risk Analysis/Risk Management**  
 &nbsp;**Quantitive Pros and Cons**  
