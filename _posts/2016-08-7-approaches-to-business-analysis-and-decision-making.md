@@ -47,8 +47,8 @@ tags: [ 'business analysis', 'reporting', 'decision making']
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Customers:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Collaborators:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Climate:  
-&nbsp;Industry Based
-&nbsp;&nbsp;&nbsp;**Porter's 5 Forces**
+&nbsp;Industry Based  
+&nbsp;&nbsp;&nbsp;**Porter's 5 Forces**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rivalry among existing competitors:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Buyer Power:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Supplier Power:  
