@@ -49,11 +49,11 @@ tags: [ 'business analysis', 'reporting', 'decision making']
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Climate:  
 &nbsp;Industry Based
 &nbsp;&nbsp;&nbsp;**Porter's 5 Forces**
-			Rivalry among existing competitors:  
-			Buyer Power:  
-			Supplier Power:  
-			Threat of substitutes:  
-			Threat of new entrants:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rivalry among existing competitors:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Buyer Power:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Supplier Power:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Threat of substitutes:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Threat of new entrants:  
 - Metrics
 &nbsp;**User Acquisition**  
 &nbsp;&nbsp;&nbsp;How Many Users?  
