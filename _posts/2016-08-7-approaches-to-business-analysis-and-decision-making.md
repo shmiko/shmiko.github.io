@@ -9,7 +9,7 @@ tags: [ 'business analysis', 'reporting', 'decision making']
 
 #### Approaches to Business Analysis, Reporting and Decision Making
 
-![Decisions](/img/decisions.png "Decision Making")
+![Decisions](/img/decisions.jpg "Decision Making")
 
 **Analytical Reports and Frameworks**  
 - Frameworks   
