@@ -152,7 +152,6 @@ tags: [ 'business analysis', 'reporting', 'decision making']
 &nbsp;&nbsp;&nbsp;Organisational:  
 &nbsp;&nbsp;&nbsp;Scheduling:  
 
-
 &nbsp;**Vroom-Yetton-Jago Decision Model**  
 
 &nbsp;**Risk Analysis/Risk Management**  
