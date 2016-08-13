@@ -19,7 +19,6 @@ tags: [ 'google maps', 'API', 'javascript']
 &nbsp;**2.** Now once this is done you will need to register an application for using the Google API's needed for the app. Go here to do that... [Sign-Up for Google API](https://console.developers.google.com)  
 &nbsp;&nbsp;Click 'Select a Project' and now click 'Create a Project' at the top right hand side of the screen.  
 ![Create a Project](/img/create_google_project.png "Create a Project")  
-
 &nbsp;&nbsp;Give your project a name, choose whether to allow updates by email and then accept the licence aggreement. Click Create.  
 
 &nbsp;**3.** For this app we'll be wanting to enable the following Google API's.  
@@ -37,11 +36,11 @@ tags: [ 'google maps', 'API', 'javascript']
 &nbsp;&nbsp;Under 'Google Maps APIs' click each of the above APIs and click the enable button.  
 
 &nbsp;**4.** Click'Credentials' on the left side of the window.  
+![Create API Keys](/img/APIKeys.png "Create API Keys")
 &nbsp;&nbsp;Select the option API Key.  This API Key identifies your project to check quotas and access.  
 &nbsp;&nbsp;Select the 'Browser Key' button.  
 &nbsp;&nbsp;Give your API Key a name and click 'Create'.  
 &nbsp;&nbsp;Select the 'Server Key' button, this is for making server side requests, and again name your key and click 'create'.  
-![Create API Keys](/img/APIKeys.png "Create API Keys")
 
 You now have registered an application and set up and enabled access to all of the APIs your app will need access to.  
 
