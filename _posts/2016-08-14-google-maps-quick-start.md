@@ -47,7 +47,35 @@ You now have registered an application and set up and enabled access to all of t
 We are ready to move on to creating a starter html page displaying a map.  
 
 
-##### Lets build out our start map
+### Lets build out our start map
+
+We are using the latest version 3.24 of the Google javascript API.  
+&nbsp;**1.** Setup the basic html page.  
+&nbsp;&nbsp;Add the following CSS to apply a little bit of formatting and sizing for the map.      
+&nbsp;&nbsp;Add the following script to pull in the google map API resource.  
+&nbsp;&nbsp;&nbsp;&nbsp;You will need to replace API_KEY with the browser API key you set up earlier.  
+&nbsp;&nbsp;Now save the html page, if you are in a new project directoty then just call it index.html.
+
+&nbsp;&nbsp;Because this is front end development only you will need to be running a web server to actually run this website locally and make the API calls. 
+
+**Sidetrack** 
+### Lets quickly setup a web server to eable running locally.  
+
+This very simple server is intended to be run using a Mac as Python is installed by default with OS X and as such this server command will just work.
+
+&nbsp;&nbsp;Go to the command line and run the following to open your default browser to display the page just created which should now show a basic google map
+```javascript
+open "http://localhost:8888" && python -m SimpleHTTPServer 8888
+```
+**Windows users** Go to Google nd search for WAMP. Open the page and install this package. This will enable the same functionality in a sigle package install.  
+Alternatively it is probably easier to run a node js server if you are comfortable doing so, but if you are not familiar with using the command line then stick to WAMP.
+WAMP however will install more than just a web server and as such you will get a full blown back end environment ready to run sites with an Apache Server, MySQL Database and suitable for running PHP in addition to other code based pages.  
+
+
+
+
+
+
 
 
 
