@@ -58,18 +58,25 @@ We are using the latest version 3.24 of the Google javascript API.
 
 &nbsp;&nbsp;Because this is front end development only you will need to be running a web server to actually run this website locally and make the API calls. 
 
-**Sidetrack** 
+**Sidetrack**  
 ### Lets quickly setup a web server to eable running locally.  
 
-This very simple server is intended to be run using a Mac as Python is installed by default with OS X and as such this server command will just work.
+This very simple server is intended to be run using a Mac as Python is installed by default with OS X and as such this server command will just work.  
 
-&nbsp;&nbsp;Go to the command line and run the following to open your default browser to display the page just created which should now show a basic google map
+&nbsp;&nbsp;Go to the command line and run the following to open your default browser to display the page just created which should now show a basic google map.  
+
 ```javascript
 open "http://localhost:8888" && python -m SimpleHTTPServer 8888
 ```
-**Windows users** Go to Google nd search for WAMP. Open the page and install this package. This will enable the same functionality in a sigle package install.  
-Alternatively it is probably easier to run a node js server if you are comfortable doing so, but if you are not familiar with using the command line then stick to WAMP.
+
+**Windows users**  
+Go to Google and search for WAMP.  
+Open the page and install this package.  
+This will enable the same functionality in a sigle package install.    
+Alternatively it is probably easier to run a node js server if you are comfortable doing so, but if you are not familiar with using the command line then stick to WAMP.  
 WAMP however will install more than just a web server and as such you will get a full blown back end environment ready to run sites with an Apache Server, MySQL Database and suitable for running PHP in addition to other code based pages.  
+
+
 
 
 
