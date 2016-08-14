@@ -42,6 +42,7 @@ tags: [ 'google maps', 'API', 'javascript']
 &nbsp;&nbsp;Give your API Key a name and click 'Create'.  
 &nbsp;&nbsp;It is important that you also add in a referral url, this is a web page that will be making requests to use your API key, unless you specificy the url here it will be wide open for anyone to use should they get a copy of your API.  
 By having a referral url you limit the requests to only those known hosts. As such when developing locally all you need to do here is add 'localhost:8080'. Save.    
+![Referral](/img/referral.png "Referral")  
 &nbsp;&nbsp;Select the 'Server Key' button, this is for making server side requests, and again name your key and click 'create'.  
 
 You now have registered an application and set up and enabled access to all of the APIs your app will need access to.  
