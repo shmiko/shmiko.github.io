@@ -63,9 +63,9 @@ We are using the latest version 3.24 of the Google javascript API.
 ### Lets quickly setup a web server to eable running locally.  
 
 This very simple server is intended to be run using a Mac as Python is installed by default with OS X and as such this server command will just work.  
-&nbsp;&nbsp;Go to the command line and run the following to open your default browser to display the page just created which should now show a basic google map.  
+&nbsp;&nbsp;Go to the command line and change to the current working directory and run the following to open your default browser to display the page just created which should now show a basic google map.  
 ```javascript
-open "http://localhost:8888" && python -m SimpleHTTPServer 8888
+open "http://localhost:8080" && python -m SimpleHTTPServer 8080
 ```
 
 
