@@ -221,6 +221,7 @@ We will start by simply setting a variable to hold the coords for the location m
   var markers = [];
 ```
 
+
 &nbsp;**2.** Add an array of locations, each with a title and coords.   
 These locations would be best served up from a database but for now we will hardcode them.   
 
@@ -236,11 +237,13 @@ These locations would be best served up from a database but for now we will hard
 	];
 ```
 
+
 &nbsp;**3.** Add a new Info Window method without content attribute which will be used within the loop.     
 
 ```javascript
   	var largeInfowindow = new google.maps.InfoWindow();
 ```
+
 
 &nbsp;**4.** We will loop through the locations array to create markers for each.   
 
@@ -267,6 +270,7 @@ These locations would be best served up from a database but for now we will hard
       bounds.extend(markers[i].position);
     }
 ```
+
 
 &nbsp;**5.** Create a function to populate the info window when a marker is clicked     
 
@@ -297,6 +301,7 @@ These locations would be best served up from a database but for now we will hard
   	// Extend the boundaries of the map for each marker
     bounds.extend(markers[i].position);
 ```
+
 
 &nbsp;**7.** Tell the map to fit within the bounds set.    
 
