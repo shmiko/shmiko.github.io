@@ -216,9 +216,11 @@ We will start by simply setting a variable to hold the coords for the location m
 
 
 &nbsp;**1.** Let remove our single marker variable and change it to an empty marker array.   
+
 ```javascript
   var markers = [];
 ```
+
 &nbsp;**2.** Add an array of locations, each with a title and coords.   
 These locations would be best served up from a database but for now we will hardcode them.   
 
