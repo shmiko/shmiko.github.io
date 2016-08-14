@@ -191,7 +191,7 @@ We will start by simply setting a variable to hold the coords for the location m
 &nbsp;Reload the map and you will now see a map marker showing based on the position you set.  
 ![Map Marker](/img/marker.png "Map Marker")  
 
-### Lets add an Info Window popup when we click the mrker
+### Lets add an Info Window popup when we click the marker
 
 
 &nbsp;**1.** Start by setting a variable to hold the infoWindow. Include a content attribute with text which will display within the popup window.  
@@ -199,7 +199,7 @@ We will start by simply setting a variable to hold the coords for the location m
 
 
 ```javascript
-	var infowindow = new google.maps.infoWindow({
+var infowindow = new google.maps.infoWindow({
     	content: 'The Sydney Opera House is a major tourist attraction on the harbour' + 
     	' with direct view of the Sydney Harbour Bridge'
     });
