@@ -141,7 +141,7 @@ We are using the latest version 3.24 of the Google javascript API.
 &nbsp;&nbsp;&nbsp;&nbsp;You will need to replace API_KEY with the browser API key you set up earlier.  
 &nbsp;&nbsp;Now save the html page, if you are in a new project directoty then just call it index.html, otherwise call it whatever you wish.  
 ![Start Map Result](/img/start_map.png "Start Map Result")
-&nbsp;&nbsp;Because this is front end development only you will need to be running a web server to actually run this website locally and make the API calls. 
+&nbsp;&nbsp;Because this is front end development only you will need to be running a web server to actually run this website locally and make the API calls.  
 &nbsp;&nbsp;If you try to run you page you should get an error loading the map as the file path is not an authorised host to make requests to the google map s API using your API key. Hence why we need to run a local web server to serve the page and which also was added as a url referral when setting up the API browser key.  
  
 &nbsp;&nbsp;You can and should split out the above code so as you have a seperate CSS file as well as a separate JS file, but for simplicity sake I have included them within a single file.
