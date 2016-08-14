@@ -62,7 +62,9 @@ We are using the latest version 3.24 of the Google javascript API.
 </body>
 </html>
 ```
+
 &nbsp;&nbsp;Add the following CSS to apply a little bit of formatting and sizing for the map.  
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -86,6 +88,7 @@ We are using the latest version 3.24 of the Google javascript API.
 </html>  
 &nbsp;&nbsp;Add a DIV tag with an ID of map.  
 &nbsp;&nbsp;Next add the following script to pull in the google map API resource.  
+
 ```html
 <!DOCTYPE html>
 <html>
@@ -122,6 +125,7 @@ We are using the latest version 3.24 of the Google javascript API.
 </body>
 </html> 
 ``` 
+
 &nbsp;&nbsp;&nbsp;&nbsp;You will need to replace API_KEY with the browser API key you set up earlier.  
 &nbsp;&nbsp;Now save the html page, if you are in a new project directoty then just call it index.html.
 &nbsp;**4.** Click'Credentials' on the left side of the window.  
