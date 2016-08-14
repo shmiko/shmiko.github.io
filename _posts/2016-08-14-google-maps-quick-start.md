@@ -212,6 +212,98 @@ We will start by simply setting a variable to hold the coords for the location m
 ![Info Window](/img/info_window.png "Info Window")  
 
 
+### Multiple locations each showing a marker
+
+
+&nbsp;**1.** Let remove our single marker variable and change it to an empty marker array.   
+```javascript
+  var markers = [];
+```
+&nbsp;**2.** Add an array of locations, each with a title and coords.   
+These locations would be best served up from a database but for now we will hardcode them.   
+
+```javascript
+  	//locations array - usually these would be served up via a database
+	var locations = [
+		{title: 'Sydney Opera House', location: {lat: -33.856159, lng: 151.215256}},
+		{title: 'Sydney Harbour Bridge', location: {lat: -33.8523,lng: 151.2108}},
+		{title: 'Botanic Gardens', location: {lat: -33.8642,lng: 151.2166}},
+		{title: 'The Rocks', location: {lat: -33.8599,lng: 151.2090}},
+		{title: 'Glebe', location: {lat: -33.8798,lng: 151.1854}},
+		{title: 'Balmain', location: {lat: -33.8589,lng: 151.1791}}
+	];
+```
+
+&nbsp;**3.** Add a new Info Window method without content attribute which will be used within the loop.     
+
+```javascript
+  	var largeInfowindow = new google.maps.InfoWindow();
+```
+
+&nbsp;**4.** We will loop through the locations array to create markers for each.   
+
+```javascript
+  	// The following group uses the location array to create an array of markers on initialize.
+    for (var i = 0; i < locations.length; i++) {
+      // Get the position from the location array.
+      var position = locations[i].location;
+      var title = locations[i].title;
+      // Create a marker per location, and put into markers array.
+      var marker = new google.maps.Marker({
+        map: map,
+        position: position,
+        title: title,
+        animation: google.maps.Animation.DROP,
+        id: i
+      });
+      // Push the marker to our array of markers.
+      markers.push(marker);
+      // Create an onclick event to open an infowindow at each marker.
+      marker.addListener('click', function() {
+        populateInfoWindow(this, largeInfowindow);
+      });
+      bounds.extend(markers[i].position);
+    }
+```
+
+&nbsp;**5.** Create a function to populate the info window when a marker is clicked     
+
+```javascript
+  // This function populates the infowindow when the marker is clicked. We'll only allow
+  // one infowindow which will open at the marker that is clicked, and populate based
+  // on that markers position.
+  function populateInfoWindow(marker, infowindow) {
+    // Check to make sure the infowindow is not already opened on this marker.
+    if (infowindow.marker != marker) {
+      infowindow.marker = marker;
+      infowindow.setContent('<div>' + marker.title + '</div>');
+      infowindow.open(map, marker);
+      // Make sure the marker property is cleared if the infowindow is closed.
+      infowindow.addListener('closeclick',function(){
+        infowindow.setMarker(null);
+      });
+    }
+  }
+```
+
+
+&nbsp;**6.** Set the bounds of the map, bounds relate to the furthest points in the viewpoint.    
+
+```javascript
+  	var bounds =  new google.maps.LatLngBounds();
+
+  	// Extend the boundaries of the map for each marker
+    bounds.extend(markers[i].position);
+```
+
+&nbsp;**7.** Tell the map to fit within the bounds set.    
+
+```javascript
+  	map.fitBounds(bounds);
+```
+
+
+![Multiple Loctions](/img/multiple_locations.png "Multiple Loctions")  
 
 
 
