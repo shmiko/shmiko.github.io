@@ -199,7 +199,7 @@ We will start by simply setting a variable to hold the coords for the location m
 
 
 ```javascript
-	var infowindow = new google.maps.infoWindow({
+  var infowindow = new google.maps.infoWindow({
     	content: 'The Sydney Opera House is a major tourist attraction on the harbour' + 
     	' with direct view of the Sydney Harbour Bridge'
     });
