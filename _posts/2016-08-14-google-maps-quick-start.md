@@ -168,7 +168,7 @@ WAMP however will install more than just a web server and as such you will get a
 
 ### Lets add some locations and markers to the map
 
-We will start by simply setting a variable to hold the coords for the location marker but later we will explore how to retrive the co ordinates from an address or the  current location of the device loading the page.  
+We will start by simply setting a variable to hold the coords for the location marker but later we will explore how to get the coordinates from an address or the current location of the device loading the page.  
 
 &nbsp;**1.** Add a variable to hold an object containing lat and lng attributes.  
 
@@ -188,11 +188,28 @@ We will start by simply setting a variable to hold the coords for the location m
     });
 ```
 
-&nbsp;Reload the map and you willnow see a map marker showing based on the position you set.  
+&nbsp;Reload the map and you will now see a map marker showing based on the position you set.  
 ![Map Marker](/img/marker.png "Map Marker")  
 
+### Lets add an Info Window popup when we click the mrker
 
 
+&nbsp;**1.** Start by setting a variable to hold the infoWindow. Include a content attribute with text which will display within the popup window.  
+&nbsp;**2.** Assign the infoWindow to the marker previousley added via an addListener method.  
+
+
+```javascript
+	var infowindow = new google.maps.infoWindow({
+    	content: 'The Sydney Opera House is a major tourist attraction on the harbour' + 
+    	' with direct view of the Sydney Harbour Bridge'
+    });
+    marker.addListener('click', function(){
+    	//arguments are for the destination map and the anchor point - if you do not use the marker variable you would specify a point.
+    	infowindow.open(map, marker);
+    });
+```
+
+![Info Window](/img/info_window.png "Info Window")  
 
 
 
