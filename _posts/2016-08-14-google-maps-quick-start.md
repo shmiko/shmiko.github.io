@@ -189,6 +189,7 @@ We will start by simply setting a variable to hold the coords for the location m
 ```
 
 &nbsp;Reload the map and you willnow see a map marker showing based on the position you set.  
+![Map Marker](/img/marker.png "Map Marker")  
 
 
 
