@@ -174,8 +174,22 @@ We will start by simply setting a variable to hold the coords for the location m
 
 
 ```javascript
-	var opera_house = {lat: ‎-33.856159,lng: 151.215256	};
+	var opera_house = {lat: -33.856159, lng: 151.215256};
 ```  
+
+&nbsp;**2.** Add a variable to hold the locations marker.  Specifying the position which is the coors previousley set, the map for which the marker is to appear and in addition to those 2 required attributes we will set a title which will show up on hover of the location on the map.  
+
+
+```javascript
+	var marker = new google.maps.Marker({
+      position: opera_house,
+      map: map,
+      title: 'Sydney Opera House'
+    });
+```
+
+&nbsp;Reload the map and you willnow see a map marker showing based on the position you set.  
+
 
 
 
