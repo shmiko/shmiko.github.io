@@ -13,7 +13,7 @@ tags: [ 'google maps', 'API', 'javascript']
 
 ### First Things First - Setting up your application
 
-&nbsp;**1.** Sign-up in to your google account.  
+&nbsp;**1.** Sign-in to your google account.  
 &nbsp;&nbsp;If you really don't have one yet then go here to sign up for one... [Sign-Up for Google Account](https://accounts.google.com)    
 
 &nbsp;**2.** Now once this is done you will need to register an application for using the Google API's needed for the app. Go here to do that... [Sign-Up for Google API](https://console.developers.google.com)  
