@@ -41,7 +41,7 @@ tags: [ 'google maps', 'API', 'javascript']
 &nbsp;&nbsp;Select the 'Browser Key' button.  
 &nbsp;&nbsp;Give your API Key a name and click 'Create'.  
 &nbsp;&nbsp;It is important that you also add in a referral url, this is a web page that will be making requests to use your API key, unless you specificy the url here it will be wide open for anyone to use should they get a copy of your API.  
-By having a referral url you limit the requests to only those known hosts. As such when developing locally all you need to do here is add 'localhost:8080'. Save.    
+&nbsp;&nbsp;By having a referral url you limit the requests to only those known hosts. As such when developing locally all you need to do here is add 'localhost:8080'. Save.    
 ![Referral](/img/referral.png "Referral")  
 &nbsp;&nbsp;Select the 'Server Key' button, this is for making server side requests, and again name your key and click 'create'.  
 
@@ -142,7 +142,7 @@ We are using the latest version 3.24 of the Google javascript API.
 &nbsp;&nbsp;Now save the html page, if you are in a new project directoty then just call it index.html, otherwise call it whatever you wish.  
 ![Start Map Result](/img/start_map.png "Start Map Result")
 &nbsp;&nbsp;Because this is front end development only you will need to be running a web server to actually run this website locally and make the API calls. 
-If you try to run you page you should get an error loading the map as the file path is not an authorised host to make requests to the google map s API using your API key. Hence why we need to run a local web server to serve the page and which also was added as a url referral when setting up the API browser key.  
+&nbsp;&nbsp;If you try to run you page you should get an error loading the map as the file path is not an authorised host to make requests to the google map s API using your API key. Hence why we need to run a local web server to serve the page and which also was added as a url referral when setting up the API browser key.  
  
 
 ### Lets quickly setup a web server to eable running locally.  
