@@ -148,9 +148,9 @@ We are using the latest version 3.24 of the Google javascript API.
 
 
 
-### Lets quickly setup a web server to eable running locally.  
+### Lets quickly setup a web server to enable running locally.  
 
-This very simple server is intended to be run using a Mac as Python is installed by default with OS X and as such this server command will just work.  
+This very simple server is intended to be run whilst using a Mac, Python is installed by default with OS X and as such this server command will just work out of the box.  
 &nbsp;&nbsp;Go to the command line and change to the current working directory and run the following to open your default browser to display the page just created which should now show a basic google map.  
 ```javascript
 open "http://localhost:8080" && python -m SimpleHTTPServer 8080
@@ -165,6 +165,17 @@ Alternatively it is probably easier to run a node js server if you are comfortab
 WAMP however will install more than just a web server and as such you will get a full blown back end environment ready to run sites with an Apache Server, MySQL Database and suitable for running PHP in addition to other code based pages.  
 
 
+
+### Lets add some locations and markers to the map
+
+We will start by simply setting a variable to hold the coords for the location marker but later we will explore how to retrive the co ordinates from an address or the  current location of the device loading the page.  
+
+&nbsp;**1.** Add a variable to hold an object containing lat and lng attributes.  
+
+
+```javascript
+	var opera_house = {lat: ‎-33.856159,lng: 151.215256	};
+```  
 
 
 
