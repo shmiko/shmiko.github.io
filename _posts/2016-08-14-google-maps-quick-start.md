@@ -51,11 +51,81 @@ We are ready to move on to creating a starter html page displaying a map.
 
 We are using the latest version 3.24 of the Google javascript API.  
 &nbsp;**1.** Setup the basic html page.  
-&nbsp;&nbsp;Add the following CSS to apply a little bit of formatting and sizing for the map.      
-&nbsp;&nbsp;Add the following script to pull in the google map API resource.  
+```html
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Start Map</title>
+</head>
+<body>
+	
+</body>
+</html>
+```
+&nbsp;&nbsp;Add the following CSS to apply a little bit of formatting and sizing for the map.  
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Start Map</title>
+	<style>
+		html,body{
+			font-family: Arial, sans-serif;
+			height: 100%;
+			margin: 0;
+			padding: 0;
+		}
+
+		#map{
+			height: 100%;
+		}
+	</style>
+</head>
+<body>
+	
+</body>
+</html>  
+&nbsp;&nbsp;Add a DIV tag with an ID of map.  
+&nbsp;&nbsp;Next add the following script to pull in the google map API resource.  
+```html
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Start Map</title>
+	<style>
+		html,body{
+			font-family: Arial, sans-serif;
+			height: 100%;
+			margin: 0;
+			padding: 0;
+		}
+
+		#map{
+			height: 100%;
+		}
+	</style>
+</head>
+<body>
+	<div id="map"></div>
+    <script>
+      var map;
+      function initMap() {
+        // This constructor creates a new google map - center and zoom are the only default arguments required.
+        map = new google.maps.Map(document.getElementById('map'), {
+          center: {lat: -33.869831, lng: 151.196872 },
+		  zoom: 8
+        });
+      }
+    </script>
+    <script async defer
+        src="https://maps.googleapis.com/maps/api/js?key=API_KEY&v=3&callback=initMap">
+    </script>
+</body>
+</html> 
+``` 
 &nbsp;&nbsp;&nbsp;&nbsp;You will need to replace API_KEY with the browser API key you set up earlier.  
 &nbsp;&nbsp;Now save the html page, if you are in a new project directoty then just call it index.html.
-
+&nbsp;**4.** Click'Credentials' on the left side of the window.  
+![Start Map Result](/img/start_map.png "Start Map Result")
 &nbsp;&nbsp;Because this is front end development only you will need to be running a web server to actually run this website locally and make the API calls. 
 
  
