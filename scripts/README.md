@@ -19,3 +19,5 @@ integrate-personal
 
 
 to run ./scripts/generate-tags etc
+
+do the same for cats
