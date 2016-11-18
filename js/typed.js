@@ -18,7 +18,7 @@
 // AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 // LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 // OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-// THE SOFTWARE.
+// THE SOFTWARE. OK
 
 !function(d){var f=function(b,c){this.el=d(b);this.options=d.extend({},d.fn.typed.defaults,c);this.isInput=this.el.is("input");this.attr=this.options.attr;this.showCursor=this.isInput?!1:this.options.showCursor;this.elContent=this.attr?this.el.attr(this.attr):this.el.text();this.contentType=this.options.contentType;this.typeSpeed=this.options.typeSpeed;this.startDelay=this.options.startDelay;this.backSpeed=this.options.backSpeed;this.backDelay=this.options.backDelay;this.stringsElement=this.options.stringsElement;
 this.strings=this.options.strings;this.stopNum=this.arrayPos=this.strPos=0;this.loop=this.options.loop;this.loopCount=this.options.loopCount;this.curLoop=0;this.stop=!1;this.cursorChar=this.options.cursorChar;this.shuffle=this.options.shuffle;this.sequence=[];this.build()};f.prototype={constructor:f,init:function(){var b=this;b.timeout=setTimeout(function(){for(var c=0;c<b.strings.length;++c)b.sequence[c]=c;b.shuffle&&(b.sequence=b.shuffleArray(b.sequence));b.typewrite(b.strings[b.sequence[b.arrayPos]],
