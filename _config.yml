@@ -101,7 +101,7 @@ events:
   - image: "/img/timeline/san-francisco.jpg"
     date: "June 18 2018"
     description: "San Fransisco"
-  - image: "/img/timeline/Yellowstone.jpg"
+  - image: "/img/timeline/yellowstone.jpg"
     date: "June 23 2018"
     description: "Yellowstone"
   - image: "/img/timeline/LasVegas.png"
