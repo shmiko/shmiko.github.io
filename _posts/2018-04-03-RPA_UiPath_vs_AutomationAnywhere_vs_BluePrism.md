@@ -19,7 +19,3 @@ tags: [ 'automation','process','business','RPA']
 
 ### How do you get certified?   
 
-
-
-
-
