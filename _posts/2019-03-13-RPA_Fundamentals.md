@@ -1,13 +1,13 @@
 ---
 layout: post
 section-type: post
-title: RPA UiPath Fundamentals
+title: RPA Fundamentals
 categories: ['programming','RPA']
 tags: [ 'automation','process','business','RPA']
 ---
 
 
-### RPA UiPath Fundamentals 
+### RPA Fundamentals 
 
 ### Getting a Team Together 
 
