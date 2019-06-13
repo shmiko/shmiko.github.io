@@ -98,14 +98,14 @@ syntax-highlight: True
 ###############
 
 events:
-  - image: "/img/timeline/MonumentValleySnowTrees.jpg"
-    date: "January 18 2016"
-    description: "Monumnet Valley"
-  - image: "/img/timeline/AntelopeCanyon.jpg"
-    date: "January 13 2016"
-    description: "Antelope Canyon"
+  - image: "/img/timeline/san-francisco.jpg"
+    date: "June 18 2018"
+    description: "San Fransisco"
+  - image: "/img/timeline/Yellowstone.jpg"
+    date: "June 23 2018"
+    description: "Yellowstone"
   - image: "/img/timeline/LasVegas.png"
-    date: "January 11 2016"
+    date: "July 11 2018"
     description: "Las Vegas"
 
 # First image of the Timeline
