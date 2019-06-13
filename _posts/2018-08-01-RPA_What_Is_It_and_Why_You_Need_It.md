@@ -8,6 +8,7 @@ tags: [ 'automation','process','business','RPA']
 
 
 ## RPA  
+![Decisions](/img/rpa_eye_see.jpg "RPA")
 
 ### What is it? 
 
