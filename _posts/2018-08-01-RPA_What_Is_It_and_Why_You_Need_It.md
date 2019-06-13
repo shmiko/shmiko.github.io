@@ -7,12 +7,11 @@ tags: [ 'automation','process','business']
 ---
 
 
-## RPA 
+## RPA  
 
 ### What is it? 
 
-### Remember Business Process Improvement(BPI)  
-#### Well it got a new look - RPA
+### Remember Business Process Improvement(BPI) - Well it's got a new name - RPA
 
 ### What tools are available?
 
