@@ -2,8 +2,8 @@
 layout: post
 section-type: post
 title: RPA What is it and why you need it
-categories: ['programming']
-tags: [ 'automation','process','business']
+categories: ['programming','RPA']
+tags: [ 'automation','process','business','RPA']
 ---
 
 

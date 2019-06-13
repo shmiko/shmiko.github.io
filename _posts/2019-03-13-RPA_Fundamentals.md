@@ -2,8 +2,8 @@
 layout: post
 section-type: post
 title: RPA UiPath Fundamentals
-categories: ['programming']
-tags: [ 'automation','process','business']
+categories: ['programming','RPA']
+tags: [ 'automation','process','business','RPA']
 ---
 
 
